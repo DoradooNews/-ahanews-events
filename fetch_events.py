@@ -39,12 +39,39 @@ def find_value(obj, possible_keys):
 
     return ""
 
+def get_image(event):
+    emblem = event.get("emblemToShow")
+    if isinstance(emblem, dict) and emblem.get("url"):
+        return emblem.get("url")
+
+    credits = event.get("emblemCredits")
+    if isinstance(credits, dict) and credits.get("url"):
+        return credits.get("url")
+
+    image = find_value(event, [
+        "image",
+        "imageUrl",
+        "image_url",
+        "picture",
+        "thumbnailUrl",
+        "posterUrl",
+        "url"
+    ])
+
+    if isinstance(image, dict):
+        return image.get("url") or ""
+
+    if isinstance(image, str) and image.startswith("http"):
+        return image
+
+    return ""
+
 def normalize_event(event):
     title = text_de(find_value(event, ["title", "name", "eventTitle"]))
     date = find_value(event, ["startDate", "start", "date", "startTime", "begin"])
     city = text_de(find_value(event, ["city", "locationCity", "place", "town"]))
     url = find_value(event, ["url", "link", "eventUrl"])
-    image = find_value(event, ["image", "imageUrl", "picture", "thumbnailUrl", "posterUrl"])
+    image = get_image(event)
     category = text_de(find_value(event, ["category", "rubric", "type"]))
 
     return {
@@ -74,16 +101,14 @@ try:
         events_raw = []
 
     events = [normalize_event(event) for event in events_raw if isinstance(event, dict)]
-
-    # Nur Events behalten, die einen Titel haben
     events = [event for event in events if event["title"]]
 
     data = {
-    "status_code": response.status_code,
-    "count": len(events),
-    "first_raw_event": events_raw[0] if events_raw else {},
-    "events": events[:100]
-}
+        "status_code": response.status_code,
+        "count": len(events),
+        "first_raw_event": events_raw[0] if events_raw else {},
+        "events": events[:100]
+    }
 
 except Exception as e:
     data = {
