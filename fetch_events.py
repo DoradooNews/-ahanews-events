@@ -79,10 +79,11 @@ try:
     events = [event for event in events if event["title"]]
 
     data = {
-        "status_code": response.status_code,
-        "count": len(events),
-        "events": events[:100]
-    }
+    "status_code": response.status_code,
+    "count": len(events),
+    "first_raw_event": events_raw[0] if events_raw else {},
+    "events": events[:100]
+}
 
 except Exception as e:
     data = {
