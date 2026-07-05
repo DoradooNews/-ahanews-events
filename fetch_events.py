@@ -102,7 +102,15 @@ try:
 
     events = [normalize_event(event) for event in events_raw if isinstance(event, dict)]
     events = [event for event in events if event["title"]]
-
+events = [
+    event for event in events
+    if "basel" in (
+        event["title"] + " " +
+        event["city"] + " " +
+        event["url"] + " " +
+        event["category"]
+    ).lower()
+]
     data = {
         "status_code": response.status_code,
         "count": len(events),
