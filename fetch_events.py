@@ -69,20 +69,8 @@ def normalize_event(event):
     image = get_image(event)
     category = text_de(find_value(event, ["category", "rubric", "type"]))
 
-    location_ids = event.get("locationIds", [])
-    raw_location_text = str(find_value(event, [
-        "location",
-        "venue",
-        "address",
-        "place",
-        "street",
-        "zip",
-        "postalCode",
-        "city",
-        "town"
-    ]))
-
     debug_text = json.dumps(event, ensure_ascii=False).lower()
+    debug_has_basel = "basel" in debug_text
 
     return {
         "title": title,
@@ -91,9 +79,7 @@ def normalize_event(event):
         "url": url,
         "image": image,
         "category": category,
-        "locationIds": location_ids,
-        "raw_location_text": raw_location_text,
-        "debug_has_basel": "basel" in debug_text
+        "debug_has_basel": debug_has_basel
     }
 
 try:
@@ -116,14 +102,14 @@ try:
     events = [normalize_event(event) for event in events_raw if isinstance(event, dict)]
     events = [event for event in events if event["title"]]
 
-# Nur Basel Events aus Rohdaten
-events = [event for event in events if event["debug_has_basel"]]
+    # Nur Basel Events
+    events = [event for event in events if event["debug_has_basel"]]
 
-data = {
-    "status_code": response.status_code,
-    "count": len(events),
-    "events": events[:100]
-}
+    data = {
+        "status_code": response.status_code,
+        "count": len(events),
+        "events": events[:100]
+    }
 
 except Exception as e:
     data = {
