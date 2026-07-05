@@ -1,8 +1,12 @@
-[
-  {
-    "title": "Test Event Aha News",
-    "date": "2026-07-10",
-    "city": "Romanshorn",
-    "url": "https://www.ahanews.ch/event-erfassen/"
+{
+  "status_code": 401,
+  "response": "{\"status\":401,\"title\":\"Unauthorized\",\"detail\":\"Please provide a bearer token\",\"instance\":\"/public/v1/events\",\"serviceVersion\":\"1.17.1\",\"requestId\":\"e0b79186-bdf2-4c8a-90c9-48e586bf9dfc\"}",
+  "json": {
+    "status": 401,
+    "title": "Unauthorized",
+    "detail": "Please provide a bearer token",
+    "instance": "/public/v1/events",
+    "serviceVersion": "1.17.1",
+    "requestId": "e0b79186-bdf2-4c8a-90c9-48e586bf9dfc"
   }
-]
+}
