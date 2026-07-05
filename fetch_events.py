@@ -105,7 +105,6 @@ try:
     events = [event for event in events if event["title"]]
 
     # Nur Basel Events
-    events = [event for event in events if event["debug_has_basel"]]
 
     data = {
         "status_code": response.status_code,
