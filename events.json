@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 8,
-  "locations_loaded": 396,
+  "count": 10,
+  "locations_loaded": 399,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -72,6 +72,24 @@
       "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/crossroad-home-in-motion-7470514627777930030.html",
       "image": "https://eventfrog.net/upload/rm/ku/ha/kuha-2026-crossroads-insta-slide-108-TJZPOSXA.webp?_=1781236785000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Basenfasten im Kraftort Bad Ramsach",
+      "date": "2026-07-05T15:00:00+02:00",
+      "city": "Läufelfingen",
+      "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/basenfasten-im-kraftort-bad-ramsach-7353403841075787555.html",
+      "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-basen-G229VMHM.webp?_=1783240746686",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Is This Anything? - A Comedy Show",
+      "date": "2026-07-05T19:30:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/en/p/theatre-stage/comedy-cabaret/is-this-anything-a-comedy-show-7461345420234469003.html",
+      "image": "https://eventfrog.net/upload/rm/it/ab/ita-banner-v2-QIALXSBB.webp",
       "category": "",
       "debug_has_basel": true
     }
