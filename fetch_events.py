@@ -12,26 +12,40 @@ headers = {
 }
 
 params = {
-    "limit": 50
+    "limit": 100
 }
 
-def pick(obj, keys, default=""):
-    for key in keys:
-        if isinstance(obj, dict) and key in obj and obj[key]:
-            return obj[key]
-    return default
+def text_de(value):
+    if isinstance(value, dict):
+        return value.get("de") or value.get("en") or value.get("fr") or ""
+    return value or ""
+
+def find_value(obj, possible_keys):
+    if isinstance(obj, dict):
+        for key in possible_keys:
+            if key in obj and obj[key]:
+                return obj[key]
+
+        for value in obj.values():
+            found = find_value(value, possible_keys)
+            if found:
+                return found
+
+    elif isinstance(obj, list):
+        for item in obj:
+            found = find_value(item, possible_keys)
+            if found:
+                return found
+
+    return ""
 
 def normalize_event(event):
-    title = pick(event, ["title", "name", "eventTitle"])
-    date = pick(event, ["startDate", "start", "date", "startTime"])
-    city = pick(event, ["city", "locationCity", "place"])
-    url = pick(event, ["url", "link", "eventUrl"])
-    image = pick(event, ["image", "imageUrl", "picture", "thumbnailUrl"])
-    category = pick(event, ["category", "rubric", "type"])
-
-    location = pick(event, ["location", "venue"], {})
-    if not city and isinstance(location, dict):
-        city = pick(location, ["city", "name"])
+    title = text_de(find_value(event, ["title", "name", "eventTitle"]))
+    date = find_value(event, ["startDate", "start", "date", "startTime", "begin"])
+    city = text_de(find_value(event, ["city", "locationCity", "place", "town"]))
+    url = find_value(event, ["url", "link", "eventUrl"])
+    image = find_value(event, ["image", "imageUrl", "picture", "thumbnailUrl", "posterUrl"])
+    category = text_de(find_value(event, ["category", "rubric", "type"]))
 
     return {
         "title": title,
@@ -61,10 +75,13 @@ try:
 
     events = [normalize_event(event) for event in events_raw if isinstance(event, dict)]
 
+    # Nur Events behalten, die einen Titel haben
+    events = [event for event in events if event["title"]]
+
     data = {
         "status_code": response.status_code,
         "count": len(events),
-        "events": events
+        "events": events[:100]
     }
 
 except Exception as e:
