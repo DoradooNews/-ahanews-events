@@ -103,6 +103,7 @@ try:
 
     events = [normalize_event(event) for event in events_raw if isinstance(event, dict)]
     events = [event for event in events if event["title"]]
+    events = [event for event in events if event["debug_has_basel"]]
 
     # Nur Basel Events
 
