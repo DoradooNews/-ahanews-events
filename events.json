@@ -1,6 +1,53 @@
 {
   "status_code": 200,
   "count": 1000,
+  "first_raw_event": {
+    "id": "7438169368163314223",
+    "groupId": "0",
+    "rubricId": 5,
+    "title": {
+      "de": "Weckerrasseln",
+      "en": null,
+      "fr": null
+    },
+    "url": "https://eventfrog.de/de/p/freizeit-ausfluege/ausflug/weckerrasseln-7438169368163314223.html",
+    "organizerName": "Doreen  Stopporka",
+    "presaleLink": "https://www.turisede.com/",
+    "presaleText": "Tickets erhältlich auf  unserer Webseite oder vor Ort an der Kasse",
+    "emblemToShow": {
+      "url": "https://eventfrog.net/upload/rm/er/oe/eroeffnungsplakat-final-kopie-Z34FEEP7.webp?_=1773397772000",
+      "width": 784,
+      "height": 479
+    },
+    "emblemCredits": "Die Geheimem Welt von Turisede",
+    "begin": "2026-03-27T10:00:00+01:00",
+    "end": "2026-11-08T00:00:00+01:00",
+    "cancelled": false,
+    "visible": true,
+    "published": true,
+    "agendaEntryOnly": true,
+    "littleTicketsLeft": null,
+    "soldOut": null,
+    "locationIds": [
+      "7029397843564474277"
+    ],
+    "locationAlias": {
+      "de": "Die Geheime Welt von Turisede",
+      "en": null,
+      "fr": null
+    },
+    "modifyDate": "2026-03-13T10:31:53Z",
+    "shortDescription": {
+      "de": "«Die Geheime Welt von Turisede» eröffnet am 27.3.2026 mit neuem Programm, Baumhaus-Hotel, tierischen Highlights und Wellness.",
+      "en": null,
+      "fr": null
+    },
+    "descriptionAsHTML": {
+      "de": "<p>27.03.2026 — der Moment, auf den wir den ganzen Winter gewartet haben. Nach Monaten der Vorbereitung, Erneuerungen und der Erschaffung neuer Geschichten öffnet „Die Geheime Welt von Turisede“ ihre Türen. Und diese Saison verspricht, etwas ganz Besonderes zu werden.</p>\n<p>Aufgewacht hoch oben in den Baumkronen, ein leichter Wind, hölzerne Stege, eine Welt, die nach ihren eigenen Gesetzen lebt. Einzigartige Baumhäuser — im ersten und immer noch schönsten Baumhaushotel Deutschlands. Das ist nicht nur eine Übernachtung. Das ist eine Erinnerung, die Sie über Jahre begleiten wird.</p>\n<p>Turisede ist ein Ort, an dem Erwachsene wieder zu Kindern werden und an dem jeder Schritt fühlbar eine neue Entdeckung ist. Hier beobachtet man nicht. Hier erlebt man gemeinsam.</p>\n<p>🎭 Neue Saison — neue Geschichten.</p>\n<p>Das neueste Programm der turisedischen „Krönumsdinnershow“ bereitet Ihnen eine Explosion der Emotionen. „Kürbiskomplott“ — Intrigen, Rivalität, Gesang, Tanz und die Leidenschaften des alten Volkes der Turiseder. Das ist nicht nur ein Abendessen. Das ist ein Schauspiel, in dem Sie Teil einer Legende werden. Und das alles — begleitet von einer exquisiten Küche.</p>\n<p>🌿 Und dann noch mehr – die turisedische Tierwelt freut sich auf Euch. 26 Arten und mehr als 100 Tiere. Kühe auf dem Dach. Ziegen mit vier Hörnern. Der Papagei Coco, der die Gäste am Eingang begrüßt und bei guter Laune in mindestens 11 Sprachen antwortet.</p>\n<p>Echte Abenteuer, Routen, Rätsel, Brücken, Türme, geheime Pfade. Hier ist es unmöglich, alles an einem Tag zu entdecken. 🍺 … und dann noch Tagesausklang im turisedischen Wellnessbereich, dem Faulenzum.</p>\n<p>📅 Der Veranstaltungskalender ist bereits auf turisede.com verfügbar. Planen Sie im Voraus. Wählen Sie Ihre Termine. Reservieren Sie Ihr Baumhaus. Kommen Sie mit der Familie oder mit Freunden — aber warten Sie nicht zu lange, denn viele Wunschtermine sind bereits stark nachgefragt.</p>\n<p>Denn das Beste, was wir im Leben erleben können, ist das Geheimnisvolle.</p>",
+      "en": null,
+      "fr": null
+    }
+  },
   "events": [
     {
       "title": "Weckerrasseln",
@@ -139,6 +186,14 @@
       "category": ""
     },
     {
+      "title": "Wechselausstellung - Gesicht zeigen",
+      "date": "2026-04-01T00:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/wechselausstellung-gesicht-zeigen-7444519373279131953.html",
+      "image": "",
+      "category": ""
+    },
+    {
       "title": "Die Eiserne Jungfrau",
       "date": "2026-04-01T00:00:00+02:00",
       "city": "",
@@ -151,14 +206,6 @@
       "date": "2026-04-01T00:00:00+02:00",
       "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/refugium-kyburg-sophie-schaeppi-lea-schaffner-7443432647647344024.html",
-      "image": "",
-      "category": ""
-    },
-    {
-      "title": "Wechselausstellung - Gesicht zeigen",
-      "date": "2026-04-01T00:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/wechselausstellung-gesicht-zeigen-7444519373279131953.html",
       "image": "",
       "category": ""
     },
@@ -755,18 +802,18 @@
       "category": ""
     },
     {
-      "title": "Lamrim Meditationen",
-      "date": "2026-04-16T19:30:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.de/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/lamrim-meditationen-7415770087129404187.html",
-      "image": "",
-      "category": ""
-    },
-    {
       "title": "Sound Bath Stein am Rhein",
       "date": "2026-04-16T19:30:00+02:00",
       "city": "",
       "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/sound-bath-stein-am-rhein-7429222784532743048.html",
+      "image": "",
+      "category": ""
+    },
+    {
+      "title": "Lamrim Meditationen",
+      "date": "2026-04-16T19:30:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.de/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/lamrim-meditationen-7415770087129404187.html",
       "image": "",
       "category": ""
     },
