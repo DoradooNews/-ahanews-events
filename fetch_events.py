@@ -12,7 +12,7 @@ headers = {
 }
 
 params = {
-    "limit": 100
+    "limit": 1000
 }
 
 def text_de(value):
@@ -44,18 +44,13 @@ def get_image(event):
     if isinstance(emblem, dict) and emblem.get("url"):
         return emblem.get("url")
 
-    credits = event.get("emblemCredits")
-    if isinstance(credits, dict) and credits.get("url"):
-        return credits.get("url")
-
     image = find_value(event, [
         "image",
         "imageUrl",
         "image_url",
         "picture",
         "thumbnailUrl",
-        "posterUrl",
-        "url"
+        "posterUrl"
     ])
 
     if isinstance(image, dict):
@@ -102,19 +97,21 @@ try:
 
     events = [normalize_event(event) for event in events_raw if isinstance(event, dict)]
     events = [event for event in events if event["title"]]
-events = [
-    event for event in events
-    if "basel" in (
-        event["title"] + " " +
-        event["city"] + " " +
-        event["url"] + " " +
-        event["category"]
-    ).lower()
-]
+
+    # Nur Basel Events
+    events = [
+        event for event in events
+        if "basel" in (
+            event["title"] + " " +
+            event["city"] + " " +
+            event["url"] + " " +
+            event["category"]
+        ).lower()
+    ]
+
     data = {
         "status_code": response.status_code,
         "count": len(events),
-        "first_raw_event": events_raw[0] if events_raw else {},
         "events": events[:100]
     }
 
