@@ -69,13 +69,31 @@ def normalize_event(event):
     image = get_image(event)
     category = text_de(find_value(event, ["category", "rubric", "type"]))
 
+    location_ids = event.get("locationIds", [])
+    raw_location_text = str(find_value(event, [
+        "location",
+        "venue",
+        "address",
+        "place",
+        "street",
+        "zip",
+        "postalCode",
+        "city",
+        "town"
+    ]))
+
+    debug_text = json.dumps(event, ensure_ascii=False).lower()
+
     return {
         "title": title,
         "date": date,
         "city": city,
         "url": url,
         "image": image,
-        "category": category
+        "category": category,
+        "locationIds": location_ids,
+        "raw_location_text": raw_location_text,
+        "debug_has_basel": "basel" in debug_text
     }
 
 try:
@@ -98,20 +116,11 @@ try:
     events = [normalize_event(event) for event in events_raw if isinstance(event, dict)]
     events = [event for event in events if event["title"]]
 
-    # Nur Basel Events
-    events = [
-        event for event in events
-        if "basel" in (
-            event["title"] + " " +
-            event["city"] + " " +
-            event["url"] + " " +
-            event["category"]
-        ).lower()
-    ]
-
+    # Jetzt NICHT filtern, damit wir prüfen können
     data = {
         "status_code": response.status_code,
         "count": len(events),
+        "events_with_basel_in_raw": len([e for e in events if e["debug_has_basel"]]),
         "events": events[:100]
     }
 
