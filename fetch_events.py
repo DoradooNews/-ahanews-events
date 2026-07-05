@@ -12,7 +12,9 @@ headers = {
 }
 
 params = {
-    "limit": 1000
+    "limit": 1000,
+    "location": "basel",
+    "geoRadius": 10
 }
 
 def text_de(value):
