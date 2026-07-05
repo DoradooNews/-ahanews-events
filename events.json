@@ -1,6 +1,6 @@
 {
   "status_code": 200,
-  "count": 10,
+  "count": 9,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -80,15 +80,6 @@
       "city": "",
       "url": "https://eventfrog.ch/de/p/partys/house-techno/callush-kloud-netzwerk-afterparty-7468269694148958860.html",
       "image": "https://eventfrog.net/upload/rm/nw/f2/nwf26-afterparty-feed-KNWLREOX-37ZDUBGX.webp?_=1780971270000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "NEW WAVE @ AVA CLUB BASEL",
-      "date": "2026-07-04T23:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/partys/studentenparty/new-wave-ava-club-basel-7477089140250554401.html",
-      "image": "https://res.eventfrog.net/production_res_public/img-2497-8PZ6CEIS.webp?_=1782677477000",
       "category": "",
       "debug_has_basel": true
     }
