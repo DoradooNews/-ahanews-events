@@ -116,13 +116,14 @@ try:
     events = [normalize_event(event) for event in events_raw if isinstance(event, dict)]
     events = [event for event in events if event["title"]]
 
-    # Jetzt NICHT filtern, damit wir prüfen können
-    data = {
-        "status_code": response.status_code,
-        "count": len(events),
-        "events_with_basel_in_raw": len([e for e in events if e["debug_has_basel"]]),
-        "events": events[:100]
-    }
+# Nur Basel Events aus Rohdaten
+events = [event for event in events if event["debug_has_basel"]]
+
+data = {
+    "status_code": response.status_code,
+    "count": len(events),
+    "events": events[:100]
+}
 
 except Exception as e:
     data = {
