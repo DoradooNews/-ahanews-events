@@ -8,7 +8,7 @@ URL = "https://api.eventfrog.net/public/v1/events"
 
 headers = {
     "Accept": "application/json",
-    "X-API-Key": API_KEY
+    "Authorization": f"Bearer {API_KEY}"
 }
 
 params = {
