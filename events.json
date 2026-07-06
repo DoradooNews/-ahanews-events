@@ -1,12 +1,12 @@
 {
   "status_code": 200,
-  "count": 11,
-  "locations_loaded": 399,
+  "count": 9,
+  "locations_loaded": 402,
   "events": [
     {
       "title": "Tag der offenen Tür",
       "date": "2026-03-29T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353079737621.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -15,7 +15,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-04-26T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353134263574.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -24,7 +24,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-05-31T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353633385753.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -42,7 +42,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-06-28T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353729854746.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -69,7 +69,7 @@
     {
       "title": "Crossroad – Home in Motion",
       "date": "2026-07-04T14:00:00+02:00",
-      "city": "Luzern",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/crossroad-home-in-motion-7470514627777930030.html",
       "image": "https://eventfrog.net/upload/rm/ku/ha/kuha-2026-crossroads-insta-slide-108-TJZPOSXA.webp?_=1781236785000",
       "category": "",
@@ -78,27 +78,9 @@
     {
       "title": "Basenfasten im Kraftort Bad Ramsach",
       "date": "2026-07-05T15:00:00+02:00",
-      "city": "Läufelfingen",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/basenfasten-im-kraftort-bad-ramsach-7353403841075787555.html",
       "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-basen-G229VMHM.webp?_=1783240746000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Ein Entwurf macht Schule",
-      "date": "2026-07-06T08:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368119026689541.html",
-      "image": "https://eventfrog.net/upload/rm/cf/33/cf33cb8aea2834caababa972c265f4550874-23UJZ1PG.webp?_=1782349049000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Sommer Kreativwochen für kinder 5-14 Jahren",
-      "date": "2026-07-06T09:30:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/en/p/events-for-children/holiday-programme/sommer-kreativwochen-fuer-kinder-5-14-jahren-7478777922930626684.html",
-      "image": "https://res.eventfrog.net/production_res_public/whatsapp-image-2026-07-03-at-14-43-31.webp?_=1783079403000",
       "category": "",
       "debug_has_basel": true
     }
