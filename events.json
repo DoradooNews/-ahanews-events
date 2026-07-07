@@ -1,12 +1,12 @@
 {
   "status_code": 200,
-  "count": 9,
+  "count": 13,
   "locations_loaded": 402,
   "events": [
     {
       "title": "Tag der offenen Tür",
       "date": "2026-03-29T14:00:00+02:00",
-      "city": "Pratteln",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353079737621.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -15,7 +15,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-04-26T14:00:00+02:00",
-      "city": "Pratteln",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353134263574.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -24,7 +24,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-05-31T14:00:00+02:00",
-      "city": "Pratteln",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353633385753.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -42,7 +42,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-06-28T14:00:00+02:00",
-      "city": "Pratteln",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353729854746.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -62,14 +62,14 @@
       "date": "2026-07-03T19:00:00+02:00",
       "city": "",
       "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/barhopping-fuer-singles-7426562203887646087.html",
-      "image": "https://eventfrog.net/upload/rm/b9/8f/b98f2b85d446e15d28ffac3fbc30ee06d7e2d6bb-813460260.webp",
+      "image": "https://res.eventfrog.net/production_res_public/b98f2b85d446e15d28ffac3fbc30ee06d7e2-FVMHUVB8.webp?_=1783399899000",
       "category": "",
       "debug_has_basel": true
     },
     {
       "title": "Crossroad – Home in Motion",
       "date": "2026-07-04T14:00:00+02:00",
-      "city": "",
+      "city": "Luzern",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/crossroad-home-in-motion-7470514627777930030.html",
       "image": "https://eventfrog.net/upload/rm/ku/ha/kuha-2026-crossroads-insta-slide-108-TJZPOSXA.webp?_=1781236785000",
       "category": "",
@@ -81,6 +81,42 @@
       "city": "",
       "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/basenfasten-im-kraftort-bad-ramsach-7353403841075787555.html",
       "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-basen-G229VMHM.webp?_=1783240746000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Ein Entwurf macht Schule",
+      "date": "2026-07-07T08:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368119064438279.html",
+      "image": "https://eventfrog.net/upload/rm/cf/33/cf33cb8aea2834caababa972c265f4550874-23UJZ1PG.webp?_=1782349049000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Traditioneller Monatsmarkt im Stedli Laufen",
+      "date": "2026-07-07T08:30:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/traditioneller-monatsmarkt-im-stedli-laufen-7414309166548837546.html",
+      "image": "https://res.eventfrog.net/production_res_public/foto-markt-2-W1IJF4YD-OBLV2UB8.webp?_=1783394155503",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Coming soon - City Walk Basel - blindekuh Basel",
+      "date": "2026-07-07T09:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/coming-soon-city-walk-basel-blindekuh-basel-7458459595654042250.html",
+      "image": "https://eventfrog.net/upload/rm/ci/ty/city-walk-bild-ohne-schrift-HJRI3GDE-K5HIJ651.webp?_=1778662392000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Sinnesparcours im Dunkeln ·  blindekuh Basel",
+      "date": "2026-07-07T09:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/kurse-seminare/soziale-weiterbildung/sinnesparcours-im-dunkeln-blindekuh-basel-7458595626873285137.html",
+      "image": "https://eventfrog.net/upload/rm/bl/in/blindekuh-basel-2027-4c2f178e-218XGQ-4PE0M0ZA.webp?_=1778662442000",
       "category": "",
       "debug_has_basel": true
     }
