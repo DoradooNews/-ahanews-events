@@ -1,12 +1,12 @@
 {
   "status_code": 200,
   "count": 11,
-  "locations_loaded": 409,
+  "locations_loaded": 408,
   "events": [
     {
       "title": "Tag der offenen Tür",
       "date": "2026-04-26T14:00:00+02:00",
-      "city": "Pratteln",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353134263574.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -15,7 +15,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-05-31T14:00:00+02:00",
-      "city": "Pratteln",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353633385753.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -33,7 +33,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-06-28T14:00:00+02:00",
-      "city": "Pratteln",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353729854746.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -51,7 +51,7 @@
     {
       "title": "Barhopping für Singles",
       "date": "2026-07-03T19:00:00+02:00",
-      "city": "",
+      "city": "Winterthur",
       "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/barhopping-fuer-singles-7426562203887646087.html",
       "image": "https://res.eventfrog.net/production_res_public/b98f2b85d446e15d28ffac3fbc30ee06d7e2-FVMHUVB8.webp?_=1783399899000",
       "category": "",
@@ -76,29 +76,29 @@
       "debug_has_basel": true
     },
     {
-      "title": "Traditionelle Tavolata in der Osteria Tre im Bad Bubendorf",
-      "date": "2026-07-08T18:00:00+02:00",
+      "title": "Ein Entwurf macht Schule",
+      "date": "2026-07-09T08:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/traditionelle-tavolata-in-der-osteria-tre-im-bad-bubendorf-7403764065082838631.html",
-      "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-jazz--JOV89WT3.webp?_=1783343606000",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368119139935755.html",
+      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459193",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "TABLE for TWO in der blindekuh Basel",
-      "date": "2026-07-08T18:30:00+02:00",
+      "title": "Sinnesparcours im Dunkeln ·  blindekuh Basel",
+      "date": "2026-07-09T09:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/table-for-two-in-der-blindekuh-basel-7458594949673546935.html",
-      "image": "https://res.eventfrog.net/production_res_public/1877866-QT1DA004-NT8RC0J8-FRI1BOSY.webp?_=1783480843000",
+      "url": "https://eventfrog.ch/de/p/kurse-seminare/soziale-weiterbildung/sinnesparcours-im-dunkeln-blindekuh-basel-7458595626948782613.html",
+      "image": "https://res.eventfrog.net/production_res_public/blindekuh-basel-2027-4c2f178e-218XGQ-3MDZURZH.webp?_=1783480849623",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "ESSEN im DUNKLEN - DINNER in the DARK - blindekuh Basel",
-      "date": "2026-07-08T18:30:00+02:00",
+      "title": "Coming soon - City Walk Basel - blindekuh Basel",
+      "date": "2026-07-09T09:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/essen-im-dunklen-dinner-in-the-dark-blindekuh-basel-7458472812707093472.html",
-      "image": "https://res.eventfrog.net/production_res_public/dsc0290-0L21RAH2-BS8BCG6L-D8YQGXSX.webp?_=1783480886417",
+      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/coming-soon-city-walk-basel-blindekuh-basel-7458459595725345422.html",
+      "image": "https://res.eventfrog.net/production_res_public/city-walk-bild-ohne-schrift-HJRI3GDE-PN6JH9F6.webp?_=1783480810887",
       "category": "",
       "debug_has_basel": true
     }
