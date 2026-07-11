@@ -1,7 +1,7 @@
 {
   "status_code": 200,
   "count": 12,
-  "locations_loaded": 418,
+  "locations_loaded": 421,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -85,29 +85,29 @@
       "debug_has_basel": true
     },
     {
-      "title": "Traditionelle Tavolata in der Osteria Tre im Bad Bubendorf",
-      "date": "2026-07-10T18:00:00+02:00",
+      "title": "Stoos Ridge Hike",
+      "date": "2026-07-11T06:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/traditionelle-tavolata-in-der-osteria-tre-im-bad-bubendorf-7403764065208667756.html",
-      "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-jazz--JOV89WT3.webp?_=1783343606000",
+      "url": "https://eventfrog.ch/en/p/leisure-excursions/hiking-tour/stoos-ridge-hike-7476970170595977290.html",
+      "image": "https://res.eventfrog.net/production_res_public/stoos-esn-fhnw-3CNMHWBQ.webp?_=1782648605000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "ESSEN im DUNKLEN - DINNER in the DARK - blindekuh Basel",
-      "date": "2026-07-10T18:00:00+02:00",
+      "title": "Buchung von Ermitage- oder Dorfführung in Arlesheim",
+      "date": "2026-07-11T08:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/essen-im-dunklen-dinner-in-the-dark-blindekuh-basel-7458469018917175731.html",
-      "image": "https://res.eventfrog.net/production_res_public/dsc0290-0L21RAH2-BS8BCG6L-D8YQGXSX.webp?_=1783480886417",
+      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/buchung-von-ermitage-oder-dorffuehrung-in-arlesheim-7448625105838559187.html",
+      "image": "https://res.eventfrog.net/production_res_public/ermitage-ente-4MFEWFRV-6DN6YMBL.webp?_=1783455899000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "TABLE for TWO in der blindekuh Basel",
-      "date": "2026-07-10T18:00:00+02:00",
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-07-11T09:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/table-for-two-in-der-blindekuh-basel-7458463954337035577.html",
-      "image": "https://res.eventfrog.net/production_res_public/1877866-QT1DA004-NT8RC0J8-FRI1BOSY.webp?_=1783480843000",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367684644395471.html",
+      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
     }
