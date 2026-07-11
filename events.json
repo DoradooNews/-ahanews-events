@@ -1,7 +1,7 @@
 {
   "status_code": 200,
   "count": 12,
-  "locations_loaded": 421,
+  "locations_loaded": 423,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -67,38 +67,11 @@
       "debug_has_basel": true
     },
     {
-      "title": "Basenfasten im Kraftort Bad Ramsach",
-      "date": "2026-07-05T15:00:00+02:00",
-      "city": "Läufelfingen",
-      "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/basenfasten-im-kraftort-bad-ramsach-7353403841075787555.html",
-      "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-basen-G229VMHM.webp?_=1783240746000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Biker Days Basel",
       "date": "2026-07-10T00:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/festivals/weitere-festivals/biker-days-basel-7460258742560391046.html",
       "image": "https://res.eventfrog.net/production_res_public/bdb26-flyer-YC8CG26J-1PVY3XY0-10AJ40AY.webp?_=1783484194000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Stoos Ridge Hike",
-      "date": "2026-07-11T06:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/en/p/leisure-excursions/hiking-tour/stoos-ridge-hike-7476970170595977290.html",
-      "image": "https://res.eventfrog.net/production_res_public/stoos-esn-fhnw-3CNMHWBQ.webp?_=1782648605000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Buchung von Ermitage- oder Dorfführung in Arlesheim",
-      "date": "2026-07-11T08:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/buchung-von-ermitage-oder-dorffuehrung-in-arlesheim-7448625105838559187.html",
-      "image": "https://res.eventfrog.net/production_res_public/ermitage-ente-4MFEWFRV-6DN6YMBL.webp?_=1783455899000",
       "category": "",
       "debug_has_basel": true
     },
@@ -108,6 +81,33 @@
       "city": "",
       "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367684644395471.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Broncos Fanbus zum Junior Bowl U19 und Swissbowl 2026",
+      "date": "2026-07-11T10:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/sport-fitness/american-football/broncos-fanbus-zum-junior-bowl-u19-und-swissbowl-2026-7478820796678284089.html",
+      "image": "https://res.eventfrog.net/production_res_public/story-signings-und-gameday-instagram-I9Z49K98.webp?_=1783092193000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Fanbus Bern Grizzlies Family + Friends Swiss Bowl Basel 2026",
+      "date": "2026-07-11T10:30:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/sport-fitness/american-football/fanbus-bern-grizzlies-family-friends-swiss-bowl-basel-2026-7478512149922320507.html",
+      "image": "https://res.eventfrog.net/production_res_public/r1-0377-V2A3BI6P.webp?_=1783233175000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Seelenklang Festival",
+      "date": "2026-07-11T14:00:00+02:00",
+      "city": "Grellingen",
+      "url": "https://eventfrog.ch/de/p/festivals/electronic/seelenklang-festival-7434909291067241192.html",
+      "image": "https://res.eventfrog.net/production_res_public/img-2696-77VUZ52M.png?_=1783367753000",
       "category": "",
       "debug_has_basel": true
     }
