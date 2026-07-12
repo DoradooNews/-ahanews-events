@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 12,
-  "locations_loaded": 423,
+  "count": 8,
+  "locations_loaded": 406,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -67,47 +67,11 @@
       "debug_has_basel": true
     },
     {
-      "title": "Biker Days Basel",
-      "date": "2026-07-10T00:00:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/festivals/weitere-festivals/biker-days-basel-7460258742560391046.html",
-      "image": "https://res.eventfrog.net/production_res_public/bdb26-flyer-YC8CG26J-1PVY3XY0-10AJ40AY.webp?_=1783484194000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-07-11T09:00:00+02:00",
+      "date": "2026-07-12T09:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367684644395471.html",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367684682144209.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Broncos Fanbus zum Junior Bowl U19 und Swissbowl 2026",
-      "date": "2026-07-11T10:00:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/sport-fitness/american-football/broncos-fanbus-zum-junior-bowl-u19-und-swissbowl-2026-7478820796678284089.html",
-      "image": "https://res.eventfrog.net/production_res_public/story-signings-und-gameday-instagram-I9Z49K98.webp?_=1783092193000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Fanbus Bern Grizzlies Family + Friends Swiss Bowl Basel 2026",
-      "date": "2026-07-11T10:30:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/sport-fitness/american-football/fanbus-bern-grizzlies-family-friends-swiss-bowl-basel-2026-7478512149922320507.html",
-      "image": "https://res.eventfrog.net/production_res_public/r1-0377-V2A3BI6P.webp?_=1783233175000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Seelenklang Festival",
-      "date": "2026-07-11T14:00:00+02:00",
-      "city": "Grellingen",
-      "url": "https://eventfrog.ch/de/p/festivals/electronic/seelenklang-festival-7434909291067241192.html",
-      "image": "https://res.eventfrog.net/production_res_public/img-2696-77VUZ52M.png?_=1783367753000",
       "category": "",
       "debug_has_basel": true
     }
