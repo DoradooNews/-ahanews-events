@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 8,
-  "locations_loaded": 406,
+  "count": 10,
+  "locations_loaded": 413,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -51,7 +51,7 @@
     {
       "title": "Barhopping für Singles",
       "date": "2026-07-03T19:00:00+02:00",
-      "city": "",
+      "city": "Winterthur",
       "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/barhopping-fuer-singles-7426562203887646087.html",
       "image": "https://res.eventfrog.net/production_res_public/b98f2b85d446e15d28ffac3fbc30ee06d7e2-FVMHUVB8.webp?_=1783399899000",
       "category": "",
@@ -72,6 +72,24 @@
       "city": "",
       "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367684682144209.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Säure-Basenfasten im Fastenhotel Bad Ramsach",
+      "date": "2026-07-12T15:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/saeure-basenfasten-im-fastenhotel-bad-ramsach-7379141249217856274.html",
+      "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-faste-UKSBZ32H.webp?_=1783286442000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Is This Anything? - A Comedy Show",
+      "date": "2026-07-12T19:30:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/en/p/theatre-stage/comedy-cabaret/is-this-anything-a-comedy-show-7461345860472837665.html",
+      "image": "https://res.eventfrog.net/production_res_public/ita-banner-v2-QIALXSBB-C3K81JPD.webp?_=1783485680000",
       "category": "",
       "debug_has_basel": true
     }
