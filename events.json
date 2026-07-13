@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 16,
-  "locations_loaded": 396,
+  "count": 10,
+  "locations_loaded": 397,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -51,7 +51,7 @@
     {
       "title": "Barhopping für Singles",
       "date": "2026-07-03T19:00:00+02:00",
-      "city": "",
+      "city": "Winterthur",
       "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/barhopping-fuer-singles-7426562203887646087.html",
       "image": "https://res.eventfrog.net/production_res_public/b98f2b85d446e15d28ffac3fbc30ee06d7e2-FVMHUVB8.webp?_=1783399899000",
       "category": "",
@@ -76,15 +76,6 @@
       "debug_has_basel": true
     },
     {
-      "title": "Ein Entwurf macht Schule",
-      "date": "2026-07-13T08:00:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368119257376275.html",
-      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459193",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Harry P.Otter und die Zauberprüfung",
       "date": "2026-07-13T09:00:00+02:00",
       "city": "",
@@ -94,56 +85,11 @@
       "debug_has_basel": true
     },
     {
-      "title": "Sommer Kreativwochen für kinder 5-14 Jahren",
-      "date": "2026-07-13T09:30:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/en/p/events-for-children/holiday-programme/sommer-kreativwochen-fuer-kinder-5-14-jahren-7478777923119370384.html",
-      "image": "https://res.eventfrog.net/production_res_public/whatsapp-image-2026-07-03-at-14-43-31.webp?_=1783079403000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "title": "Pilgerreise ans Ende der Welt - Santiago, Muxía, Finisterre",
       "date": "2026-07-13T10:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412779746369504246.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-CVU8SU2H.webp?_=1783337858000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-07-13T10:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412779976687138778.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-49ZMDYQZ.webp?_=1783337837000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-07-13T10:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412787445463275196.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-RTBUZUX9.webp?_=1783337843000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-07-13T10:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412780136272029228.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-HI1N953P.webp?_=1783337839000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-07-13T10:00:00+02:00",
-      "city": "Biel",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412787226885553756.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-FZ1EV0DA.webp?_=1783337854000",
+      "url": "https://eventfrog.ch/de/p/freizeit-ausfluege/wanderung/pilgerreise-ans-ende-der-welt-santiago-muxia-finisterre-7460229649261421150.html",
+      "image": "https://res.eventfrog.net/production_res_public/p1100863-muxia-16x9-WO8G96KV-DS29EUV-2VW8O7L3.webp?_=1783484122000",
       "category": "",
       "debug_has_basel": true
     }
