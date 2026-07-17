@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 11,
-  "locations_loaded": 394,
+  "count": 14,
+  "locations_loaded": 388,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -69,7 +69,7 @@
     {
       "title": "Säure-Basenfasten im Fastenhotel Bad Ramsach",
       "date": "2026-07-12T15:00:00+02:00",
-      "city": "",
+      "city": "Läufelfingen",
       "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/saeure-basenfasten-im-fastenhotel-bad-ramsach-7379141249217856274.html",
       "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-faste-UKSBZ32H.webp?_=1783286442000",
       "category": "",
@@ -85,20 +85,47 @@
       "debug_has_basel": true
     },
     {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-07-16T09:00:00+02:00",
+      "title": "Ein Entwurf macht Schule",
+      "date": "2026-07-17T08:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367684841527770.html",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368119416759848.html",
+      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Coming soon - City Walk Basel - blindekuh Basel",
+      "date": "2026-07-17T09:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/coming-soon-city-walk-basel-blindekuh-basel-7458456625512211337.html",
+      "image": "https://res.eventfrog.net/production_res_public/city-walk-bild-ohne-schrift-HJRI3GDE-PN6JH9F6.webp?_=1783480810000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Sinnesparcours im Dunkeln ·  blindekuh Basel",
+      "date": "2026-07-17T09:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/kurse-seminare/soziale-weiterbildung/sinnesparcours-im-dunkeln-blindekuh-basel-7458466772124990665.html",
+      "image": "https://res.eventfrog.net/production_res_public/blindekuh-basel-2027-4c2f178e-218XGQ-3MDZURZH.webp?_=1783480849000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-07-17T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367684883470812.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "Glocken – Wolle  nach Margaret Raspé",
-      "date": "2026-07-16T18:00:00+02:00",
+      "title": "Yoga Studio",
+      "date": "2026-07-17T09:00:00+02:00",
       "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/weitere-kunstveranstaltungen/glocken-wolle-nach-margaret-raspe-7467227192021246704.html",
-      "image": "https://res.eventfrog.net/production_res_public/glockenwolleperformace-event-IZBHX4F-3DWL5F7G.webp?_=1783494779000",
+      "url": "https://eventfrog.ch/de/p/sport-fitness/yoga/yoga-studio-7430212385758046318.html",
+      "image": "https://res.eventfrog.net/production_res_public/gartenhaus-02shooting-21-3O4HL95F-4E0ISBKW.webp?_=1783409067000",
       "category": "",
       "debug_has_basel": true
     }
