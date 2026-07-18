@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 10,
-  "locations_loaded": 402,
+  "count": 12,
+  "locations_loaded": 400,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -85,10 +85,28 @@
       "debug_has_basel": true
     },
     {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-07-17T09:00:00+02:00",
+      "title": "Einführung ins zeitgenössische Zirkustraining",
+      "date": "2026-07-17T19:30:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/kurse-seminare/sport-fitness/einfuehrung-ins-zeitgenoessische-zirkustraining-7471113936433118377.html",
+      "image": "https://res.eventfrog.net/production_res_public/design-ohne-titel-6-EMZ9HFGC-G28YXAE-1359M07H.webp?_=1783501998000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Buchung von Ermitage- oder Dorfführung in Arlesheim",
+      "date": "2026-07-18T08:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367684883470812.html",
+      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/buchung-von-ermitage-oder-dorffuehrung-in-arlesheim-7448625105897279445.html",
+      "image": "https://res.eventfrog.net/production_res_public/ermitage-ente-4MFEWFRV-6DN6YMBL.webp?_=1783455899000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-07-18T09:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367684925413854.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
