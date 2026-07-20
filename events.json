@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 14,
-  "locations_loaded": 410,
+  "count": 10,
+  "locations_loaded": 408,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -76,56 +76,20 @@
       "debug_has_basel": true
     },
     {
-      "title": "Einführung ins zeitgenössische Zirkustraining",
-      "date": "2026-07-17T19:30:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/kurse-seminare/sport-fitness/einfuehrung-ins-zeitgenoessische-zirkustraining-7471113936433118377.html",
-      "image": "https://res.eventfrog.net/production_res_public/design-ohne-titel-6-EMZ9HFGC-G28YXAE-1359M07H.webp?_=1783501998000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Ein Entwurf macht Schule",
-      "date": "2026-07-20T08:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368119492257324.html",
-      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Harry P.Otter und die Zauberprüfung",
       "date": "2026-07-20T09:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685005105634.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "Sommer Kreativwochen für Kinder 5-14 Jahren",
-      "date": "2026-07-20T09:30:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/en/p/events-for-children/holiday-programme/sommer-kreativwochen-fuer-kinder-5-14-jahren-7478777923291336861.html",
-      "image": "https://res.eventfrog.net/production_res_public/whatsapp-image-2026-07-03-at-14-43-31.webp?_=1783079403000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-07-20T10:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412786363022477386.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-Q8RFPQHL.webp?_=1783337835000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-07-20T10:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412778070434703982.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-SCXQ39HC.webp?_=1783359821000",
+      "title": "Retreat: Der spirituelle Weg zur Erleuchtung",
+      "date": "2026-07-20T14:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/spiritualitaet/retreat-der-spirituelle-weg-zur-erleuchtung-7423317891842345188.html",
+      "image": "https://res.eventfrog.net/production_res_public/light-R3WKXEIO-A825D8SJ.webp?_=1783393083000",
       "category": "",
       "debug_has_basel": true
     }
