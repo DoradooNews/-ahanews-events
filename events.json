@@ -1,7 +1,7 @@
 {
   "status_code": 200,
   "count": 14,
-  "locations_loaded": 428,
+  "locations_loaded": 437,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -60,7 +60,7 @@
     {
       "title": "Crossroad – Home in Motion",
       "date": "2026-07-04T14:00:00+02:00",
-      "city": "",
+      "city": "Luzern",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/crossroad-home-in-motion-7470514627777930030.html",
       "image": "https://res.eventfrog.net/production_res_public/kuha-2026-crossroads-insta-slide-108-RRL4J745.webp?_=1783500746000",
       "category": "",
@@ -76,56 +76,56 @@
       "debug_has_basel": true
     },
     {
-      "title": "Einführung ins zeitgenössische Zirkustraining",
-      "date": "2026-07-17T19:30:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/kurse-seminare/sport-fitness/einfuehrung-ins-zeitgenoessische-zirkustraining-7471113936433118377.html",
-      "image": "https://res.eventfrog.net/production_res_public/design-ohne-titel-6-EMZ9HFGC-G28YXAE-1359M07H.webp?_=1783501998000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Retreat: Der spirituelle Weg zur Erleuchtung",
-      "date": "2026-07-20T14:00:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/spiritualitaet/retreat-der-spirituelle-weg-zur-erleuchtung-7423317891842345188.html",
-      "image": "https://res.eventfrog.net/production_res_public/light-R3WKXEIO-A825D8SJ.webp?_=1783393083000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Ein Entwurf macht Schule",
-      "date": "2026-07-24T08:00:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368119643252278.html",
-      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Coming soon - City Walk Basel - blindekuh Basel",
-      "date": "2026-07-24T09:00:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/coming-soon-city-walk-basel-blindekuh-basel-7458456625545765772.html",
-      "image": "https://res.eventfrog.net/production_res_public/city-walk-bild-ohne-schrift-HJRI3GDE-PN6JH9F6.webp?_=1783480810000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Sinnesparcours im Dunkeln ·  blindekuh Basel",
-      "date": "2026-07-24T09:00:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/kurse-seminare/soziale-weiterbildung/sinnesparcours-im-dunkeln-blindekuh-basel-7458466772162739403.html",
-      "image": "https://res.eventfrog.net/production_res_public/blindekuh-basel-2027-4c2f178e-218XGQ-3MDZURZH.webp?_=1783480849000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Harry P.Otter und die Zauberprüfung",
       "date": "2026-07-24T09:00:00+02:00",
       "city": "Basel",
       "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685168683500.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "King Folami & Friends Summer party",
+      "date": "2026-07-24T10:25:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/en/p/musicals-shows/musical/king-folami-friends-summer-party-7480734968299159223.html",
+      "image": "https://res.eventfrog.net/production_res_public/chatgpt-image-jul-8-2026-11-28-26-pm-SO3TEUIM.webp?_=1783546202000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "TABLE for TWO in der blindekuh Basel",
+      "date": "2026-07-24T18:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/essen-trinken/table-for-two-in-der-blindekuh-basel-7458463954404144446.html",
+      "image": "https://res.eventfrog.net/production_res_public/1877866-QT1DA004-NT8RC0J8-FRI1BOSY.webp?_=1783480843000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "ESSEN im DUNKLEN - DINNER in the DARK - blindekuh Basel",
+      "date": "2026-07-24T18:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/essen-trinken/essen-im-dunklen-dinner-in-the-dark-blindekuh-basel-7458469018996867511.html",
+      "image": "https://res.eventfrog.net/production_res_public/dsc0290-0L21RAH2-BS8BCG6L-D8YQGXSX.webp?_=1783480886000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Traditionelle Tavolata in der Osteria Tre im Bad Bubendorf",
+      "date": "2026-07-24T18:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/essen-trinken/traditionelle-tavolata-in-der-osteria-tre-im-bad-bubendorf-7403764065791676030.html",
+      "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-jazz--JOV89WT3.webp?_=1783343606000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Barhopping für Singles",
+      "date": "2026-07-24T19:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/barhopping-fuer-singles-7425407412411079166.html",
+      "image": "https://res.eventfrog.net/production_res_public/5fe78ddc4205371cd032fd70719cdb732710-X4B5H6AP.webp?_=1783397712000",
       "category": "",
       "debug_has_basel": true
     }
