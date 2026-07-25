@@ -1,12 +1,12 @@
 {
   "status_code": 200,
-  "count": 14,
-  "locations_loaded": 437,
+  "count": 12,
+  "locations_loaded": 430,
   "events": [
     {
       "title": "Tag der offenen Tür",
       "date": "2026-04-26T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353134263574.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -15,7 +15,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-05-31T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353633385753.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -33,7 +33,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-06-28T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353729854746.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -60,7 +60,7 @@
     {
       "title": "Crossroad – Home in Motion",
       "date": "2026-07-04T14:00:00+02:00",
-      "city": "Luzern",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/crossroad-home-in-motion-7470514627777930030.html",
       "image": "https://res.eventfrog.net/production_res_public/kuha-2026-crossroads-insta-slide-108-RRL4J745.webp?_=1783500746000",
       "category": "",
@@ -76,56 +76,38 @@
       "debug_has_basel": true
     },
     {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-07-24T09:00:00+02:00",
+      "title": "Einführung ins zeitgenössische Zirkustraining",
+      "date": "2026-07-17T19:30:00+02:00",
       "city": "Basel",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685168683500.html",
+      "url": "https://eventfrog.ch/de/p/kurse-seminare/sport-fitness/einfuehrung-ins-zeitgenoessische-zirkustraining-7471113936433118377.html",
+      "image": "https://res.eventfrog.net/production_res_public/design-ohne-titel-6-EMZ9HFGC-G28YXAE-1359M07H.webp?_=1783501998000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "CARI Festival 2026",
+      "date": "2026-07-24T23:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/festivals/reggae-ska/cari-festival-2026-7472230533566623916.html",
+      "image": "https://res.eventfrog.net/production_res_public/insta-2-7NBFJMZN-PJPTWWEV-SWKSP6NM.webp?_=1783503635000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Buchung von Ermitage- oder Dorfführung in Arlesheim",
+      "date": "2026-07-25T08:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/buchung-von-ermitage-oder-dorffuehrung-in-arlesheim-7448625105955999703.html",
+      "image": "https://res.eventfrog.net/production_res_public/ermitage-ente-4MFEWFRV-6DN6YMBL.webp?_=1783455899000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-07-25T09:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685210626542.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "King Folami & Friends Summer party",
-      "date": "2026-07-24T10:25:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/en/p/musicals-shows/musical/king-folami-friends-summer-party-7480734968299159223.html",
-      "image": "https://res.eventfrog.net/production_res_public/chatgpt-image-jul-8-2026-11-28-26-pm-SO3TEUIM.webp?_=1783546202000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "TABLE for TWO in der blindekuh Basel",
-      "date": "2026-07-24T18:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/table-for-two-in-der-blindekuh-basel-7458463954404144446.html",
-      "image": "https://res.eventfrog.net/production_res_public/1877866-QT1DA004-NT8RC0J8-FRI1BOSY.webp?_=1783480843000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "ESSEN im DUNKLEN - DINNER in the DARK - blindekuh Basel",
-      "date": "2026-07-24T18:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/essen-im-dunklen-dinner-in-the-dark-blindekuh-basel-7458469018996867511.html",
-      "image": "https://res.eventfrog.net/production_res_public/dsc0290-0L21RAH2-BS8BCG6L-D8YQGXSX.webp?_=1783480886000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Traditionelle Tavolata in der Osteria Tre im Bad Bubendorf",
-      "date": "2026-07-24T18:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/traditionelle-tavolata-in-der-osteria-tre-im-bad-bubendorf-7403764065791676030.html",
-      "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-jazz--JOV89WT3.webp?_=1783343606000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Barhopping für Singles",
-      "date": "2026-07-24T19:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/barhopping-fuer-singles-7425407412411079166.html",
-      "image": "https://res.eventfrog.net/production_res_public/5fe78ddc4205371cd032fd70719cdb732710-X4B5H6AP.webp?_=1783397712000",
       "category": "",
       "debug_has_basel": true
     }
