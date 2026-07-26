@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 10,
-  "locations_loaded": 427,
+  "count": 11,
+  "locations_loaded": 431,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -67,29 +67,38 @@
       "debug_has_basel": true
     },
     {
-      "title": "Pilgerreise ans Ende der Welt - Santiago, Muxía, Finisterre",
-      "date": "2026-07-13T10:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/freizeit-ausfluege/wanderung/pilgerreise-ans-ende-der-welt-santiago-muxia-finisterre-7460229649261421150.html",
-      "image": "https://res.eventfrog.net/production_res_public/p1100863-muxia-16x9-WO8G96KV-DS29EUV-2VW8O7L3.webp?_=1783484122000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Einführung ins zeitgenössische Zirkustraining",
-      "date": "2026-07-17T19:30:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/kurse-seminare/sport-fitness/einfuehrung-ins-zeitgenoessische-zirkustraining-7471113936433118377.html",
-      "image": "https://res.eventfrog.net/production_res_public/design-ohne-titel-6-EMZ9HFGC-G28YXAE-1359M07H.webp?_=1783501998000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Harry P.Otter und die Zauberprüfung",
       "date": "2026-07-26T09:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685252569584.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Tag der offenen Tür",
+      "date": "2026-07-26T14:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353801157915.html",
+      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Stand-up comedy, free entry!",
+      "date": "2026-07-26T19:30:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/en/p/theatre-stage/comedy-cabaret/stand-up-comedy-free-entry-7485665229059152159.html",
+      "image": "https://res.eventfrog.net/production_res_public/klara-komedy-larger-text-ydl9vcx0-uj-08FVJFWT.webp?_=1784721669000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Is This Anything? - A Comedy Show",
+      "date": "2026-07-26T19:30:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/en/p/theatre-stage/comedy-cabaret/is-this-anything-a-comedy-show-7461346194410709293.html",
+      "image": "https://res.eventfrog.net/production_res_public/ita-banner-v2-QIALXSBB-C3K81JPD.webp?_=1783485681000",
       "category": "",
       "debug_has_basel": true
     }
