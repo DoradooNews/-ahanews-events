@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 11,
-  "locations_loaded": 429,
+  "count": 10,
+  "locations_loaded": 427,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -51,7 +51,7 @@
     {
       "title": "Barhopping für Singles",
       "date": "2026-07-03T19:00:00+02:00",
-      "city": "Winterthur",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/barhopping-fuer-singles-7426562203887646087.html",
       "image": "https://res.eventfrog.net/production_res_public/b98f2b85d446e15d28ffac3fbc30ee06d7e2-FVMHUVB8.webp?_=1783399899000",
       "category": "",
@@ -76,29 +76,20 @@
       "debug_has_basel": true
     },
     {
-      "title": "CARI Festival 2026",
-      "date": "2026-07-24T23:00:00+02:00",
+      "title": "Einführung ins zeitgenössische Zirkustraining",
+      "date": "2026-07-17T19:30:00+02:00",
       "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/festivals/reggae-ska/cari-festival-2026-7472230533566623916.html",
-      "image": "https://res.eventfrog.net/production_res_public/insta-2-7NBFJMZN-PJPTWWEV-SWKSP6NM.webp?_=1783503635000",
+      "url": "https://eventfrog.ch/de/p/kurse-seminare/sport-fitness/einfuehrung-ins-zeitgenoessische-zirkustraining-7471113936433118377.html",
+      "image": "https://res.eventfrog.net/production_res_public/design-ohne-titel-6-EMZ9HFGC-G28YXAE-1359M07H.webp?_=1783501998000",
       "category": "",
       "debug_has_basel": true
     },
     {
       "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-07-25T09:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685210626542.html",
-      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Geburtstag",
-      "date": "2026-07-25T16:00:00+02:00",
+      "date": "2026-07-26T09:00:00+02:00",
       "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/partys/goa/geburtstag-7431308169551336131.html",
-      "image": "https://res.eventfrog.net/production_res_public/party-goa-HH5QIWI2-EKOPD6FG.webp?_=1783397009000",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685252569584.html",
+      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
     }
