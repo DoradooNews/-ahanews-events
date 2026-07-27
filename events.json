@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 16,
-  "locations_loaded": 419,
+  "count": 11,
+  "locations_loaded": 409,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -51,7 +51,7 @@
     {
       "title": "Barhopping für Singles",
       "date": "2026-07-03T19:00:00+02:00",
-      "city": "Winterthur",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/barhopping-fuer-singles-7426562203887646087.html",
       "image": "https://res.eventfrog.net/production_res_public/b98f2b85d446e15d28ffac3fbc30ee06d7e2-FVMHUVB8.webp?_=1783399899000",
       "category": "",
@@ -60,7 +60,7 @@
     {
       "title": "Crossroad – Home in Motion",
       "date": "2026-07-04T14:00:00+02:00",
-      "city": "Luzern",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/crossroad-home-in-motion-7470514627777930030.html",
       "image": "https://res.eventfrog.net/production_res_public/kuha-2026-crossroads-insta-slide-108-RRL4J745.webp?_=1783500746000",
       "category": "",
@@ -76,18 +76,9 @@
       "debug_has_basel": true
     },
     {
-      "title": "Ein Entwurf macht Schule",
-      "date": "2026-07-27T08:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368119718749754.html",
-      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Harry P.Otter und die Zauberprüfung",
       "date": "2026-07-27T09:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685294512626.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
@@ -103,47 +94,11 @@
       "debug_has_basel": true
     },
     {
-      "title": "Sommer Kreativwochen für Kinder 5-14 Jahren",
-      "date": "2026-07-27T09:30:00+02:00",
+      "title": "StreemLager",
+      "date": "2026-07-27T12:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/en/p/events-for-children/holiday-programme/sommer-kreativwochen-fuer-kinder-5-14-jahren-7478777923463303338.html",
-      "image": "https://res.eventfrog.net/production_res_public/whatsapp-image-2026-07-03-at-14-43-31.webp?_=1783079403000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-07-27T10:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412786363416741977.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-Q8RFPQHL.webp?_=1783337835000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-07-27T10:00:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412778071210650320.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-SCXQ39HC.webp?_=1783359821000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-07-27T10:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412779747241919507.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-CVU8SU2H.webp?_=1783337858000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-07-27T10:00:00+02:00",
-      "city": "Winterthur",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412779977484056567.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-49ZMDYQZ.webp?_=1783337837000",
+      "url": "https://eventfrog.ch/en/p/sport-fitness/other-sports-events/streemlager-7430533459326535130.html",
+      "image": "https://res.eventfrog.net/production_res_public/1-XKJHIM30-87LNLE8U.webp?_=1783409818000",
       "category": "",
       "debug_has_basel": true
     }
