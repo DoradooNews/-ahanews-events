@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 14,
-  "locations_loaded": 420,
+  "count": 15,
+  "locations_loaded": 430,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -22,10 +22,10 @@
       "debug_has_basel": true
     },
     {
-      "title": "Finissage of \"Flowers in art\" exhibition 15.08.26; 14.-19.00",
+      "title": "Finissage und Auktion \"Flowers in art\" am 15.08.26",
       "date": "2026-06-20T14:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/en/p/art-exhibitions/vernissage/finissage-of-flowers-in-art-exhibition-15-08-26-14-19-00-7449097205539957804.html",
+      "url": "https://eventfrog.ch/en/p/art-exhibitions/finissage/finissage-und-auktion-flowers-in-art-am-15-08-26-7449097205539957804.html",
       "image": "https://res.eventfrog.net/production_res_public/flower-exhibition-O7QS3EPO-18F40SKF.webp?_=1783456695000",
       "category": "",
       "debug_has_basel": true
@@ -67,15 +67,6 @@
       "debug_has_basel": true
     },
     {
-      "title": "Einführung ins zeitgenössische Zirkustraining",
-      "date": "2026-07-17T19:30:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/kurse-seminare/sport-fitness/einfuehrung-ins-zeitgenoessische-zirkustraining-7471113936433118377.html",
-      "image": "https://res.eventfrog.net/production_res_public/design-ohne-titel-6-EMZ9HFGC-G28YXAE-1359M07H.webp?_=1783501998000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Tag der offenen Tür",
       "date": "2026-07-26T14:00:00+02:00",
       "city": "",
@@ -103,29 +94,47 @@
       "debug_has_basel": true
     },
     {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-07-28T09:00:00+02:00",
+      "title": "Ein Entwurf macht Schule",
+      "date": "2026-07-29T08:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685332261364.html",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368119794247230.html",
+      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Sinnesparcours im Dunkeln ·  blindekuh Basel",
+      "date": "2026-07-29T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kurse-seminare/soziale-weiterbildung/sinnesparcours-im-dunkeln-blindekuh-basel-7458595627246578214.html",
+      "image": "https://res.eventfrog.net/production_res_public/blindekuh-basel-2027-4c2f178e-218XGQ-3MDZURZH.webp?_=1783480849000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Coming soon - City Walk Basel - blindekuh Basel",
+      "date": "2026-07-29T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/coming-soon-city-walk-basel-blindekuh-basel-7458459596002169502.html",
+      "image": "https://res.eventfrog.net/production_res_public/city-walk-bild-ohne-schrift-HJRI3GDE-PN6JH9F6.webp?_=1783480810000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-07-29T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685374204406.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "Nabil Al-Raee & Unavezenlavida: Trapped in Hope",
-      "date": "2026-07-28T19:00:00+02:00",
+      "title": "Sommer Kreativwochen für Kinder 5-14 Jahren",
+      "date": "2026-07-29T09:30:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/theater-buehne/theater/nabil-al-raee-unavezenlavida-trapped-in-hope-7477295483544728176.html",
-      "image": "https://res.eventfrog.net/production_res_public/trapped-in-hope-FYIAJ18A.webp?_=1782726105000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "28 JUL: [SOLD OUT] Mike Casa Show OPEN AIR BASEL!",
-      "date": "2026-07-28T19:30:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/theater-buehne/comedy-kabarett/28-jul-sold-out-mike-casa-show-open-air-basel-7468625798674543191.html",
-      "image": "https://res.eventfrog.net/production_res_public/screenshot-2026-06-05-143509-PNENNYP-NILFRTRY.webp?_=1783497604000",
+      "url": "https://eventfrog.ch/en/p/events-for-children/holiday-programme/sommer-kreativwochen-fuer-kinder-5-14-jahren-7478777923534606510.html",
+      "image": "https://res.eventfrog.net/production_res_public/whatsapp-image-2026-07-03-at-14-43-31.webp?_=1783079403000",
       "category": "",
       "debug_has_basel": true
     }
