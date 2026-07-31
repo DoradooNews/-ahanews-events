@@ -1,3 +1,151 @@
 {
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "status_code": 200,
+  "count": 16,
+  "locations_loaded": 435,
+  "events": [
+    {
+      "title": "Tag der offenen Tür",
+      "date": "2026-04-26T14:00:00+02:00",
+      "city": "Pratteln",
+      "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353134263574.html",
+      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Tag der offenen Tür",
+      "date": "2026-05-31T14:00:00+02:00",
+      "city": "Pratteln",
+      "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353633385753.html",
+      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Finissage und Auktion \"Flowers in art\" am 15.08.26",
+      "date": "2026-06-20T14:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/en/p/art-exhibitions/finissage/finissage-und-auktion-flowers-in-art-am-15-08-26-7449097205539957804.html",
+      "image": "https://res.eventfrog.net/production_res_public/flower-exhibition-O7QS3EPO-18F40SKF.webp?_=1783456695000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Tag der offenen Tür",
+      "date": "2026-06-28T14:00:00+02:00",
+      "city": "Pratteln",
+      "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353729854746.html",
+      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Bex Arts - Génies du lieu",
+      "date": "2026-06-30T10:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/fr/p/art-expositions/exposition/bex-arts-genies-du-lieu-7477605385068649672.html",
+      "image": "https://res.eventfrog.net/production_res_public/bex-newsletter-1200x1200px-27-05-202-7M8CAS0D.webp?_=1782800275000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Barhopping für Singles",
+      "date": "2026-07-03T19:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/barhopping-fuer-singles-7426562203887646087.html",
+      "image": "https://res.eventfrog.net/production_res_public/b98f2b85d446e15d28ffac3fbc30ee06d7e2-FVMHUVB8.webp?_=1783399899000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Crossroad – Home in Motion",
+      "date": "2026-07-04T14:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/crossroad-home-in-motion-7470514627777930030.html",
+      "image": "https://res.eventfrog.net/production_res_public/kuha-2026-crossroads-insta-slide-108-RRL4J745.webp?_=1783500746000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Tag der offenen Tür",
+      "date": "2026-07-26T14:00:00+02:00",
+      "city": "Pratteln",
+      "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353801157915.html",
+      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "StreemLager",
+      "date": "2026-07-27T12:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/en/p/sport-fitness/other-sports-events/streemlager-7430533459326535130.html",
+      "image": "https://res.eventfrog.net/production_res_public/1-XKJHIM30-87LNLE8U.webp?_=1783409818000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-07-31T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685458090490.html",
+      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Bundesfeier am Rhein - Sip & Dance",
+      "date": "2026-07-31T16:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/partys/house-techno/bundesfeier-am-rhein-sip-dance-7483171988741063560.html",
+      "image": "https://res.eventfrog.net/production_res_public/779cc604-07f4-41f8-9522-dd1dbd9e860f-9OF0TUU2.webp?_=1784136816000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Bundesfiir uff em Rhy",
+      "date": "2026-07-31T18:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/essen-trinken/bundesfiir-uff-em-rhy-7462399614940922910.html",
+      "image": "https://res.eventfrog.net/production_res_public/2022-07-bpg-bundesfeier-web-2806-44L-Z0K42I2R.webp?_=1783487357000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "ESSEN im DUNKLEN - DINNER in the DARK - blindekuh Basel",
+      "date": "2026-07-31T18:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/essen-trinken/essen-im-dunklen-dinner-in-the-dark-blindekuh-basel-7458469019038810553.html",
+      "image": "https://res.eventfrog.net/production_res_public/dsc0290-0L21RAH2-BS8BCG6L-D8YQGXSX.webp?_=1783480886000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "TABLE for TWO in der blindekuh Basel",
+      "date": "2026-07-31T18:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/essen-trinken/table-for-two-in-der-blindekuh-basel-7458463954437698891.html",
+      "image": "https://res.eventfrog.net/production_res_public/1877866-QT1DA004-NT8RC0J8-FRI1BOSY.webp?_=1783480843000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "SORGENFREI at Hafenkran Basel",
+      "date": "2026-07-31T18:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/festivals/tanz/sorgenfrei-at-hafenkran-basel-7479567310195266307.html",
+      "image": "https://res.eventfrog.net/production_res_public/3b82b17b-bd6c-4f19-b051-9265dafbc450-NHXRR81J.webp?_=1783267811000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Traditionelle Tavolata in der Osteria Tre im Bad Bubendorf",
+      "date": "2026-07-31T18:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/essen-trinken/traditionelle-tavolata-in-der-osteria-tre-im-bad-bubendorf-7403764066030751366.html",
+      "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-jazz--JOV89WT3.webp?_=1783343606000",
+      "category": "",
+      "debug_has_basel": true
+    }
+  ]
 }
