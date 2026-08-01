@@ -6,7 +6,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-04-26T14:00:00+02:00",
-      "city": "Pratteln",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353134263574.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -15,7 +15,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-05-31T14:00:00+02:00",
-      "city": "Pratteln",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353633385753.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -33,7 +33,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-06-28T14:00:00+02:00",
-      "city": "Pratteln",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353729854746.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -58,9 +58,18 @@
       "debug_has_basel": true
     },
     {
+      "title": "Einführung ins zeitgenössische Zirkustraining",
+      "date": "2026-07-17T19:30:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/kurse-seminare/sport-fitness/einfuehrung-ins-zeitgenoessische-zirkustraining-7471113936433118377.html",
+      "image": "https://res.eventfrog.net/production_res_public/design-ohne-titel-6-EMZ9HFGC-G28YXAE-1359M07H.webp?_=1783501998000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
       "title": "Tag der offenen Tür",
       "date": "2026-07-26T14:00:00+02:00",
-      "city": "Pratteln",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353801157915.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -76,29 +85,20 @@
       "debug_has_basel": true
     },
     {
-      "title": "Buchung von Ermitage- oder Dorfführung in Arlesheim",
-      "date": "2026-08-01T08:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/buchung-von-ermitage-oder-dorffuehrung-in-arlesheim-7448625106018914265.html",
-      "image": "https://res.eventfrog.net/production_res_public/ermitage-ente-4MFEWFRV-6DN6YMBL.webp?_=1783455899000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "AUSVERKAUFT (bitte keine Anfragen mehr) - Buurezmorge 2026",
-      "date": "2026-08-01T09:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/religion-feiertage/fest-feiertag/ausverkauft-bitte-keine-anfragen-mehr-buurezmorge-2026-7460976379942680135.html",
-      "image": "https://res.eventfrog.net/production_res_public/abc-0567-Q8IVNSLP-635O2XCO-DJ3GA0W5.webp?_=1783488046000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Harry P.Otter und die Zauberprüfung",
       "date": "2026-08-01T09:00:00+02:00",
       "city": "",
       "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685495839228.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Daydance MS Evolutie 2026",
+      "date": "2026-08-01T14:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/partys/house-techno/daydance-ms-evolutie-2026-7470960511087047088.html",
+      "image": "https://res.eventfrog.net/production_res_public/3-04I5U6NK.jpg?_=1785325250000",
       "category": "",
       "debug_has_basel": true
     }
