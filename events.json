@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 16,
-  "locations_loaded": 435,
+  "count": 11,
+  "locations_loaded": 436,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -49,15 +49,6 @@
       "debug_has_basel": true
     },
     {
-      "title": "Barhopping für Singles",
-      "date": "2026-07-03T19:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/barhopping-fuer-singles-7426562203887646087.html",
-      "image": "https://res.eventfrog.net/production_res_public/b98f2b85d446e15d28ffac3fbc30ee06d7e2-FVMHUVB8.webp?_=1783399899000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Crossroad – Home in Motion",
       "date": "2026-07-04T14:00:00+02:00",
       "city": "",
@@ -85,65 +76,29 @@
       "debug_has_basel": true
     },
     {
+      "title": "Buchung von Ermitage- oder Dorfführung in Arlesheim",
+      "date": "2026-08-01T08:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/buchung-von-ermitage-oder-dorffuehrung-in-arlesheim-7448625106018914265.html",
+      "image": "https://res.eventfrog.net/production_res_public/ermitage-ente-4MFEWFRV-6DN6YMBL.webp?_=1783455899000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "AUSVERKAUFT (bitte keine Anfragen mehr) - Buurezmorge 2026",
+      "date": "2026-08-01T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/religion-feiertage/fest-feiertag/ausverkauft-bitte-keine-anfragen-mehr-buurezmorge-2026-7460976379942680135.html",
+      "image": "https://res.eventfrog.net/production_res_public/abc-0567-Q8IVNSLP-635O2XCO-DJ3GA0W5.webp?_=1783488046000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
       "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-07-31T09:00:00+02:00",
+      "date": "2026-08-01T09:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685458090490.html",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685495839228.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Bundesfeier am Rhein - Sip & Dance",
-      "date": "2026-07-31T16:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/partys/house-techno/bundesfeier-am-rhein-sip-dance-7483171988741063560.html",
-      "image": "https://res.eventfrog.net/production_res_public/779cc604-07f4-41f8-9522-dd1dbd9e860f-9OF0TUU2.webp?_=1784136816000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Bundesfiir uff em Rhy",
-      "date": "2026-07-31T18:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/bundesfiir-uff-em-rhy-7462399614940922910.html",
-      "image": "https://res.eventfrog.net/production_res_public/2022-07-bpg-bundesfeier-web-2806-44L-Z0K42I2R.webp?_=1783487357000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "ESSEN im DUNKLEN - DINNER in the DARK - blindekuh Basel",
-      "date": "2026-07-31T18:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/essen-im-dunklen-dinner-in-the-dark-blindekuh-basel-7458469019038810553.html",
-      "image": "https://res.eventfrog.net/production_res_public/dsc0290-0L21RAH2-BS8BCG6L-D8YQGXSX.webp?_=1783480886000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "TABLE for TWO in der blindekuh Basel",
-      "date": "2026-07-31T18:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/table-for-two-in-der-blindekuh-basel-7458463954437698891.html",
-      "image": "https://res.eventfrog.net/production_res_public/1877866-QT1DA004-NT8RC0J8-FRI1BOSY.webp?_=1783480843000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "SORGENFREI at Hafenkran Basel",
-      "date": "2026-07-31T18:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/festivals/tanz/sorgenfrei-at-hafenkran-basel-7479567310195266307.html",
-      "image": "https://res.eventfrog.net/production_res_public/3b82b17b-bd6c-4f19-b051-9265dafbc450-NHXRR81J.webp?_=1783267811000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Traditionelle Tavolata in der Osteria Tre im Bad Bubendorf",
-      "date": "2026-07-31T18:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/traditionelle-tavolata-in-der-osteria-tre-im-bad-bubendorf-7403764066030751366.html",
-      "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-jazz--JOV89WT3.webp?_=1783343606000",
       "category": "",
       "debug_has_basel": true
     }
