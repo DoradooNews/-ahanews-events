@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 9,
-  "locations_loaded": 424,
+  "count": 10,
+  "locations_loaded": 406,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -67,20 +67,29 @@
       "debug_has_basel": true
     },
     {
-      "title": "StreemLager",
-      "date": "2026-07-27T12:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/en/p/sport-fitness/other-sports-events/streemlager-7430533459326535130.html",
-      "image": "https://res.eventfrog.net/production_res_public/1-XKJHIM30-87LNLE8U.webp?_=1783409818000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Harry P.Otter und die Zauberprüfung",
       "date": "2026-08-02T09:00:00+02:00",
       "city": "",
       "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685537782271.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "JANA NAYAGAN",
+      "date": "2026-08-02T18:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/theater-buehne/theater/jana-nayagan-7488277637606979969.html",
+      "image": "https://res.eventfrog.net/production_res_public/87615a088e1f2ceef4a55206af1a4eb2-KCL-6E4KGP9L.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Is This Anything? - A Comedy Show",
+      "date": "2026-08-02T19:30:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/en/p/theatre-stage/comedy-cabaret/is-this-anything-a-comedy-show-7477333216187140576.html",
+      "image": "https://res.eventfrog.net/production_res_public/ita-banner-v2-QIALXSBB-C3K81JPD.webp?_=1783509975000",
       "category": "",
       "debug_has_basel": true
     }
