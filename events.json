@@ -1,3 +1,106 @@
 {
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "status_code": 200,
+  "count": 11,
+  "locations_loaded": 408,
+  "events": [
+    {
+      "title": "Tag der offenen Tür",
+      "date": "2026-04-26T14:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353134263574.html",
+      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Tag der offenen Tür",
+      "date": "2026-05-31T14:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353633385753.html",
+      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Finissage und Auktion \"Flowers in art\" am 15.08.26",
+      "date": "2026-06-20T14:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/en/p/art-exhibitions/finissage/finissage-und-auktion-flowers-in-art-am-15-08-26-7449097205539957804.html",
+      "image": "https://res.eventfrog.net/production_res_public/flower-exhibition-O7QS3EPO-18F40SKF.webp?_=1783456695000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Tag der offenen Tür",
+      "date": "2026-06-28T14:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353729854746.html",
+      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Bex Arts - Génies du lieu",
+      "date": "2026-06-30T10:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/fr/p/art-expositions/exposition/bex-arts-genies-du-lieu-7477605385068649672.html",
+      "image": "https://res.eventfrog.net/production_res_public/bex-newsletter-1200x1200px-27-05-202-7M8CAS0D.webp?_=1782800275000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Crossroad – Home in Motion",
+      "date": "2026-07-04T14:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/crossroad-home-in-motion-7470514627777930030.html",
+      "image": "https://res.eventfrog.net/production_res_public/kuha-2026-crossroads-insta-slide-108-RRL4J745.webp?_=1783500746000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Einführung ins zeitgenössische Zirkustraining",
+      "date": "2026-07-17T19:30:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/kurse-seminare/sport-fitness/einfuehrung-ins-zeitgenoessische-zirkustraining-7471113936433118377.html",
+      "image": "https://res.eventfrog.net/production_res_public/design-ohne-titel-6-EMZ9HFGC-G28YXAE-1359M07H.webp?_=1783501998000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Tag der offenen Tür",
+      "date": "2026-07-26T14:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353801157915.html",
+      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-08-03T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685575531009.html",
+      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "BARÇA ACADEMY CAMP BASEL",
+      "date": "2026-08-03T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/sport-fitness/fussball/barca-academy-camp-basel-7454514452412523358.html",
+      "image": "https://res.eventfrog.net/production_res_public/vo230405a47617-VWF7EMXD-SY4IIVIL-5NCP550G.webp?_=1783472254000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Unihockey Sommercamp 2: 3.-7.8.2026",
+      "date": "2026-08-03T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/sport-fitness/unihockey/unihockey-sommercamp-2-3-7-8-2026-7421168075616070733.html",
+      "image": "https://res.eventfrog.net/production_res_public/2025-10-04-wizards-u21-basel-regio-u-R1PEOQ33.webp?_=1783380377000",
+      "category": "",
+      "debug_has_basel": true
+    }
+  ]
 }
