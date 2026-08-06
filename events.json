@@ -1,6 +1,6 @@
 {
   "status_code": 200,
-  "count": 17,
+  "count": 13,
   "locations_loaded": 439,
   "events": [
     {
@@ -58,15 +58,6 @@
       "debug_has_basel": true
     },
     {
-      "title": "BARÇA ACADEMY CAMP BASEL",
-      "date": "2026-08-03T09:00:00+02:00",
-      "city": "Reinach",
-      "url": "https://eventfrog.ch/de/p/sport-fitness/fussball/barca-academy-camp-basel-7454514452412523358.html",
-      "image": "https://res.eventfrog.net/production_res_public/vo230405a47617-VWF7EMXD-SY4IIVIL-5NCP550G.webp?_=1783472254000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Unihockey Sommercamp 2: 3.-7.8.2026",
       "date": "2026-08-03T09:00:00+02:00",
       "city": "Burgdorf",
@@ -76,11 +67,11 @@
       "debug_has_basel": true
     },
     {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-08-05T09:00:00+02:00",
+      "title": "BARÇA ACADEMY CAMP BASEL",
+      "date": "2026-08-03T09:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685655222789.html",
-      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "url": "https://eventfrog.ch/de/p/sport-fitness/fussball/barca-academy-camp-basel-7454514452412523358.html",
+      "image": "https://res.eventfrog.net/production_res_public/vo230405a47617-VWF7EMXD-SY4IIVIL-5NCP550G.webp?_=1783472254000",
       "category": "",
       "debug_has_basel": true
     },
@@ -94,65 +85,38 @@
       "debug_has_basel": true
     },
     {
-      "title": "Traditionelle Tavolata in der Osteria Tre im Bad Bubendorf",
-      "date": "2026-08-05T18:00:00+02:00",
+      "title": "Ein Entwurf macht Schule",
+      "date": "2026-08-06T08:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/traditionelle-tavolata-in-der-osteria-tre-im-bad-bubendorf-7403764066152386187.html",
-      "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-jazz--JOV89WT3.webp?_=1783343606000",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368120066877006.html",
+      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "•\tLockeres Regionaltreffen für TOS Members",
-      "date": "2026-08-05T18:30:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/lockeres-regionaltreffen-fuer-tos-members-7422550623806045169.html",
-      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "TOS Community MeetUp - Region Basel",
-      "date": "2026-08-05T18:30:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/diverses/tos-community-meetup-region-basel-7489025675820587899.html",
-      "image": "https://res.eventfrog.net/production_res_public/image3-XHOL6382-RRCUDMKM.webp",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Wine Course - Basel, 5th August",
-      "date": "2026-08-05T18:30:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/en/p/eating-drinking/wine-course-basel-5th-august-7466133147693934391.html",
-      "image": "https://res.eventfrog.net/production_res_public/course-visual-event-frog-2-OGH1SUB1-PZC7CSVO.webp?_=1783493311000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Regionaltreff Basel (Meetup)",
-      "date": "2026-08-05T18:30:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/regionaltreff-basel-meetup-7465684183421085561.html",
-      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "TABLE for TWO in der blindekuh Basel",
-      "date": "2026-08-05T18:30:00+02:00",
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-08-06T09:00:00+02:00",
       "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/table-for-two-in-der-blindekuh-basel-7458594950113948920.html",
-      "image": "https://res.eventfrog.net/production_res_public/1877866-QT1DA004-NT8RC0J8-FRI1BOSY.webp?_=1783480843000",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685697165831.html",
+      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "ESSEN im DUNKLEN - DINNER in the DARK - blindekuh Basel",
-      "date": "2026-08-05T18:30:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/essen-im-dunklen-dinner-in-the-dark-blindekuh-basel-7458472813126523897.html",
-      "image": "https://res.eventfrog.net/production_res_public/dsc0290-0L21RAH2-BS8BCG6L-D8YQGXSX.webp?_=1783480886000",
+      "title": "Coming soon - City Walk Basel - blindekuh Basel",
+      "date": "2026-08-06T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/coming-soon-city-walk-basel-blindekuh-basel-7458459596140581557.html",
+      "image": "https://res.eventfrog.net/production_res_public/city-walk-bild-ohne-schrift-HJRI3GDE-PN6JH9F6.webp?_=1783480810000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Sinnesparcours im Dunkeln ·  blindekuh Basel",
+      "date": "2026-08-06T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kurse-seminare/soziale-weiterbildung/sinnesparcours-im-dunkeln-blindekuh-basel-7458595627384990255.html",
+      "image": "https://res.eventfrog.net/production_res_public/blindekuh-basel-2027-4c2f178e-218XGQ-3MDZURZH.webp?_=1783480849000",
       "category": "",
       "debug_has_basel": true
     }
