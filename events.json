@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 15,
-  "locations_loaded": 460,
+  "count": 17,
+  "locations_loaded": 459,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -87,7 +87,7 @@
     {
       "title": "Ein Entwurf macht Schule",
       "date": "2026-08-07T08:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368120104625744.html",
       "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
       "category": "",
@@ -103,6 +103,15 @@
       "debug_has_basel": true
     },
     {
+      "title": "Coming soon - City Walk Basel - blindekuh Basel",
+      "date": "2026-08-07T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/coming-soon-city-walk-basel-blindekuh-basel-7458456625608680340.html",
+      "image": "https://res.eventfrog.net/production_res_public/city-walk-bild-ohne-schrift-HJRI3GDE-PN6JH9F6.webp?_=1783480810000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
       "title": "Sinnesparcours im Dunkeln ·  blindekuh Basel",
       "date": "2026-08-07T09:00:00+02:00",
       "city": "",
@@ -112,11 +121,11 @@
       "debug_has_basel": true
     },
     {
-      "title": "Coming soon - City Walk Basel - blindekuh Basel",
+      "title": "Allschwil-bewegt, Gratis Fitness: Gym soft",
       "date": "2026-08-07T09:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/coming-soon-city-walk-basel-blindekuh-basel-7458456625608680340.html",
-      "image": "https://res.eventfrog.net/production_res_public/city-walk-bild-ohne-schrift-HJRI3GDE-PN6JH9F6.webp?_=1783480810000",
+      "city": "Allschwil",
+      "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/allschwil-bewegt-gratis-fitness-gym-soft-7458203177969575762.html",
+      "image": "https://res.eventfrog.net/production_res_public/img-1745-KTYDW824-43EQ3544-0PO9AOJH.webp?_=1783480412000",
       "category": "",
       "debug_has_basel": true
     },
@@ -132,9 +141,18 @@
     {
       "title": "Gemeinsame Fachtagung / Conférence conjointe VSHP-VNPS",
       "date": "2026-08-07T09:30:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/symposium/gemeinsame-fachtagung-conference-conjointe-vshp-vnps-7462730748404971607.html",
       "image": "https://res.eventfrog.net/production_res_public/restaurierte-moulagen-bruns-MB2NOCND-XTJJWK7N.webp?_=1783487990000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-08-07T10:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412786364037498991.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-Q8RFPQHL.webp?_=1783337835000",
       "category": "",
       "debug_has_basel": true
     }
