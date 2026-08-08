@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 10,
-  "locations_loaded": 463,
+  "count": 11,
+  "locations_loaded": 464,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -60,18 +60,9 @@
     {
       "title": "WPF CAMP 2026",
       "date": "2026-08-05T16:00:00+02:00",
-      "city": "Reinach",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/sport-fitness/sonstige-veranstaltungen/wpf-camp-2026-7433823537322835181.html",
       "image": "https://res.eventfrog.net/production_res_public/camp-logo-eventfrog-8QAZJFPU-AE6FXBYC.webp?_=1783417380000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Buchung von Ermitage- oder Dorfführung in Arlesheim",
-      "date": "2026-08-08T08:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/buchung-von-ermitage-oder-dorffuehrung-in-arlesheim-7448625106077634523.html",
-      "image": "https://res.eventfrog.net/production_res_public/ermitage-ente-4MFEWFRV-6DN6YMBL.webp?_=1783455899000",
       "category": "",
       "debug_has_basel": true
     },
@@ -85,11 +76,29 @@
       "debug_has_basel": true
     },
     {
-      "title": "Schnuppertauchen 2026",
-      "date": "2026-08-08T09:00:00+02:00",
-      "city": "Arlesheim",
-      "url": "https://eventfrog.ch/de/p/sport-fitness/wassersport/schnuppertauchen-2026-7411421877116134441.html",
-      "image": "https://res.eventfrog.net/production_res_public/p8090058-UATAPPO9-0L0QZ853.webp?_=1783358193000",
+      "title": "Pure Vibez BBQ 2026",
+      "date": "2026-08-08T14:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/en/p/eating-drinking/pure-vibez-bbq-2026-7472339261154400797.html",
+      "image": "https://res.eventfrog.net/production_res_public/purevibes-bbq-2026-eventfrog-42JEQ2U1.webp?_=1783086331000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Koch-Dating für Baseler Singles",
+      "date": "2026-08-08T17:30:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/dating/speed-dating/koch-dating-fuer-baseler-singles-7473825860132333687.html",
+      "image": "https://res.eventfrog.net/production_res_public/hopping-dinner-herbst-bs-WI18O0OP-52-BTLL8ENX.webp?_=1783507035000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Live Konzert am 8.Aug. 2026 in Ardez",
+      "date": "2026-08-08T18:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/konzerte/pop-rock/live-konzert-am-8-aug-2026-in-ardez-7470049375298783549.html",
+      "image": "https://res.eventfrog.net/production_res_public/8-aug-2026-fivezero2-flyer-fuers-web-K52L99IJ.webp?_=1783499519000",
       "category": "",
       "debug_has_basel": true
     }
