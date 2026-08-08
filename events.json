@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 17,
-  "locations_loaded": 464,
+  "count": 10,
+  "locations_loaded": 463,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -60,99 +60,36 @@
     {
       "title": "WPF CAMP 2026",
       "date": "2026-08-05T16:00:00+02:00",
-      "city": "",
+      "city": "Reinach",
       "url": "https://eventfrog.ch/de/p/sport-fitness/sonstige-veranstaltungen/wpf-camp-2026-7433823537322835181.html",
       "image": "https://res.eventfrog.net/production_res_public/camp-logo-eventfrog-8QAZJFPU-AE6FXBYC.webp?_=1783417380000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-08-07T09:00:00+02:00",
+      "title": "Buchung von Ermitage- oder Dorfführung in Arlesheim",
+      "date": "2026-08-08T08:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685739108873.html",
+      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/buchung-von-ermitage-oder-dorffuehrung-in-arlesheim-7448625106077634523.html",
+      "image": "https://res.eventfrog.net/production_res_public/ermitage-ente-4MFEWFRV-6DN6YMBL.webp?_=1783455899000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-08-08T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685776857611.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "Mirage x Nordstern - Rooftop Session",
-      "date": "2026-08-07T17:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/partys/house-techno/mirage-x-nordstern-rooftop-session-7484947867271998805.html",
-      "image": "https://res.eventfrog.net/production_res_public/rooftop-sessions-artwork-overview-16-Q16VRAE9.webp?_=1784550636000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "ESSEN im DUNKLEN - DINNER in the DARK - blindekuh Basel",
-      "date": "2026-08-07T18:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/essen-im-dunklen-dinner-in-the-dark-blindekuh-basel-7458469019076559291.html",
-      "image": "https://res.eventfrog.net/production_res_public/dsc0290-0L21RAH2-BS8BCG6L-D8YQGXSX.webp?_=1783480886000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "TABLE for TWO in der blindekuh Basel",
-      "date": "2026-08-07T18:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/table-for-two-in-der-blindekuh-basel-7458463954471253325.html",
-      "image": "https://res.eventfrog.net/production_res_public/1877866-QT1DA004-NT8RC0J8-FRI1BOSY.webp?_=1783480843000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Gemeinsames Abendessen /",
-      "date": "2026-08-07T18:00:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/gemeinsames-abendessen-7462740604511883711.html",
-      "image": "https://res.eventfrog.net/production_res_public/essentrinken-SMYO3QP1-XTCWHXHY.webp?_=1783398115000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Traditionelle Tavolata in der Osteria Tre im Bad Bubendorf",
-      "date": "2026-08-07T18:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/traditionelle-tavolata-in-der-osteria-tre-im-bad-bubendorf-7403764066278215311.html",
-      "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-jazz--JOV89WT3.webp?_=1783343606000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Sunset Beats",
-      "date": "2026-08-07T18:30:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/partys/charts-open-format/sunset-beats-7450171994954315973.html",
-      "image": "https://res.eventfrog.net/production_res_public/bpg-events-1x1-1206202610-YYISD3H0.webp?_=1784041049000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Barhopping für Singles",
-      "date": "2026-08-07T19:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/barhopping-fuer-singles-7426524896975448837.html",
-      "image": "https://res.eventfrog.net/production_res_public/3cb1c555064a3739a2ef4a2d04bd2c0a81b5-2YAPZZP7.webp?_=1783399799000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Händels Heldinnen",
-      "date": "2026-08-07T19:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/klassik-opern/klassik/haendels-heldinnen-7426542137934638109.html",
-      "image": "https://res.eventfrog.net/production_res_public/08a014edffaa31c269fd0161330746bbb6b0-O7RNMDJ4.webp?_=1783399857000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Barhopping für Singles",
-      "date": "2026-08-07T19:00:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/barhopping-fuer-singles-7425407412536908303.html",
-      "image": "https://res.eventfrog.net/production_res_public/5fe78ddc4205371cd032fd70719cdb732710-X4B5H6AP.webp?_=1783397712000",
+      "title": "Schnuppertauchen 2026",
+      "date": "2026-08-08T09:00:00+02:00",
+      "city": "Arlesheim",
+      "url": "https://eventfrog.ch/de/p/sport-fitness/wassersport/schnuppertauchen-2026-7411421877116134441.html",
+      "image": "https://res.eventfrog.net/production_res_public/p8090058-UATAPPO9-0L0QZ853.webp?_=1783358193000",
       "category": "",
       "debug_has_basel": true
     }
