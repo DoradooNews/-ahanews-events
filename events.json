@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 12,
-  "locations_loaded": 450,
+  "count": 11,
+  "locations_loaded": 430,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -49,29 +49,11 @@
       "debug_has_basel": true
     },
     {
-      "title": "Einführung ins zeitgenössische Zirkustraining",
-      "date": "2026-07-17T19:30:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/kurse-seminare/sport-fitness/einfuehrung-ins-zeitgenoessische-zirkustraining-7471113936433118377.html",
-      "image": "https://res.eventfrog.net/production_res_public/design-ohne-titel-6-EMZ9HFGC-G28YXAE-1359M07H.webp?_=1783501998000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Tag der offenen Tür",
       "date": "2026-07-26T14:00:00+02:00",
       "city": "",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353801157915.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "WPF CAMP 2026",
-      "date": "2026-08-05T16:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/sport-fitness/sonstige-veranstaltungen/wpf-camp-2026-7433823537322835181.html",
-      "image": "https://res.eventfrog.net/production_res_public/camp-logo-eventfrog-8QAZJFPU-AE6FXBYC.webp?_=1783417380000",
       "category": "",
       "debug_has_basel": true
     },
@@ -85,29 +67,38 @@
       "debug_has_basel": true
     },
     {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-08-09T10:00:00+02:00",
-      "city": "Zürich",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412786364150745203.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-Q8RFPQHL.webp?_=1783337835000",
+      "title": "Sensual Medicine Dance am Feuer",
+      "date": "2026-08-09T14:00:00+02:00",
+      "city": "Freiburg im Breisgau",
+      "url": "https://eventfrog.de/de/p/kurse-seminare/musik-tanz/sensual-medicine-dance-am-feuer-7488264326614123453.html",
+      "image": "https://res.eventfrog.net/production_res_public/sensual-medicine-gebet-ins-neue-4-OWE95VAO.webp?_=1785342892000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-08-09T10:00:00+02:00",
+      "title": "Golden Wave Cruise 60+",
+      "date": "2026-08-09T17:30:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412778072628325133.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-SCXQ39HC.webp?_=1783359821000",
+      "url": "https://eventfrog.ch/de/p/partys/80s/golden-wave-cruise-60-7450173082319194539.html",
+      "image": "https://res.eventfrog.net/production_res_public/bpg-events-4x5-goldenwavecruise-DP3F-JXRA78B9.webp?_=1783504583000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "Basel auf dem Teller – Kulinarische Stadtgeschichte(n)",
-      "date": "2026-08-09T10:00:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/basel-auf-dem-teller-kulinarische-stadtgeschichte-n-7403843277466634930.html",
-      "image": "https://res.eventfrog.net/production_res_public/ausstellung-basel-auf-dem-teller-mus-UEK98THY.webp?_=1783343948000",
+      "title": "Is This Anything? - A Comedy Show",
+      "date": "2026-08-09T19:30:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/en/p/theatre-stage/comedy-cabaret/is-this-anything-a-comedy-show-7477333504570721413.html",
+      "image": "https://res.eventfrog.net/production_res_public/ita-banner-v2-QIALXSBB-C3K81JPD.webp?_=1783509976000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Ein Entwurf macht Schule",
+      "date": "2026-08-10T08:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368120180123220.html",
+      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
       "category": "",
       "debug_has_basel": true
     }
