@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 11,
-  "locations_loaded": 464,
+  "count": 12,
+  "locations_loaded": 450,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -49,6 +49,15 @@
       "debug_has_basel": true
     },
     {
+      "title": "Einführung ins zeitgenössische Zirkustraining",
+      "date": "2026-07-17T19:30:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/kurse-seminare/sport-fitness/einfuehrung-ins-zeitgenoessische-zirkustraining-7471113936433118377.html",
+      "image": "https://res.eventfrog.net/production_res_public/design-ohne-titel-6-EMZ9HFGC-G28YXAE-1359M07H.webp?_=1783501998000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
       "title": "Tag der offenen Tür",
       "date": "2026-07-26T14:00:00+02:00",
       "city": "",
@@ -68,37 +77,37 @@
     },
     {
       "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-08-08T09:00:00+02:00",
+      "date": "2026-08-09T09:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685776857611.html",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685818800653.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "Pure Vibez BBQ 2026",
-      "date": "2026-08-08T14:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/en/p/eating-drinking/pure-vibez-bbq-2026-7472339261154400797.html",
-      "image": "https://res.eventfrog.net/production_res_public/purevibes-bbq-2026-eventfrog-42JEQ2U1.webp?_=1783086331000",
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-08-09T10:00:00+02:00",
+      "city": "Zürich",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412786364150745203.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-Q8RFPQHL.webp?_=1783337835000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "Koch-Dating für Baseler Singles",
-      "date": "2026-08-08T17:30:00+02:00",
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-08-09T10:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/speed-dating/koch-dating-fuer-baseler-singles-7473825860132333687.html",
-      "image": "https://res.eventfrog.net/production_res_public/hopping-dinner-herbst-bs-WI18O0OP-52-BTLL8ENX.webp?_=1783507035000",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412778072628325133.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-SCXQ39HC.webp?_=1783359821000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "Live Konzert am 8.Aug. 2026 in Ardez",
-      "date": "2026-08-08T18:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/konzerte/pop-rock/live-konzert-am-8-aug-2026-in-ardez-7470049375298783549.html",
-      "image": "https://res.eventfrog.net/production_res_public/8-aug-2026-fivezero2-flyer-fuers-web-K52L99IJ.webp?_=1783499519000",
+      "title": "Basel auf dem Teller – Kulinarische Stadtgeschichte(n)",
+      "date": "2026-08-09T10:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/basel-auf-dem-teller-kulinarische-stadtgeschichte-n-7403843277466634930.html",
+      "image": "https://res.eventfrog.net/production_res_public/ausstellung-basel-auf-dem-teller-mus-UEK98THY.webp?_=1783343948000",
       "category": "",
       "debug_has_basel": true
     }
