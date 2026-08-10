@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 11,
-  "locations_loaded": 430,
+  "count": 15,
+  "locations_loaded": 440,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -58,47 +58,83 @@
       "debug_has_basel": true
     },
     {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-08-09T09:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685818800653.html",
-      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Sensual Medicine Dance am Feuer",
-      "date": "2026-08-09T14:00:00+02:00",
-      "city": "Freiburg im Breisgau",
-      "url": "https://eventfrog.de/de/p/kurse-seminare/musik-tanz/sensual-medicine-dance-am-feuer-7488264326614123453.html",
-      "image": "https://res.eventfrog.net/production_res_public/sensual-medicine-gebet-ins-neue-4-OWE95VAO.webp?_=1785342892000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Golden Wave Cruise 60+",
-      "date": "2026-08-09T17:30:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/partys/80s/golden-wave-cruise-60-7450173082319194539.html",
-      "image": "https://res.eventfrog.net/production_res_public/bpg-events-4x5-goldenwavecruise-DP3F-JXRA78B9.webp?_=1783504583000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Is This Anything? - A Comedy Show",
-      "date": "2026-08-09T19:30:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/en/p/theatre-stage/comedy-cabaret/is-this-anything-a-comedy-show-7477333504570721413.html",
-      "image": "https://res.eventfrog.net/production_res_public/ita-banner-v2-QIALXSBB-C3K81JPD.webp?_=1783509976000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Ein Entwurf macht Schule",
       "date": "2026-08-10T08:00:00+02:00",
       "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368120180123220.html",
       "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-08-10T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367685860743695.html",
+      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-08-10T10:00:00+02:00",
+      "city": "Bern",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412779748076586138.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-CVU8SU2H.webp?_=1783337858000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-08-10T10:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412779978276780063.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-49ZMDYQZ.webp?_=1783337837000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-08-10T10:00:00+02:00",
+      "city": "Zürich",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412786364205271157.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-Q8RFPQHL.webp?_=1783337835000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-08-10T10:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412778072733182735.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-SCXQ39HC.webp?_=1783359821000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-08-10T10:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412780137878447778.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-HI1N953P.webp?_=1783337839000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-08-10T10:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412787447040333577.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-RTBUZUX9.webp?_=1783337843000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-08-10T10:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412787228735241876.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-FZ1EV0DA.webp?_=1783337854000",
       "category": "",
       "debug_has_basel": true
     }
