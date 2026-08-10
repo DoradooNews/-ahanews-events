@@ -1,12 +1,12 @@
 {
   "status_code": 200,
-  "count": 15,
-  "locations_loaded": 440,
+  "count": 13,
+  "locations_loaded": 423,
   "events": [
     {
       "title": "Tag der offenen Tür",
       "date": "2026-05-31T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353633385753.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -24,7 +24,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-06-28T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353729854746.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -51,18 +51,9 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-07-26T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353801157915.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Ein Entwurf macht Schule",
-      "date": "2026-08-10T08:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368120180123220.html",
-      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
       "category": "",
       "debug_has_basel": true
     },
@@ -76,65 +67,56 @@
       "debug_has_basel": true
     },
     {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-08-10T10:00:00+02:00",
-      "city": "Bern",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412779748076586138.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-CVU8SU2H.webp?_=1783337858000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-08-10T10:00:00+02:00",
+      "title": "Український Cozy Клуб Aug",
+      "date": "2026-08-10T19:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412779978276780063.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-49ZMDYQZ.webp?_=1783337837000",
+      "url": "https://eventfrog.ch/en/p/miscellaneous/cozy-aug-7471971118728910375.html",
+      "image": "",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-08-10T10:00:00+02:00",
-      "city": "Zürich",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412786364205271157.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-Q8RFPQHL.webp?_=1783337835000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-08-10T10:00:00+02:00",
+      "title": "\"Goht's no? Open Mic\"",
+      "date": "2026-08-10T19:30:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412778072733182735.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-SCXQ39HC.webp?_=1783359821000",
+      "url": "https://eventfrog.ch/en/p/theatre-stage/comedy-cabaret/goht-s-no-open-mic-7470362029515111661.html",
+      "image": "https://res.eventfrog.net/production_res_public/open-mic-1568-x-958-KI4GS32C-QBUHN2CZ.webp?_=1783500204000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-08-10T10:00:00+02:00",
+      "title": "Im Kreise Ottobonis (Ensemble Tra Noi)",
+      "date": "2026-08-10T20:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412780137878447778.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-HI1N953P.webp?_=1783337839000",
+      "url": "https://eventfrog.ch/de/p/konzerte/weitere-musikrichtungen/im-kreise-ottobonis-ensemble-tra-noi-7487903045755388168.html",
+      "image": "https://res.eventfrog.net/production_res_public/20250815-tranoi-dsc2384-print-6KIVLM11.webp?_=1785255205000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-08-10T10:00:00+02:00",
+      "title": "Barocktage Solothurn - Ensemble Tra Noi: Im Kreise Ottobonis",
+      "date": "2026-08-10T20:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412787447040333577.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-RTBUZUX9.webp?_=1783337843000",
+      "url": "https://eventfrog.ch/de/p/klassik-opern/klassik/barocktage-solothurn-ensemble-tra-noi-im-kreise-ottobonis-7478407606052107179.html",
+      "image": "https://res.eventfrog.net/production_res_public/794c78858dff84526bf6858cd7dd4f182fe2eb53-939294506.webp?_=1782991316000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-08-10T10:00:00+02:00",
+      "title": "2 x 20'",
+      "date": "2026-08-10T20:20:00+02:00",
+      "city": "Luzern",
+      "url": "https://eventfrog.ch/de/p/konzerte/weitere-musikrichtungen/2-x-20-7482516966596435952.html",
+      "image": "https://res.eventfrog.net/production_res_public/konzert-weitere-KQ6FSET9-VF2O7WTS.webp?_=1783397188000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Ein Entwurf macht Schule",
+      "date": "2026-08-11T08:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412787228735241876.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-FZ1EV0DA.webp?_=1783337854000",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368120222066263.html",
+      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
       "category": "",
       "debug_has_basel": true
     }
