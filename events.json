@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 9,
-  "locations_loaded": 436,
+  "count": 8,
+  "locations_loaded": 443,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -9,15 +9,6 @@
       "city": "",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353633385753.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Finissage und Auktion \"Flowers in art\" am 15.08.26",
-      "date": "2026-06-20T14:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/en/p/art-exhibitions/finissage/finissage-und-auktion-flowers-in-art-am-15-08-26-7449097205539957804.html",
-      "image": "https://res.eventfrog.net/production_res_public/flower-exhibition-O7QS3EPO-18F40SKF.webp?_=1783456695000",
       "category": "",
       "debug_has_basel": true
     },
@@ -49,15 +40,6 @@
       "debug_has_basel": true
     },
     {
-      "title": "Einführung ins zeitgenössische Zirkustraining",
-      "date": "2026-07-17T19:30:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/kurse-seminare/sport-fitness/einfuehrung-ins-zeitgenoessische-zirkustraining-7471113936433118377.html",
-      "image": "https://res.eventfrog.net/production_res_public/design-ohne-titel-6-EMZ9HFGC-G28YXAE-1359M07H.webp?_=1783501998000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Tag der offenen Tür",
       "date": "2026-07-26T14:00:00+02:00",
       "city": "",
@@ -76,11 +58,20 @@
       "debug_has_basel": true
     },
     {
-      "title": "Buchung von Ermitage- oder Dorfführung in Arlesheim",
-      "date": "2026-08-15T08:00:00+02:00",
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-08-15T09:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/buchung-von-ermitage-oder-dorffuehrung-in-arlesheim-7448625106140549085.html",
-      "image": "https://res.eventfrog.net/production_res_public/ermitage-ente-4MFEWFRV-6DN6YMBL.webp?_=1783455899000",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686070458921.html",
+      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Test Event Sommergaudi",
+      "date": "2026-08-15T10:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/volksfeste/sommerfest/test-event-sommergaudi-7415819962491624191.html",
+      "image": "https://res.eventfrog.net/production_res_public/dj-OHO6E2HT-XBTVO800.webp?_=1783366689000",
       "category": "",
       "debug_has_basel": true
     }
