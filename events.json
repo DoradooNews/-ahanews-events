@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 7,
-  "locations_loaded": 418,
+  "count": 9,
+  "locations_loaded": 430,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -51,7 +51,7 @@
     {
       "title": "Mycelium - Dein Festival für nachhaltiges Wirken",
       "date": "2026-08-14T09:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/festivals/weitere-festivals/mycelium-dein-festival-fuer-nachhaltiges-wirken-7476279188351111698.html",
       "image": "https://res.eventfrog.net/production_res_public/mycelium-startseite-G8EWOAT7.webp?_=1782843937000",
       "category": "",
@@ -63,6 +63,24 @@
       "city": "",
       "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686112401964.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Vishwanath & Sons - BASEL, SAAL1",
+      "date": "2026-08-16T17:15:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/theater-buehne/theater/vishwanath-sons-basel-saal1-7492556211184757189.html",
+      "image": "https://res.eventfrog.net/production_res_public/mv5bnmi1ndvmodetzdi0zi00otnhlthlzjytotbmzdc4mzm1mt.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Barhopping für Singles",
+      "date": "2026-08-16T19:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/barhopping-fuer-singles-7426562817392645347.html",
+      "image": "https://res.eventfrog.net/production_res_public/f40f16dd14bf203e6d1e03198c1f4aa4b84f-0DI8B991.webp?_=1783399901000",
       "category": "",
       "debug_has_basel": true
     }
