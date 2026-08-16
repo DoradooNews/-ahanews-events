@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 8,
-  "locations_loaded": 443,
+  "count": 7,
+  "locations_loaded": 418,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -59,19 +59,10 @@
     },
     {
       "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-08-15T09:00:00+02:00",
+      "date": "2026-08-16T09:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686070458921.html",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686112401964.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Test Event Sommergaudi",
-      "date": "2026-08-15T10:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/volksfeste/sommerfest/test-event-sommergaudi-7415819962491624191.html",
-      "image": "https://res.eventfrog.net/production_res_public/dj-OHO6E2HT-XBTVO800.webp?_=1783366689000",
       "category": "",
       "debug_has_basel": true
     }
