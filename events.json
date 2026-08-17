@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 9,
-  "locations_loaded": 430,
+  "count": 11,
+  "locations_loaded": 441,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -33,7 +33,7 @@
     {
       "title": "Crossroad – Home in Motion",
       "date": "2026-07-04T14:00:00+02:00",
-      "city": "",
+      "city": "Luzern",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/crossroad-home-in-motion-7470514627777930030.html",
       "image": "https://res.eventfrog.net/production_res_public/kuha-2026-crossroads-insta-slide-108-RRL4J745.webp?_=1783500746000",
       "category": "",
@@ -49,38 +49,56 @@
       "debug_has_basel": true
     },
     {
-      "title": "Mycelium - Dein Festival für nachhaltiges Wirken",
-      "date": "2026-08-14T09:00:00+02:00",
+      "title": "Ein Entwurf macht Schule",
+      "date": "2026-08-17T08:00:00+02:00",
       "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/festivals/weitere-festivals/mycelium-dein-festival-fuer-nachhaltiges-wirken-7476279188351111698.html",
-      "image": "https://res.eventfrog.net/production_res_public/mycelium-startseite-G8EWOAT7.webp?_=1782843937000",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368120415004258.html",
+      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
       "category": "",
       "debug_has_basel": true
     },
     {
       "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-08-16T09:00:00+02:00",
+      "date": "2026-08-17T09:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686112401964.html",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686162733674.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "Vishwanath & Sons - BASEL, SAAL1",
-      "date": "2026-08-16T17:15:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/theater-buehne/theater/vishwanath-sons-basel-saal1-7492556211184757189.html",
-      "image": "https://res.eventfrog.net/production_res_public/mv5bnmi1ndvmodetzdi0zi00otnhlthlzjytotbmzdc4mzm1mt.webp",
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-08-17T10:00:00+02:00",
+      "city": "Zürich",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412786364599535748.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-Q8RFPQHL.webp?_=1783337835000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "Barhopping für Singles",
-      "date": "2026-08-16T19:00:00+02:00",
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-08-17T10:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/barhopping-fuer-singles-7426562817392645347.html",
-      "image": "https://res.eventfrog.net/production_res_public/f40f16dd14bf203e6d1e03198c1f4aa4b84f-0DI8B991.webp?_=1783399901000",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412787447438792472.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-RTBUZUX9.webp?_=1783337843000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-08-17T10:00:00+02:00",
+      "city": "St. Gallen",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412780138306266812.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-HI1N953P.webp?_=1783337839000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-08-17T10:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412787229301472931.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-FZ1EV0DA.webp?_=1783337854000",
       "category": "",
       "debug_has_basel": true
     }
