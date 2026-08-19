@@ -1,3 +1,79 @@
 {
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "status_code": 200,
+  "count": 8,
+  "locations_loaded": 451,
+  "events": [
+    {
+      "title": "Tag der offenen Tür",
+      "date": "2026-05-31T14:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353633385753.html",
+      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Tag der offenen Tür",
+      "date": "2026-06-28T14:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353729854746.html",
+      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Bex Arts - Génies du lieu",
+      "date": "2026-06-30T10:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/fr/p/art-expositions/exposition/bex-arts-genies-du-lieu-7477605385068649672.html",
+      "image": "https://res.eventfrog.net/production_res_public/bex-newsletter-1200x1200px-27-05-202-7M8CAS0D.webp?_=1782800275000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Crossroad – Home in Motion",
+      "date": "2026-07-04T14:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/crossroad-home-in-motion-7470514627777930030.html",
+      "image": "https://res.eventfrog.net/production_res_public/kuha-2026-crossroads-insta-slide-108-RRL4J745.webp?_=1783500746000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Tag der offenen Tür",
+      "date": "2026-07-26T14:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353801157915.html",
+      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "A LOVE LETTER TO IRAN – Kunstausstellung & Film screening",
+      "date": "2026-08-18T13:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/a-love-letter-to-iran-kunstausstellung-film-screening-7489714946239905747.html",
+      "image": "https://res.eventfrog.net/production_res_public/56cf8cc3-2002-47cd-be48-7c191849cc4a-WYGYCWKT.webp?_=1785687196000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-08-19T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686250814062.html",
+      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "«RESONANZEN» in Kooperation mit dem Machwerk Liestal",
+      "date": "2026-08-19T11:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/resonanzen-in-kooperation-mit-dem-machwerk-liestal-7493999189468129688.html",
+      "image": "https://res.eventfrog.net/production_res_public/vsp-26-web-784x479-VPCY27UR.jpg?_=1786708639000",
+      "category": "",
+      "debug_has_basel": true
+    }
+  ]
 }
