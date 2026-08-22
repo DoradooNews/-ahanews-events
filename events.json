@@ -1,12 +1,12 @@
 {
   "status_code": 200,
-  "count": 11,
-  "locations_loaded": 449,
+  "count": 13,
+  "locations_loaded": 432,
   "events": [
     {
       "title": "Tag der offenen Tür",
       "date": "2026-05-31T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353633385753.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -24,7 +24,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-06-28T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353729854746.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -51,18 +51,9 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-07-26T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353801157915.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Zeltwoche des Kinder- und Jugendzirkus \"Pitypalatty\"",
-      "date": "2026-08-17T20:00:00+02:00",
-      "city": "Solothurn",
-      "url": "https://eventfrog.ch/de/p/kinderveranstaltungen/kinderzirkus/zeltwoche-des-kinder-und-jugendzirkus-pitypalatty-7493574051480256025.html",
-      "image": "https://res.eventfrog.net/production_res_public/pity-lommiswil-ASIBTVIE.webp?_=1786908218000",
       "category": "",
       "debug_has_basel": true
     },
@@ -94,11 +85,38 @@
       "debug_has_basel": true
     },
     {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-08-21T09:00:00+02:00",
+      "title": "Sammlung konkret – Dialog mit Maja Rieder",
+      "date": "2026-08-22T00:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686334700147.html",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-7469753139828123720.html",
+      "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Buchung von Ermitage- oder Dorfführung in Arlesheim",
+      "date": "2026-08-22T08:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/buchung-von-ermitage-oder-dorffuehrung-in-arlesheim-7448625106203463647.html",
+      "image": "https://res.eventfrog.net/production_res_public/ermitage-ente-4MFEWFRV-6DN6YMBL.webp?_=1783455899000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-08-22T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686376643189.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "LEARN 3x3 BASKETBALL",
+      "date": "2026-08-22T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/en/p/sport-fitness/basketball/learn-3x3-basketball-7494350638853176384.html",
+      "image": "https://res.eventfrog.net/production_res_public/get-ready-to-challenge-your-friends-Q707T0F8.jpg",
       "category": "",
       "debug_has_basel": true
     }
