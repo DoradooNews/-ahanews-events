@@ -1,12 +1,12 @@
 {
   "status_code": 200,
-  "count": 12,
-  "locations_loaded": 426,
+  "count": 10,
+  "locations_loaded": 432,
   "events": [
     {
       "title": "Tag der offenen Tür",
       "date": "2026-05-31T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353633385753.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -24,7 +24,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-06-28T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353729854746.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -51,18 +51,9 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-07-26T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353801157915.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "A LOVE LETTER TO IRAN – Kunstausstellung & Film screening",
-      "date": "2026-08-18T13:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/a-love-letter-to-iran-kunstausstellung-film-screening-7489714946239905747.html",
-      "image": "https://res.eventfrog.net/production_res_public/56cf8cc3-2002-47cd-be48-7c191849cc4a-WYGYCWKT.webp?_=1785687196000",
       "category": "",
       "debug_has_basel": true
     },
@@ -78,7 +69,7 @@
     {
       "title": "Leo Brunschwiler: Schauend – zeichnend",
       "date": "2026-08-21T00:00:00+02:00",
-      "city": "St. Gallen",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/leo-brunschwiler-schauend-zeichnend-7471683365671846639.html",
       "image": "https://res.eventfrog.net/production_res_public/leo-brunschwiler-ZWN6V6KO-BYIKUKTC-SII40HNU.jpg?_=1783502949000",
       "category": "",
@@ -94,18 +85,9 @@
       "debug_has_basel": true
     },
     {
-      "title": "Photowalk",
-      "date": "2026-08-23T09:00:00+02:00",
-      "city": "Allschwil",
-      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/stadtfuehrung/photowalk-7466739978254422086.html",
-      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-fuehrungen-vort-XYJA5351.png?_=1782362472000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Harry P.Otter und die Zauberprüfung",
       "date": "2026-08-23T09:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686418586231.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
