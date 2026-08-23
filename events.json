@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 11,
-  "locations_loaded": 449,
+  "count": 12,
+  "locations_loaded": 426,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -69,7 +69,7 @@
     {
       "title": "«RESONANZEN» in Kooperation mit dem Machwerk Liestal",
       "date": "2026-08-19T11:00:00+02:00",
-      "city": "Arlesheim",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/resonanzen-in-kooperation-mit-dem-machwerk-liestal-7493999189468129688.html",
       "image": "https://res.eventfrog.net/production_res_public/vsp-26-web-784x479-VPCY27UR.jpg?_=1786708639000",
       "category": "",
@@ -87,17 +87,26 @@
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "Olten",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
       "debug_has_basel": true
     },
     {
+      "title": "Photowalk",
+      "date": "2026-08-23T09:00:00+02:00",
+      "city": "Allschwil",
+      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/stadtfuehrung/photowalk-7466739978254422086.html",
+      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-fuehrungen-vort-XYJA5351.png?_=1782362472000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
       "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-08-22T09:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686376643189.html",
+      "date": "2026-08-23T09:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686418586231.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
