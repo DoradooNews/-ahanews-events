@@ -1,7 +1,7 @@
 {
   "status_code": 200,
   "count": 11,
-  "locations_loaded": 429,
+  "locations_loaded": 423,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -42,7 +42,7 @@
     {
       "title": "Crossroad – Home in Motion",
       "date": "2026-07-04T14:00:00+02:00",
-      "city": "Luzern",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/crossroad-home-in-motion-7470514627777930030.html",
       "image": "https://res.eventfrog.net/production_res_public/kuha-2026-crossroads-insta-slide-108-RRL4J745.webp?_=1783500746000",
       "category": "",
@@ -85,20 +85,20 @@
       "debug_has_basel": true
     },
     {
-      "title": "Ein Entwurf macht Schule",
-      "date": "2026-08-24T08:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368120649885295.html",
-      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Harry P.Otter und die Zauberprüfung",
       "date": "2026-08-24T09:00:00+02:00",
       "city": "",
       "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686460529273.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Pot Still Prestige – Exklusiver Cocktailworkshop in Basel",
+      "date": "2026-08-24T17:30:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/freizeit-ausfluege/sonstige-veranstaltungen/pot-still-prestige-exklusiver-cocktailworkshop-in-basel-7485297138399726794.html",
+      "image": "https://res.eventfrog.net/production_res_public/potstill-webseite-portrait-doubkle-0-LOCNBESA.webp?_=1784633867000",
       "category": "",
       "debug_has_basel": true
     }
