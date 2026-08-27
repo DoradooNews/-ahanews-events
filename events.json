@@ -1,6 +1,6 @@
 {
   "status_code": 200,
-  "count": 10,
+  "count": 13,
   "locations_loaded": 415,
   "events": [
     {
@@ -42,7 +42,7 @@
     {
       "title": "Crossroad – Home in Motion",
       "date": "2026-07-04T14:00:00+02:00",
-      "city": "",
+      "city": "Luzern",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/crossroad-home-in-motion-7470514627777930030.html",
       "image": "https://res.eventfrog.net/production_res_public/kuha-2026-crossroads-insta-slide-108-RRL4J745.webp?_=1783500746000",
       "category": "",
@@ -69,27 +69,54 @@
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "Olten",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
       "debug_has_basel": true
     },
     {
+      "title": "Ein Entwurf macht Schule",
+      "date": "2026-08-27T08:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368120775714421.html",
+      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
       "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-08-26T09:00:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686540221053.html",
+      "date": "2026-08-27T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686582164095.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "Traditionelle Tavolata in der Osteria Tre im Bad Bubendorf",
-      "date": "2026-08-26T18:00:00+02:00",
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-08-27T10:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/traditionelle-tavolata-in-der-osteria-tre-im-bad-bubendorf-7403764066894778062.html",
-      "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-jazz--JOV89WT3.webp?_=1783343606000",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412786365157378200.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-Q8RFPQHL.webp?_=1783337835000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-08-27T10:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412779979237275734.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-49ZMDYQZ.webp?_=1783337837000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-08-27T10:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412779749188076809.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-CVU8SU2H.webp?_=1783337858000",
       "category": "",
       "debug_has_basel": true
     }
