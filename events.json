@@ -1,7 +1,7 @@
 {
   "status_code": 200,
   "count": 15,
-  "locations_loaded": 405,
+  "locations_loaded": 400,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -42,7 +42,7 @@
     {
       "title": "Crossroad – Home in Motion",
       "date": "2026-07-04T14:00:00+02:00",
-      "city": "",
+      "city": "Luzern",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/crossroad-home-in-motion-7470514627777930030.html",
       "image": "https://res.eventfrog.net/production_res_public/kuha-2026-crossroads-insta-slide-108-RRL4J745.webp?_=1783500746000",
       "category": "",
@@ -69,7 +69,7 @@
     {
       "title": "Leo Brunschwiler: Schauend – zeichnend",
       "date": "2026-08-21T00:00:00+02:00",
-      "city": "St. Gallen",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/leo-brunschwiler-schauend-zeichnend-7471683365671846639.html",
       "image": "https://res.eventfrog.net/leo-brunschwiler-0V0GT4GJ.jpg?_=1787909512000",
       "category": "",
@@ -78,7 +78,7 @@
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "",
+      "city": "Olten",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -103,24 +103,6 @@
       "debug_has_basel": true
     },
     {
-      "title": "JAMBO Night x MI CUBA",
-      "date": "2026-08-28T22:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/partys/charts-open-format/jambo-night-x-mi-cuba-7484324991829337879.html",
-      "image": "https://res.eventfrog.net/production_res_public/option-3-14-WK8X1IGZ.png?_=1784402152000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "HH Amma Sri Karunamayi: Meditation Retreat und Vorträge",
-      "date": "2026-08-29T08:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/kurse-seminare/sonstige-kurse-seminare/hh-amma-sri-karunamayi-meditation-retreat-und-vortraege-7467916785318157412.html",
-      "image": "https://res.eventfrog.net/production_res_public/selected-photo-U29QYACQ.webp?_=1782413593000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Buchung von Ermitage- oder Dorfführung in Arlesheim",
       "date": "2026-08-29T08:00:00+02:00",
       "city": "",
@@ -130,11 +112,29 @@
       "debug_has_basel": true
     },
     {
+      "title": "HH Amma Sri Karunamayi: Meditation Retreat und Vorträge",
+      "date": "2026-08-29T08:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/kurse-seminare/sonstige-kurse-seminare/hh-amma-sri-karunamayi-meditation-retreat-und-vortraege-7467916785318157412.html",
+      "image": "https://res.eventfrog.net/production_res_public/selected-photo-U29QYACQ.webp?_=1782413593000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
       "title": "Anjali Yoga Teacher Training",
       "date": "2026-08-29T08:00:00+02:00",
       "city": "",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/sport-fitness/anjali-yoga-teacher-training-7452289049140710493.html",
       "image": "https://res.eventfrog.net/production_res_public/whatsapp-image-2026-03-02-at-16-01-3-RJLGMMQK.webp?_=1783467767000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-08-29T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686670244508.html",
+      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
     }
