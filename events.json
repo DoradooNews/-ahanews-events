@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 15,
-  "locations_loaded": 402,
+  "count": 12,
+  "locations_loaded": 392,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -58,15 +58,6 @@
       "debug_has_basel": true
     },
     {
-      "title": "«RESONANZEN» in Kooperation mit dem Machwerk Liestal",
-      "date": "2026-08-19T11:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/resonanzen-in-kooperation-mit-dem-machwerk-liestal-7493999189468129688.html",
-      "image": "https://res.eventfrog.net/production_res_public/vsp-26-web-784x479-VPCY27UR.jpg?_=1786708639000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Leo Brunschwiler: Schauend – zeichnend",
       "date": "2026-08-21T00:00:00+02:00",
       "city": "",
@@ -78,25 +69,16 @@
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "",
+      "city": "Olten",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "Kunsttage Basel",
-      "date": "2026-08-28T11:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/kultur/kunsttage-basel-7495101809519770481.html",
-      "image": "https://res.eventfrog.net/production_res_public/260618-ktb-facebook-veranstaltung-1920x1080.webp?_=1786971524000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "CAPITAL WEEKENDER 2026",
       "date": "2026-08-28T20:00:00+02:00",
-      "city": "Bern",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/partys/latin-brasil/capital-weekender-2026-7392884230877875009.html",
       "image": "https://res.eventfrog.net/production_res_public/weekender-eventfrog-D7TIDXZD-65KCEI5O.png?_=1783318146000",
       "category": "",
@@ -112,15 +94,6 @@
       "debug_has_basel": true
     },
     {
-      "title": "Janaina Leite: História do Olho",
-      "date": "2026-08-29T21:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/theater-buehne/theater/janaina-leite-historia-do-olho-7477304375544694726.html",
-      "image": "https://res.eventfrog.net/production_res_public/historiadoolho-porcacabernardes-2-E73PSUL7.webp?_=1782728286000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Harry P.Otter und die Zauberprüfung",
       "date": "2026-08-30T09:00:00+02:00",
       "city": "",
@@ -130,11 +103,11 @@
       "debug_has_basel": true
     },
     {
-      "title": "HH Amma Sri Karunamayi: Homa & Saraswati Mantra Diksha",
-      "date": "2026-08-30T09:00:00+02:00",
-      "city": "Dürnten",
-      "url": "https://eventfrog.ch/de/p/kurse-seminare/sonstige-kurse-seminare/hh-amma-sri-karunamayi-homa-saraswati-mantra-diksha-7467918472678218430.html",
-      "image": "https://res.eventfrog.net/production_res_public/saraswati-l1a7490-0UZ0F1JJ.webp?_=1782724830000",
+      "title": "Tag der offenen Tür",
+      "date": "2026-08-30T14:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353864072476.html",
+      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
       "debug_has_basel": true
     }
