@@ -1,12 +1,12 @@
 {
   "status_code": 200,
-  "count": 16,
-  "locations_loaded": 412,
+  "count": 14,
+  "locations_loaded": 398,
   "events": [
     {
       "title": "Tag der offenen Tür",
       "date": "2026-05-31T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353633385753.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -24,7 +24,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-06-28T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353729854746.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -51,7 +51,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-07-26T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353801157915.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -87,63 +87,45 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-08-30T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353864072476.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
       "debug_has_basel": true
     },
     {
+      "title": "Ein Entwurf macht Schule",
+      "date": "2026-09-03T08:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368121014789763.html",
+      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Coming soon - City Walk Basel - blindekuh Basel",
+      "date": "2026-09-03T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/coming-soon-city-walk-basel-blindekuh-basel-7458459596564206339.html",
+      "image": "https://res.eventfrog.net/production_res_public/city-walk-bild-ohne-schrift-HJRI3GDE-PN6JH9F6.webp?_=1783480810000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Sinnesparcours im Dunkeln ·  blindekuh Basel",
+      "date": "2026-09-03T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kurse-seminare/soziale-weiterbildung/sinnesparcours-im-dunkeln-blindekuh-basel-7458595627800226377.html",
+      "image": "https://res.eventfrog.net/production_res_public/blindekuh-basel-2027-4c2f178e-218XGQ-3MDZURZH.webp?_=1783480849000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
       "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-09-02T09:00:00+02:00",
+      "date": "2026-09-03T09:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686833822373.html",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686879959719.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Traditionelle Tavolata in der Osteria Tre im Bad Bubendorf",
-      "date": "2026-09-02T18:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/traditionelle-tavolata-in-der-osteria-tre-im-bad-bubendorf-7403764067133853398.html",
-      "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-jazz--JOV89WT3.webp?_=1783343606000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "TABLE for TWO in der blindekuh Basel",
-      "date": "2026-09-02T18:30:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/table-for-two-in-der-blindekuh-basel-7458594950545962490.html",
-      "image": "https://res.eventfrog.net/production_res_public/1877866-QT1DA004-NT8RC0J8-FRI1BOSY.webp?_=1783480843000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "ESSEN im DUNKLEN - DINNER in the DARK - blindekuh Basel",
-      "date": "2026-09-02T18:30:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/essen-im-dunklen-dinner-in-the-dark-blindekuh-basel-7458472813541760020.html",
-      "image": "https://res.eventfrog.net/production_res_public/dsc0290-0L21RAH2-BS8BCG6L-D8YQGXSX.webp?_=1783480886000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Julia Lezhneva & Kammerorchester Basel",
-      "date": "2026-09-02T19:30:00+02:00",
-      "city": "Saanen",
-      "url": "https://eventfrog.ch/de/p/klassik-opern/klassik/julia-lezhneva-kammerorchester-basel-7443319950519853402.html",
-      "image": "https://res.eventfrog.net/production_res_public/00163a2d270e6d36f1829c9f31dc46941a1b-9F79ZZT3.webp?_=1783443917000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Lesung mit Silke Amberg",
-      "date": "2026-09-02T19:45:00+02:00",
-      "city": "Liestal",
-      "url": "https://eventfrog.ch/de/p/theater-buehne/lesung/lesung-mit-silke-amberg-7478022523713503448.html",
-      "image": "https://res.eventfrog.net/production_res_public/2026-09-silke-amberg-liestal-screen--ZB60MQWE.webp?_=1782899505000",
       "category": "",
       "debug_has_basel": true
     }
