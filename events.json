@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 13,
-  "locations_loaded": 403,
+  "count": 14,
+  "locations_loaded": 416,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -103,20 +103,29 @@
       "debug_has_basel": true
     },
     {
+      "title": "Get your ESNcard",
+      "date": "2026-09-04T13:10:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/messen/messe/get-your-esncard-7501596808767880194.html",
+      "image": "https://res.eventfrog.net/119595823-1453085271556990-320296969-XZ4N0MAF.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
       "title": "Between Mountains",
       "date": "2026-09-04T16:00:00+02:00",
-      "city": "Hölstein",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/festivals/electronic/between-mountains-7470047744490474859.html",
       "image": "https://res.eventfrog.net/production_res_public/between-mountains-5U2YP5X6-7VP6DN4X-2XTQ2VAR.webp?_=1783499498000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "Buchung von Ermitage- oder Dorfführung in Arlesheim",
-      "date": "2026-09-05T08:00:00+02:00",
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-09-05T09:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/buchung-von-ermitage-oder-dorffuehrung-in-arlesheim-7448625106337681379.html",
-      "image": "https://res.eventfrog.net/production_res_public/ermitage-ente-4MFEWFRV-6DN6YMBL.webp?_=1783455899000",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686980623029.html",
+      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
     }
