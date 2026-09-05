@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 11,
-  "locations_loaded": 418,
+  "count": 13,
+  "locations_loaded": 403,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -94,11 +94,29 @@
       "debug_has_basel": true
     },
     {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-09-04T09:00:00+02:00",
+      "title": "Auto/Mobil Basel - Expo 2026",
+      "date": "2026-09-04T12:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/messen/messe/auto-mobil-basel-expo-2026-7459574405191990678.html",
+      "image": "https://res.eventfrog.net/production_res_public/kein-titel-784-x-479-px-36VQ2AOF-81OF-BE5UW8T9.png?_=1783482834000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Between Mountains",
+      "date": "2026-09-04T16:00:00+02:00",
+      "city": "Hölstein",
+      "url": "https://eventfrog.ch/de/p/festivals/electronic/between-mountains-7470047744490474859.html",
+      "image": "https://res.eventfrog.net/production_res_public/between-mountains-5U2YP5X6-7VP6DN4X-2XTQ2VAR.webp?_=1783499498000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Buchung von Ermitage- oder Dorfführung in Arlesheim",
+      "date": "2026-09-05T08:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686926097065.html",
-      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/buchung-von-ermitage-oder-dorffuehrung-in-arlesheim-7448625106337681379.html",
+      "image": "https://res.eventfrog.net/production_res_public/ermitage-ente-4MFEWFRV-6DN6YMBL.webp?_=1783455899000",
       "category": "",
       "debug_has_basel": true
     }
