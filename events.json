@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 14,
-  "locations_loaded": 400,
+  "count": 13,
+  "locations_loaded": 417,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -60,7 +60,7 @@
     {
       "title": "Leo Brunschwiler: Schauend – zeichnend",
       "date": "2026-08-21T00:00:00+02:00",
-      "city": "",
+      "city": "St. Gallen",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/leo-brunschwiler-schauend-zeichnend-7471683365671846639.html",
       "image": "https://res.eventfrog.net/leo-brunschwiler-0V0GT4GJ.jpg?_=1787909512000",
       "category": "",
@@ -94,11 +94,11 @@
       "debug_has_basel": true
     },
     {
-      "title": "Auto/Mobil Basel - Expo 2026",
-      "date": "2026-09-04T12:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/messen/messe/auto-mobil-basel-expo-2026-7459574405191990678.html",
-      "image": "https://res.eventfrog.net/production_res_public/kein-titel-784-x-479-px-36VQ2AOF-81OF-BE5UW8T9.png?_=1783482834000",
+      "title": "EUNJIN KIM - Facetten meines Werks",
+      "date": "2026-09-02T15:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/eunjin-kim-facetten-meines-werks-7494807766407587035.html",
+      "image": "https://res.eventfrog.net/production_res_public/img-3540-NX2CHI4Z.webp?_=1786901419000",
       "category": "",
       "debug_has_basel": true
     },
@@ -108,15 +108,6 @@
       "city": "",
       "url": "https://eventfrog.ch/de/p/messen/messe/get-your-esncard-7501596808767880194.html",
       "image": "https://res.eventfrog.net/119595823-1453085271556990-320296969-XZ4N0MAF.webp",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "BelleVue-Atelier «Generationen»",
-      "date": "2026-09-05T11:00:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/bellevue-atelier-generationen-7498377973126419959.html",
-      "image": "https://res.eventfrog.net/26-02-01-02-TVST7UK9.webp?_=1787752989000",
       "category": "",
       "debug_has_basel": true
     },
