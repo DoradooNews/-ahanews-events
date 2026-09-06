@@ -1,7 +1,7 @@
 {
   "status_code": 200,
   "count": 14,
-  "locations_loaded": 416,
+  "locations_loaded": 400,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -69,7 +69,7 @@
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "Olten",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -96,7 +96,7 @@
     {
       "title": "Auto/Mobil Basel - Expo 2026",
       "date": "2026-09-04T12:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/messen/messe/auto-mobil-basel-expo-2026-7459574405191990678.html",
       "image": "https://res.eventfrog.net/production_res_public/kein-titel-784-x-479-px-36VQ2AOF-81OF-BE5UW8T9.png?_=1783482834000",
       "category": "",
@@ -112,19 +112,19 @@
       "debug_has_basel": true
     },
     {
-      "title": "Between Mountains",
-      "date": "2026-09-04T16:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/festivals/electronic/between-mountains-7470047744490474859.html",
-      "image": "https://res.eventfrog.net/production_res_public/between-mountains-5U2YP5X6-7VP6DN4X-2XTQ2VAR.webp?_=1783499498000",
+      "title": "BelleVue-Atelier «Generationen»",
+      "date": "2026-09-05T11:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/bellevue-atelier-generationen-7498377973126419959.html",
+      "image": "https://res.eventfrog.net/26-02-01-02-TVST7UK9.webp?_=1787752989000",
       "category": "",
       "debug_has_basel": true
     },
     {
       "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-09-05T09:00:00+02:00",
+      "date": "2026-09-06T09:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367686980623029.html",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367687018371767.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
