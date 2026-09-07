@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 19,
-  "locations_loaded": 405,
+  "count": 14,
+  "locations_loaded": 413,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -69,7 +69,7 @@
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "Olten",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -112,65 +112,20 @@
       "debug_has_basel": true
     },
     {
-      "title": "Ein Entwurf macht Schule",
-      "date": "2026-09-07T08:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368121132230281.html",
-      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Harry P.Otter und die Zauberprüfung",
       "date": "2026-09-07T09:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367687056120505.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-09-07T10:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412787448609003333.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-RTBUZUX9.webp?_=1783337843000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-09-07T10:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412787230635261650.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-FZ1EV0DA.webp?_=1783337854000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-09-07T10:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412780139518420893.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-HI1N953P.webp?_=1783337839000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-09-07T10:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412779749913691424.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-CVU8SU2H.webp?_=1783337858000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "MeetByChance - Singles treffen «zufällig» Singles",
-      "date": "2026-09-07T10:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412779979866421356.html",
-      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-49ZMDYQZ.webp?_=1783337837000",
+      "title": "2 x 20",
+      "date": "2026-09-07T20:20:00+02:00",
+      "city": "Luzern",
+      "url": "https://eventfrog.ch/de/p/konzerte/weitere-musikrichtungen/2-x-20-7482517783898536644.html",
+      "image": "https://res.eventfrog.net/production_res_public/konzert-weitere-KQ6FSET9-VF2O7WTS.webp?_=1783397188000",
       "category": "",
       "debug_has_basel": true
     }
