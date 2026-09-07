@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 13,
-  "locations_loaded": 417,
+  "count": 19,
+  "locations_loaded": 405,
   "events": [
     {
       "title": "Tag der offenen Tür",
@@ -60,7 +60,7 @@
     {
       "title": "Leo Brunschwiler: Schauend – zeichnend",
       "date": "2026-08-21T00:00:00+02:00",
-      "city": "St. Gallen",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/leo-brunschwiler-schauend-zeichnend-7471683365671846639.html",
       "image": "https://res.eventfrog.net/leo-brunschwiler-0V0GT4GJ.jpg?_=1787909512000",
       "category": "",
@@ -69,7 +69,7 @@
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "",
+      "city": "Olten",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -94,15 +94,6 @@
       "debug_has_basel": true
     },
     {
-      "title": "EUNJIN KIM - Facetten meines Werks",
-      "date": "2026-09-02T15:00:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/eunjin-kim-facetten-meines-werks-7494807766407587035.html",
-      "image": "https://res.eventfrog.net/production_res_public/img-3540-NX2CHI4Z.webp?_=1786901419000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Get your ESNcard",
       "date": "2026-09-04T13:10:00+02:00",
       "city": "",
@@ -112,11 +103,74 @@
       "debug_has_basel": true
     },
     {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-09-06T09:00:00+02:00",
+      "title": "BelleVue-Atelier «Generationen»",
+      "date": "2026-09-05T11:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/bellevue-atelier-generationen-7498377973126419959.html",
+      "image": "https://res.eventfrog.net/26-02-01-02-TVST7UK9.webp?_=1787752989000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Ein Entwurf macht Schule",
+      "date": "2026-09-07T08:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367687018371767.html",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368121132230281.html",
+      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-09-07T09:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367687056120505.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-09-07T10:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412787448609003333.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-RTBUZUX9.webp?_=1783337843000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-09-07T10:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412787230635261650.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-FZ1EV0DA.webp?_=1783337854000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-09-07T10:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412780139518420893.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-HI1N953P.webp?_=1783337839000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-09-07T10:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412779749913691424.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-CVU8SU2H.webp?_=1783337858000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "MeetByChance - Singles treffen «zufällig» Singles",
+      "date": "2026-09-07T10:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/meetbychance-singles-treffen-zufaellig-singles-7412779979866421356.html",
+      "image": "https://res.eventfrog.net/production_res_public/57a81f21cb2f93548ceead1f315d5a9fc14a-49ZMDYQZ.webp?_=1783337837000",
       "category": "",
       "debug_has_basel": true
     }
