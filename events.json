@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 13,
-  "locations_loaded": 412,
+  "count": 18,
+  "locations_loaded": 392,
   "events": [
     {
       "title": "Ausstellung \"Flowers in art\" zum 30.09.26",
@@ -15,7 +15,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-06-28T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353729854746.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -42,7 +42,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-07-26T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353801157915.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -60,7 +60,7 @@
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "Olten",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -78,7 +78,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-08-30T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353864072476.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -94,6 +94,15 @@
       "debug_has_basel": true
     },
     {
+      "title": "Basisweinkurs – 07. & 14. September 2026",
+      "date": "2026-09-07T18:15:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/essen-trinken/basisweinkurs-07-14-september-2026-7473359083346651448.html",
+      "image": "https://res.eventfrog.net/production_res_public/academie-du-vin-K5YWNY0U-5N4ZYV68-0YHKKQL9.webp?_=1783506431000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
       "title": "Hereinspaziert: Pax feiert 150 Jahre.",
       "date": "2026-09-08T08:00:00+02:00",
       "city": "Basel",
@@ -103,20 +112,56 @@
       "debug_has_basel": true
     },
     {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-09-10T09:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367687173561024.html",
-      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Heart of Touch Training",
       "date": "2026-09-10T09:00:00+02:00",
       "city": "",
       "url": "https://eventfrog.ch/en/p/health-spirituality/health-wellbeing/heart-of-touch-training-7462444364058381486.html",
       "image": "https://res.eventfrog.net/production_res_public/heart-of-touch-training-fb-event-64U-UFCIGFRQ.webp?_=1783487465000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Dr Joe Dispenza",
+      "date": "2026-09-11T00:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/kurse-seminare/sonstige-kurse-seminare/dr-joe-dispenza-7460287330663807159.html",
+      "image": "https://res.eventfrog.net/production_res_public/dij-progressive-retreat-2025-bearbei-9E5XGB4H.webp?_=1783484252000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Ein Entwurf macht Schule",
+      "date": "2026-09-11T08:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368121287419539.html",
+      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Sinnesparcours im Dunkeln ·  blindekuh Basel",
+      "date": "2026-09-11T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kurse-seminare/soziale-weiterbildung/sinnesparcours-im-dunkeln-blindekuh-basel-7458466772401814745.html",
+      "image": "https://res.eventfrog.net/production_res_public/blindekuh-basel-2027-4c2f178e-218XGQ-3MDZURZH.webp?_=1783480849000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "City Walk Basel by blindekuh Basel",
+      "date": "2026-09-11T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/city-walk-basel-by-blindekuh-basel-7458456625780646843.html",
+      "image": "https://res.eventfrog.net/dsc1216-8Q8F1ZRW.webp?_=1788531035000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-09-11T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367687215504066.html",
+      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
     }
