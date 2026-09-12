@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 15,
-  "locations_loaded": 416,
+  "count": 16,
+  "locations_loaded": 406,
   "events": [
     {
       "title": "Ausstellung \"Flowers in art\" zum 30.09.26",
@@ -15,7 +15,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-06-28T14:00:00+02:00",
-      "city": "Pratteln",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353729854746.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -42,7 +42,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-07-26T14:00:00+02:00",
-      "city": "Pratteln",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353801157915.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -60,7 +60,7 @@
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "Olten",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -78,7 +78,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-08-30T14:00:00+02:00",
-      "city": "Pratteln",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353864072476.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -90,6 +90,15 @@
       "city": "",
       "url": "https://eventfrog.ch/de/p/messen/messe/get-your-esncard-7501596808767880194.html",
       "image": "https://res.eventfrog.net/119595823-1453085271556990-320296969-XZ4N0MAF.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Basisweinkurs – 07. & 14. September 2026",
+      "date": "2026-09-07T18:15:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/essen-trinken/basisweinkurs-07-14-september-2026-7473359083346651448.html",
+      "image": "https://res.eventfrog.net/production_res_public/academie-du-vin-K5YWNY0U-5N4ZYV68-0YHKKQL9.webp?_=1783506431000",
       "category": "",
       "debug_has_basel": true
     },
@@ -114,7 +123,7 @@
     {
       "title": "WINE DATE Luzern, Boutique Weinmesse",
       "date": "2026-09-11T15:00:00+02:00",
-      "city": "",
+      "city": "Luzern",
       "url": "https://eventfrog.ch/de/p/essen-trinken/wine-date-luzern-boutique-weinmesse-7499035860966356611.html",
       "image": "https://res.eventfrog.net/wine-date-basel-2024-photo-sara-barth-a1107-web.webp?_=1787909475000",
       "category": "",
@@ -130,11 +139,11 @@
       "debug_has_basel": true
     },
     {
-      "title": "Buchung von Ermitage- oder Dorfführung in Arlesheim",
-      "date": "2026-09-12T08:00:00+02:00",
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-09-12T09:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/buchung-von-ermitage-oder-dorffuehrung-in-arlesheim-7448625106396401638.html",
-      "image": "https://res.eventfrog.net/production_res_public/ermitage-ente-4MFEWFRV-6DN6YMBL.webp?_=1783455899000",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367687253252804.html",
+      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
     }
