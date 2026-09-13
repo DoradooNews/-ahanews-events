@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 19,
-  "locations_loaded": 406,
+  "count": 16,
+  "locations_loaded": 407,
   "events": [
     {
       "title": "Ausstellung \"Flowers in art\" zum 30.09.26",
@@ -15,7 +15,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-06-28T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353729854746.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -42,7 +42,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-07-26T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353801157915.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -60,7 +60,7 @@
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "Olten",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -78,7 +78,7 @@
     {
       "title": "Tag der offenen Tür",
       "date": "2026-08-30T14:00:00+02:00",
-      "city": "",
+      "city": "Pratteln",
       "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353864072476.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
@@ -94,54 +94,27 @@
       "debug_has_basel": true
     },
     {
-      "title": "Basisweinkurs – 07. & 14. September 2026",
-      "date": "2026-09-07T18:15:00+02:00",
+      "title": "BelleVue-Atelier «Generationen»",
+      "date": "2026-09-05T11:00:00+02:00",
       "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/basisweinkurs-07-14-september-2026-7473359083346651448.html",
-      "image": "https://res.eventfrog.net/production_res_public/academie-du-vin-K5YWNY0U-5N4ZYV68-0YHKKQL9.webp?_=1783506431000",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/bellevue-atelier-generationen-7498377973126419959.html",
+      "image": "https://res.eventfrog.net/26-02-01-02-TVST7UK9.webp?_=1787752989000",
       "category": "",
       "debug_has_basel": true
     },
     {
       "title": "Hereinspaziert: Pax feiert 150 Jahre.",
       "date": "2026-09-08T08:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/diverses/hereinspaziert-pax-feiert-150-jahre-7500887466263491637.html",
       "image": "https://res.eventfrog.net/eventfrog-DBX14TGP.webp?_=1788350932000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "Heart of Touch Training",
-      "date": "2026-09-10T09:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/en/p/health-spirituality/health-wellbeing/heart-of-touch-training-7462444364058381486.html",
-      "image": "https://res.eventfrog.net/production_res_public/heart-of-touch-training-fb-event-64U-UFCIGFRQ.webp?_=1783487465000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "WINE DATE Luzern, Boutique Weinmesse",
-      "date": "2026-09-11T15:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/wine-date-luzern-boutique-weinmesse-7499035860966356611.html",
-      "image": "https://res.eventfrog.net/wine-date-basel-2024-photo-sara-barth-a1107-web.webp?_=1787909475000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "enchanté Singfestival Riehen 2026",
-      "date": "2026-09-11T19:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/festivals/weitere-festivals/enchante-singfestival-riehen-2026-7499112446650485287.html",
-      "image": "https://res.eventfrog.net/workshop-stimmung-am-enchante-2024-lisette-spinnle.webp?_=1787927735000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "SON CUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T14:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/son-cubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-7453842737651001704.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-son-cubano-2026-b-quer-3247DIU7.webp?_=1783471639000",
       "category": "",
@@ -150,7 +123,7 @@
     {
       "title": "AFROCUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T15:30:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/afrocubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-7453863078964258469.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-afrocubano-2026-b-quer-3CZYDBJZ.webp?_=1783471145000",
       "category": "",
@@ -159,7 +132,7 @@
     {
       "title": "INKLUSIV Arlesheim: 2.Freiluftausstellung der besonderen Art",
       "date": "2026-09-13T08:00:00+02:00",
-      "city": "Arlesheim",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/inklusiv-arlesheim-2-freiluftausstellung-der-besonderen-art-7492686509394404258.html",
       "image": "https://res.eventfrog.net/production_res_public/inklusiv-arlesheim-2026-eventfrog-S1TR2M3S.webp?_=1786969832000",
       "category": "",
