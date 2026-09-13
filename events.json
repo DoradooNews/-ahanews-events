@@ -1,6 +1,6 @@
 {
   "status_code": 200,
-  "count": 16,
+  "count": 19,
   "locations_loaded": 406,
   "events": [
     {
@@ -60,7 +60,7 @@
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "",
+      "city": "Olten",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -105,7 +105,7 @@
     {
       "title": "Hereinspaziert: Pax feiert 150 Jahre.",
       "date": "2026-09-08T08:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/diverses/hereinspaziert-pax-feiert-150-jahre-7500887466263491637.html",
       "image": "https://res.eventfrog.net/eventfrog-DBX14TGP.webp?_=1788350932000",
       "category": "",
@@ -123,7 +123,7 @@
     {
       "title": "WINE DATE Luzern, Boutique Weinmesse",
       "date": "2026-09-11T15:00:00+02:00",
-      "city": "Luzern",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/essen-trinken/wine-date-luzern-boutique-weinmesse-7499035860966356611.html",
       "image": "https://res.eventfrog.net/wine-date-basel-2024-photo-sara-barth-a1107-web.webp?_=1787909475000",
       "category": "",
@@ -139,10 +139,37 @@
       "debug_has_basel": true
     },
     {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-09-12T09:00:00+02:00",
+      "title": "SON CUBANO – Aufbaustufe für erfahrene Anfänger:innen",
+      "date": "2026-09-12T14:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367687253252804.html",
+      "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/son-cubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-7453842737651001704.html",
+      "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-son-cubano-2026-b-quer-3247DIU7.webp?_=1783471639000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "AFROCUBANO – Aufbaustufe für erfahrene Anfänger:innen",
+      "date": "2026-09-12T15:30:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/afrocubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-7453863078964258469.html",
+      "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-afrocubano-2026-b-quer-3CZYDBJZ.webp?_=1783471145000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "INKLUSIV Arlesheim: 2.Freiluftausstellung der besonderen Art",
+      "date": "2026-09-13T08:00:00+02:00",
+      "city": "Arlesheim",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/inklusiv-arlesheim-2-freiluftausstellung-der-besonderen-art-7492686509394404258.html",
+      "image": "https://res.eventfrog.net/production_res_public/inklusiv-arlesheim-2026-eventfrog-S1TR2M3S.webp?_=1786969832000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-09-13T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367687295195846.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
