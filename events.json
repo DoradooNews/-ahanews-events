@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 15,
-  "locations_loaded": 416,
+  "count": 17,
+  "locations_loaded": 423,
   "events": [
     {
       "title": "Ausstellung \"Flowers in art\" zum 30.09.26",
@@ -51,7 +51,7 @@
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "Olten",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -130,11 +130,29 @@
       "debug_has_basel": true
     },
     {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-09-18T09:00:00+02:00",
+      "title": "Techstars Startup Weekend Circular Economy Basel FALL 2026",
+      "date": "2026-09-18T17:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367687488133840.html",
-      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "url": "https://eventfrog.ch/en/p/miscellaneous/techstars-startup-weekend-circular-economy-basel-fall-2026-7479825833898574596.html",
+      "image": "https://res.eventfrog.net/production_res_public/name-and-logo-0JL07KHQ-KG2ERO8P.webp?_=1783510352000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "NEW WAVE @ ALICE CLUB BASEL",
+      "date": "2026-09-18T23:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/partys/studentenparty/new-wave-alice-club-basel-7502689001154867812.html",
+      "image": "https://res.eventfrog.net/img-7290-ME2IYC4X.webp?_=1789309746000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Buchung von Ermitage- oder Dorfführung in Arlesheim",
+      "date": "2026-09-19T08:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/buchung-von-ermitage-oder-dorffuehrung-in-arlesheim-7448625106459316200.html",
+      "image": "https://res.eventfrog.net/production_res_public/ermitage-ente-4MFEWFRV-6DN6YMBL.webp?_=1783455899000",
       "category": "",
       "debug_has_basel": true
     }
