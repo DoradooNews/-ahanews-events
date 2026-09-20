@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 17,
-  "locations_loaded": 415,
+  "count": 16,
+  "locations_loaded": 417,
   "events": [
     {
       "title": "Ausstellung \"Flowers in art\" zum 30.09.26",
@@ -33,7 +33,7 @@
     {
       "title": "Crossroad – Home in Motion",
       "date": "2026-07-04T14:00:00+02:00",
-      "city": "",
+      "city": "Luzern",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/crossroad-home-in-motion-7470514627777930030.html",
       "image": "https://res.eventfrog.net/production_res_public/kuha-2026-crossroads-insta-slide-108-RRL4J745.webp?_=1783500746000",
       "category": "",
@@ -85,27 +85,27 @@
       "debug_has_basel": true
     },
     {
+      "title": "BelleVue-Atelier «Generationen»",
+      "date": "2026-09-05T11:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/bellevue-atelier-generationen-7498377973126419959.html",
+      "image": "https://res.eventfrog.net/26-02-01-02-TVST7UK9.webp?_=1787752989000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
       "title": "Hereinspaziert: Pax feiert 150 Jahre.",
       "date": "2026-09-08T08:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/diverses/hereinspaziert-pax-feiert-150-jahre-7500887466263491637.html",
       "image": "https://res.eventfrog.net/eventfrog-DBX14TGP.webp?_=1788350932000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "Marlène Pichler: Edelweiss",
-      "date": "2026-09-11T00:00:00+02:00",
-      "city": "Luzern",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/marlene-pichler-edelweiss-7495236037234398922.html",
-      "image": "https://res.eventfrog.net/production_res_public/marlene-pichler-edelweiss-ABFMITSD.webp",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "SON CUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T14:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/son-cubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-7453842737651001704.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-son-cubano-2026-b-quer-3247DIU7.webp?_=1783471639000",
       "category": "",
@@ -114,7 +114,7 @@
     {
       "title": "AFROCUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T15:30:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/afrocubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-7453863078964258469.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-afrocubano-2026-b-quer-3CZYDBJZ.webp?_=1783471145000",
       "category": "",
@@ -139,20 +139,11 @@
       "debug_has_basel": true
     },
     {
-      "title": "Techstars Startup Weekend Circular Economy Basel FALL 2026",
-      "date": "2026-09-18T17:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/en/p/miscellaneous/techstars-startup-weekend-circular-economy-basel-fall-2026-7479825833898574596.html",
-      "image": "https://res.eventfrog.net/production_res_public/name-and-logo-0JL07KHQ-KG2ERO8P.webp?_=1783510352000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "ARISE Next Level Konferenz 2026",
-      "date": "2026-09-19T09:30:00+02:00",
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-09-20T09:00:00+02:00",
       "city": "Basel",
-      "url": "https://eventfrog.ch/en/p/miscellaneous/arise-next-level-konferenz-2026-7493636582190127390.html",
-      "image": "https://res.eventfrog.net/production_res_public/arise26de-1920x1080new-163A4QZZ.webp?_=1786622367000",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367687567825620.html",
+      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
     }
