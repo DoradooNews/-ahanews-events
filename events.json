@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 19,
-  "locations_loaded": 412,
+  "count": 17,
+  "locations_loaded": 415,
   "events": [
     {
       "title": "Ausstellung \"Flowers in art\" zum 30.09.26",
@@ -87,7 +87,7 @@
     {
       "title": "Hereinspaziert: Pax feiert 150 Jahre.",
       "date": "2026-09-08T08:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/diverses/hereinspaziert-pax-feiert-150-jahre-7500887466263491637.html",
       "image": "https://res.eventfrog.net/eventfrog-DBX14TGP.webp?_=1788350932000",
       "category": "",
@@ -123,7 +123,7 @@
     {
       "title": "INKLUSIV Arlesheim: 2.Freiluftausstellung der besonderen Art",
       "date": "2026-09-13T08:00:00+02:00",
-      "city": "Arlesheim",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/inklusiv-arlesheim-2-freiluftausstellung-der-besonderen-art-7492686509394404258.html",
       "image": "https://res.eventfrog.net/production_res_public/inklusiv-arlesheim-2026-eventfrog-S1TR2M3S.webp?_=1786969832000",
       "category": "",
@@ -148,27 +148,9 @@
       "debug_has_basel": true
     },
     {
-      "title": "NEW WAVE @ ALICE CLUB BASEL",
-      "date": "2026-09-18T23:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/partys/studentenparty/new-wave-alice-club-basel-7502689001154867812.html",
-      "image": "https://res.eventfrog.net/img-7290-ME2IYC4X.webp?_=1789309746000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-09-19T09:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367687530076882.html",
-      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "ARISE Next Level Konferenz 2026",
       "date": "2026-09-19T09:30:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/en/p/miscellaneous/arise-next-level-konferenz-2026-7493636582190127390.html",
       "image": "https://res.eventfrog.net/production_res_public/arise26de-1920x1080new-163A4QZZ.webp?_=1786622367000",
       "category": "",
