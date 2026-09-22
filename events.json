@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 13,
-  "locations_loaded": 397,
+  "count": 17,
+  "locations_loaded": 367,
   "events": [
     {
       "title": "Ausstellung \"Flowers in art\" zum 30.09.26",
@@ -51,7 +51,7 @@
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "",
+      "city": "Olten",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -81,6 +81,15 @@
       "city": "",
       "url": "https://eventfrog.ch/de/p/messen/messe/get-your-esncard-7501596808767880194.html",
       "image": "https://res.eventfrog.net/119595823-1453085271556990-320296969-XZ4N0MAF.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "BelleVue-Atelier «Generationen»",
+      "date": "2026-09-05T11:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/bellevue-atelier-generationen-7498377973126419959.html",
+      "image": "https://res.eventfrog.net/26-02-01-02-TVST7UK9.webp?_=1787752989000",
       "category": "",
       "debug_has_basel": true
     },
@@ -117,6 +126,33 @@
       "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/inklusiv-arlesheim-2-freiluftausstellung-der-besonderen-art-7492686509394404258.html",
       "image": "https://res.eventfrog.net/production_res_public/inklusiv-arlesheim-2026-eventfrog-S1TR2M3S.webp?_=1786969832000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Ein Entwurf macht Schule",
+      "date": "2026-09-22T08:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368121660712615.html",
+      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "City Walk Basel by blindekuh Basel",
+      "date": "2026-09-22T09:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/city-walk-basel-by-blindekuh-basel-7458459596811670289.html",
+      "image": "https://res.eventfrog.net/dsc1216-8Q8F1ZRW.webp?_=1788531035000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Sinnesparcours im Dunkeln ·  blindekuh Basel",
+      "date": "2026-09-22T09:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/kurse-seminare/soziale-weiterbildung/sinnesparcours-im-dunkeln-blindekuh-basel-7458595628051884631.html",
+      "image": "https://res.eventfrog.net/production_res_public/blindekuh-basel-2027-4c2f178e-218XGQ-3MDZURZH.webp?_=1783480849000",
       "category": "",
       "debug_has_basel": true
     }
