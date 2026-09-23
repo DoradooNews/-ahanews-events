@@ -1,6 +1,6 @@
 {
   "status_code": 200,
-  "count": 15,
+  "count": 10,
   "locations_loaded": 384,
   "events": [
     {
@@ -9,15 +9,6 @@
       "city": "",
       "url": "https://eventfrog.ch/en/p/art-exhibitions/exhibition/ausstellung-flowers-in-art-zum-30-09-26-7449097205539957804.html",
       "image": "https://res.eventfrog.net/flower-exhibition-8-LH0G4AZE.webp?_=1787217192000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Tag der offenen Tür",
-      "date": "2026-06-28T14:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353729854746.html",
-      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
       "category": "",
       "debug_has_basel": true
     },
@@ -40,15 +31,6 @@
       "debug_has_basel": true
     },
     {
-      "title": "Tag der offenen Tür",
-      "date": "2026-07-26T14:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353801157915.html",
-      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
       "city": "",
@@ -67,15 +49,6 @@
       "debug_has_basel": true
     },
     {
-      "title": "Tag der offenen Tür",
-      "date": "2026-08-30T14:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/wissenschaft-und-technik/tag-der-offenen-tuer-7307384353864072476.html",
-      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-wissenschaft-te-DW9PPF0P.png?_=1782362481000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Get your ESNcard",
       "date": "2026-09-04T13:10:00+02:00",
       "city": "",
@@ -85,18 +58,9 @@
       "debug_has_basel": true
     },
     {
-      "title": "BelleVue-Atelier «Generationen»",
-      "date": "2026-09-05T11:00:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/bellevue-atelier-generationen-7498377973126419959.html",
-      "image": "https://res.eventfrog.net/26-02-01-02-TVST7UK9.webp?_=1787752989000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Hereinspaziert: Pax feiert 150 Jahre.",
       "date": "2026-09-08T08:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/diverses/hereinspaziert-pax-feiert-150-jahre-7500887466263491637.html",
       "image": "https://res.eventfrog.net/eventfrog-DBX14TGP.webp?_=1788350932000",
       "category": "",
@@ -105,7 +69,7 @@
     {
       "title": "SON CUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T14:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/son-cubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-7453842737651001704.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-son-cubano-2026-b-quer-3247DIU7.webp?_=1783471639000",
       "category": "",
@@ -114,27 +78,18 @@
     {
       "title": "AFROCUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T15:30:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/afrocubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-7453863078964258469.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-afrocubano-2026-b-quer-3CZYDBJZ.webp?_=1783471145000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "INKLUSIV Arlesheim: 2.Freiluftausstellung der besonderen Art",
-      "date": "2026-09-13T08:00:00+02:00",
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-09-23T09:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/inklusiv-arlesheim-2-freiluftausstellung-der-besonderen-art-7492686509394404258.html",
-      "image": "https://res.eventfrog.net/production_res_public/inklusiv-arlesheim-2026-eventfrog-S1TR2M3S.webp?_=1786969832000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Ein Entwurf macht Schule",
-      "date": "2026-09-23T08:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368121698461353.html",
-      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367687685266138.html",
+      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
     }
