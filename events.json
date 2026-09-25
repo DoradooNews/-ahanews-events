@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 12,
-  "locations_loaded": 386,
+  "count": 11,
+  "locations_loaded": 391,
   "events": [
     {
       "title": "Ausstellung \"Flowers in art\" zum 30.09.26",
@@ -24,7 +24,7 @@
     {
       "title": "Crossroad – Home in Motion",
       "date": "2026-07-04T14:00:00+02:00",
-      "city": "",
+      "city": "Luzern",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/crossroad-home-in-motion-7470514627777930030.html",
       "image": "https://res.eventfrog.net/production_res_public/kuha-2026-crossroads-insta-slide-108-RRL4J745.webp?_=1783500746000",
       "category": "",
@@ -33,7 +33,7 @@
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "",
+      "city": "Olten",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -58,29 +58,11 @@
       "debug_has_basel": true
     },
     {
-      "title": "BelleVue-Atelier «Generationen»",
-      "date": "2026-09-05T11:00:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/bellevue-atelier-generationen-7498377973126419959.html",
-      "image": "https://res.eventfrog.net/26-02-01-02-TVST7UK9.webp?_=1787752989000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Hereinspaziert: Pax feiert 150 Jahre.",
       "date": "2026-09-08T08:00:00+02:00",
       "city": "",
       "url": "https://eventfrog.ch/de/p/diverses/hereinspaziert-pax-feiert-150-jahre-7500887466263491637.html",
       "image": "https://res.eventfrog.net/eventfrog-DBX14TGP.webp?_=1788350932000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Marlène Pichler: Edelweiss",
-      "date": "2026-09-11T00:00:00+02:00",
-      "city": "Luzern",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/marlene-pichler-edelweiss-7495236037234398922.html",
-      "image": "https://res.eventfrog.net/production_res_public/marlene-pichler-edelweiss-ABFMITSD.webp",
       "category": "",
       "debug_has_basel": true
     },
@@ -103,11 +85,20 @@
       "debug_has_basel": true
     },
     {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-09-24T09:00:00+02:00",
+      "title": "Barhopping für Singles",
+      "date": "2026-09-25T00:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367687723014876.html",
-      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "url": "https://eventfrog.ch/de/p/dating/sonstige-veranstaltungen/barhopping-fuer-singles-7426524897810115343.html",
+      "image": "https://res.eventfrog.net/production_res_public/3cb1c555064a3739a2ef4a2d04bd2c0a81b5-2YAPZZP7.webp?_=1783399800000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Ein Entwurf macht Schule",
+      "date": "2026-09-25T08:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368121782347437.html",
+      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
       "category": "",
       "debug_has_basel": true
     }
