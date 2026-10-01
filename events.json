@@ -1,7 +1,7 @@
 {
   "status_code": 200,
   "count": 9,
-  "locations_loaded": 353,
+  "locations_loaded": 348,
   "events": [
     {
       "title": "Bex Arts - Génies du lieu",
@@ -40,18 +40,9 @@
       "debug_has_basel": true
     },
     {
-      "title": "Marlène Pichler: Edelweiss",
-      "date": "2026-09-11T00:00:00+02:00",
-      "city": "Luzern",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/marlene-pichler-edelweiss-7495236037234398922.html",
-      "image": "https://res.eventfrog.net/production_res_public/marlene-pichler-edelweiss-ABFMITSD.webp",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "SON CUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T14:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/son-cubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-7453842737651001704.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-son-cubano-2026-b-quer-3247DIU7.webp?_=1783471639000",
       "category": "",
@@ -60,7 +51,7 @@
     {
       "title": "AFROCUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T15:30:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/afrocubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-7453863078964258469.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-afrocubano-2026-b-quer-3CZYDBJZ.webp?_=1783471145000",
       "category": "",
@@ -69,18 +60,27 @@
     {
       "title": "Claude Cueni",
       "date": "2026-09-30T11:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/claude-cueni-7494055094264041438.html",
       "image": "https://res.eventfrog.net/production_res_public/bildschirmfoto-2026-08-14-um-16-57-57.webp?_=1786721968000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "Ein Entwurf macht Schule",
-      "date": "2026-10-01T08:00:00+02:00",
+      "title": "Pulp Non-Fiction",
+      "date": "2026-10-01T20:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/en/p/theatre-stage/comedy-cabaret/pulp-non-fiction-7480253928614967663.html",
+      "image": "https://res.eventfrog.net/production_res_public/pulpnon-fiction-2026-ef-FQY70NZJ-DIWRMYQF.png?_=1783510444000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Semesterparty / Studentenparty",
+      "date": "2026-10-01T22:00:00+02:00",
       "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368121979479736.html",
-      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
+      "url": "https://eventfrog.ch/de/p/partys/studentenparty/semesterparty-studentenparty-7492286031661685612.html",
+      "image": "https://res.eventfrog.net/d51e733d-4c8d-4ac9-aff2-eae0fad4253f-4QKFDVOL.webp?_=1787409293000",
       "category": "",
       "debug_has_basel": true
     }
