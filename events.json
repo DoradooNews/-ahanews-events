@@ -1,21 +1,12 @@
 {
   "status_code": 200,
-  "count": 10,
-  "locations_loaded": 380,
+  "count": 7,
+  "locations_loaded": 374,
   "events": [
-    {
-      "title": "Bex Arts - Génies du lieu",
-      "date": "2026-06-30T10:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/fr/p/art-expositions/exposition/bex-arts-genies-du-lieu-7477605385068649672.html",
-      "image": "https://res.eventfrog.net/production_res_public/bex-newsletter-1200x1200px-27-05-202-7M8CAS0D.webp?_=1782800275000",
-      "category": "",
-      "debug_has_basel": true
-    },
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "Olten",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -42,7 +33,7 @@
     {
       "title": "SON CUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T14:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/son-cubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-7453842737651001704.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-son-cubano-2026-b-quer-3247DIU7.webp?_=1783471639000",
       "category": "",
@@ -51,27 +42,9 @@
     {
       "title": "AFROCUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T15:30:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/afrocubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-7453863078964258469.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-afrocubano-2026-b-quer-3CZYDBJZ.webp?_=1783471145000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Claude Cueni",
-      "date": "2026-09-30T11:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/claude-cueni-7494055094264041438.html",
-      "image": "https://res.eventfrog.net/production_res_public/bildschirmfoto-2026-08-14-um-16-57-57.webp?_=1786721968000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Retreat: Der spirituelle Weg zur Erleuchtung",
-      "date": "2026-10-01T09:00:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/spiritualitaet/retreat-der-spirituelle-weg-zur-erleuchtung-7464997807901905464.html",
-      "image": "https://res.eventfrog.net/production_res_public/light-R3WKXEIO-A825D8SJ.webp?_=1783491106000",
       "category": "",
       "debug_has_basel": true
     },
@@ -85,11 +58,11 @@
       "debug_has_basel": true
     },
     {
-      "title": "Buchung von Ermitage- oder Dorfführung in Arlesheim",
-      "date": "2026-10-03T08:00:00+02:00",
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-10-03T09:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/buchung-von-ermitage-oder-dorffuehrung-in-arlesheim-7448625106652254188.html",
-      "image": "https://res.eventfrog.net/production_res_public/ermitage-ente-4MFEWFRV-6DN6YMBL.webp?_=1783455899000",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367688100502254.html",
+      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
     }
