@@ -1,12 +1,12 @@
 {
   "status_code": 200,
   "count": 7,
-  "locations_loaded": 374,
+  "locations_loaded": 388,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "",
+      "city": "Olten",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -49,20 +49,20 @@
       "debug_has_basel": true
     },
     {
+      "title": "Retreat: Der spirituelle Weg zur Erleuchtung",
+      "date": "2026-10-01T09:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/spiritualitaet/retreat-der-spirituelle-weg-zur-erleuchtung-7464997807901905464.html",
+      "image": "https://res.eventfrog.net/production_res_public/light-R3WKXEIO-A825D8SJ.webp?_=1783491106000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
       "title": "Pulp Non-Fiction",
       "date": "2026-10-01T20:00:00+02:00",
       "city": "",
       "url": "https://eventfrog.ch/en/p/theatre-stage/comedy-cabaret/pulp-non-fiction-7480253928614967663.html",
       "image": "https://res.eventfrog.net/production_res_public/pulpnon-fiction-2026-ef-FQY70NZJ-DIWRMYQF.png?_=1783510444000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-10-03T09:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367688100502254.html",
-      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
     }
