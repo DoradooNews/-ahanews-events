@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 7,
-  "locations_loaded": 378,
+  "count": 11,
+  "locations_loaded": 366,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -58,10 +58,46 @@
       "debug_has_basel": true
     },
     {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-10-04T09:00:00+02:00",
+      "title": "Rette nicht die Welt, sondern gestalte dein Leben",
+      "date": "2026-10-05T00:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367688138250993.html",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/rette-nicht-die-welt-sondern-gestalte-dein-leben-7503207344261612686.html",
+      "image": "https://res.eventfrog.net/rette-nicht-die-welt-sondern-gestalt-XOVX98GD.webp",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Ein Entwurf macht Schule",
+      "date": "2026-10-05T08:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-7473368122096920255.html",
+      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Herbstferiencamp „Pep & Fun“",
+      "date": "2026-10-05T08:15:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kinderveranstaltungen/ferienprogramm/herbstferiencamp-pep-fun-7477691426840517005.html",
+      "image": "https://res.eventfrog.net/production_res_public/26-flyervorlage-herbst-ferinegesaltu-TPWOAQOW.webp?_=1782820566000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "LEGO® for everyone",
+      "date": "2026-10-05T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/en/p/leisure-excursions/groups-games/lego-for-everyone-7506026635629468247.html",
+      "image": "https://res.eventfrog.net/agenda-X9KQX9BP.webp?_=1789576206000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Harry P.Otter und die Zauberprüfung",
+      "date": "2026-10-05T09:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-7481367688175999743.html",
       "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
       "category": "",
       "debug_has_basel": true
