@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 14,
-  "locations_loaded": 367,
+  "count": 12,
+  "locations_loaded": 360,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -49,15 +49,6 @@
       "debug_has_basel": true
     },
     {
-      "title": "Pulp Non-Fiction",
-      "date": "2026-10-01T20:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/en/p/comedy/comedy-cabaret/pulp-non-fiction-basel-7480253928614967663.html",
-      "image": "https://res.eventfrog.net/production_res_public/pulpnon-fiction-2026-ef-FQY70NZJ-DIWRMYQF.png?_=1783510444000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Malive",
       "date": "2026-10-01T23:00:00+02:00",
       "city": "",
@@ -69,7 +60,7 @@
     {
       "title": "Rette nicht die Welt, sondern gestalte dein Leben",
       "date": "2026-10-05T00:00:00+02:00",
-      "city": "St.Gallen",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/rette-nicht-die-welt-sondern-gestalte-dein-leben-st-gallen-7503207344261612686.html",
       "image": "https://res.eventfrog.net/rette-nicht-die-welt-sondern-gestalt-XOVX98GD.webp",
       "category": "",
@@ -87,45 +78,36 @@
     {
       "title": "LEGO® for everyone",
       "date": "2026-10-05T09:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/en/p/leisure-excursions/groups-games/lego-for-everyone-basel-7506026635629468247.html",
       "image": "https://res.eventfrog.net/agenda-X9KQX9BP.webp?_=1789576206000",
       "category": "",
       "debug_has_basel": true
     },
     {
+      "title": "Intercantonal 2000's Party",
+      "date": "2026-10-07T23:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/partys/studierendenparty/intercantonal-2000-s-party-st-gallen-7509203200076991276.html",
+      "image": "https://res.eventfrog.net/011026-intercantonal-party-eventfrog-LLR3PRCW.webp?_=1790333666000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Intercantonal 2000's Party",
+      "date": "2026-10-07T23:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/partys/00s/intercantonal-2000-s-party-st-gallen-7500813925476266524.html",
+      "image": "https://res.eventfrog.net/011026-intercantonal-party-16zu9-web-XRBZJS7N.webp?_=1788443778000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
       "title": "Ein Entwurf macht Schule",
-      "date": "2026-10-07T08:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-basel-7473368122180806339.html",
-      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Sinnesparcours im Dunkeln ·  blindekuh Basel",
-      "date": "2026-10-07T09:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/kurse-seminare/soziale-weiterbildung/sinnesparcours-im-dunkeln-blindekuh-basel-basel-7458595628295154278.html",
-      "image": "https://res.eventfrog.net/production_res_public/blindekuh-basel-2027-4c2f178e-218XGQ-3MDZURZH.webp?_=1783480849000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "City Walk Basel by blindekuh Basel",
-      "date": "2026-10-07T09:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/fuehrung/city-walk-basel-by-blindekuh-basel-basel-7458459597050745633.html",
-      "image": "https://res.eventfrog.net/dsc1216-8Q8F1ZRW.webp?_=1788531035000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-10-07T09:00:00+02:00",
+      "date": "2026-10-08T08:00:00+02:00",
       "city": "Basel",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-basel-7481367688264080131.html",
-      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-basel-7473368122222749381.html",
+      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
       "category": "",
       "debug_has_basel": true
     }
