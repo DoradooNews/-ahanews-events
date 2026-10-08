@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 12,
-  "locations_loaded": 360,
+  "count": 10,
+  "locations_loaded": 356,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -51,7 +51,7 @@
     {
       "title": "Malive",
       "date": "2026-10-01T23:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/partys/house-techno/malive-basel-7506361796468413701.html",
       "image": "https://res.eventfrog.net/261031-malive-socials-b-5NSYOBP7.webp?_=1789656114000",
       "category": "",
@@ -81,24 +81,6 @@
       "city": "",
       "url": "https://eventfrog.ch/en/p/leisure-excursions/groups-games/lego-for-everyone-basel-7506026635629468247.html",
       "image": "https://res.eventfrog.net/agenda-X9KQX9BP.webp?_=1789576206000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Intercantonal 2000's Party",
-      "date": "2026-10-07T23:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/partys/studierendenparty/intercantonal-2000-s-party-st-gallen-7509203200076991276.html",
-      "image": "https://res.eventfrog.net/011026-intercantonal-party-eventfrog-LLR3PRCW.webp?_=1790333666000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Intercantonal 2000's Party",
-      "date": "2026-10-07T23:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/partys/00s/intercantonal-2000-s-party-st-gallen-7500813925476266524.html",
-      "image": "https://res.eventfrog.net/011026-intercantonal-party-16zu9-web-XRBZJS7N.webp?_=1788443778000",
       "category": "",
       "debug_has_basel": true
     },
