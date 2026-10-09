@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 12,
-  "locations_loaded": 348,
+  "count": 9,
+  "locations_loaded": 358,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -67,18 +67,9 @@
       "debug_has_basel": true
     },
     {
-      "title": "Herbstferiencamp „Pep & Fun“",
-      "date": "2026-10-05T08:15:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/kinderveranstaltungen/ferienprogramm/herbstferiencamp-pep-fun-basel-7477691426840517005.html",
-      "image": "https://res.eventfrog.net/production_res_public/26-flyervorlage-herbst-ferinegesaltu-TPWOAQOW.webp?_=1782820566000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "LEGO® for everyone",
       "date": "2026-10-05T09:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/en/p/leisure-excursions/groups-games/lego-for-everyone-basel-7506026635629468247.html",
       "image": "https://res.eventfrog.net/agenda-X9KQX9BP.webp?_=1789576206000",
       "category": "",
@@ -90,24 +81,6 @@
       "city": "",
       "url": "https://eventfrog.ch/de/p/sport-fitness/sonstige-veranstaltungen/swiss-darts-trophy-basel-7460297875211199290.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-sport-fitness-2-1WXM2263.png?_=1782362479000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Ein Entwurf macht Schule",
-      "date": "2026-10-09T08:00:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-basel-7473368122260498119.html",
-      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Men's World Class Curling Swiss Cup Basel",
-      "date": "2026-10-09T08:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/sport-fitness/sonstige-veranstaltungen/men-s-world-class-curling-swiss-cup-basel-arlesheim-7449374297208919962.html",
-      "image": "https://res.eventfrog.net/production_res_public/logo-rund-2025-12S8V4LY-KLVIV75G.webp?_=1783457126000",
       "category": "",
       "debug_has_basel": true
     }
