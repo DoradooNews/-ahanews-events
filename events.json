@@ -1,12 +1,12 @@
 {
   "status_code": 200,
-  "count": 9,
-  "locations_loaded": 358,
+  "count": 10,
+  "locations_loaded": 352,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "Olten",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-olten-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -33,7 +33,7 @@
     {
       "title": "SON CUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T14:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/son-cubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-basel-7453842737651001704.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-son-cubano-2026-b-quer-3247DIU7.webp?_=1783471639000",
       "category": "",
@@ -42,7 +42,7 @@
     {
       "title": "AFROCUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T15:30:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/afrocubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-basel-7453863078964258469.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-afrocubano-2026-b-quer-3CZYDBJZ.webp?_=1783471145000",
       "category": "",
@@ -69,7 +69,7 @@
     {
       "title": "LEGO® for everyone",
       "date": "2026-10-05T09:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/en/p/leisure-excursions/groups-games/lego-for-everyone-basel-7506026635629468247.html",
       "image": "https://res.eventfrog.net/agenda-X9KQX9BP.webp?_=1789576206000",
       "category": "",
@@ -78,9 +78,18 @@
     {
       "title": "Swiss Darts Trophy",
       "date": "2026-10-09T00:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/sport-fitness/sonstige-veranstaltungen/swiss-darts-trophy-basel-7460297875211199290.html",
       "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-sport-fitness-2-1WXM2263.png?_=1782362479000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Cow Descent and Hike in Lenk",
+      "date": "2026-10-10T07:15:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/en/p/leisure-excursions/hiking-tour/cow-descent-and-hike-in-lenk-basel-7508996910524461719.html",
+      "image": "https://res.eventfrog.net/lenk-poster-lenk-photo-D71WZHJV.webp?_=1790628215000",
       "category": "",
       "debug_has_basel": true
     }
