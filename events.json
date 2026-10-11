@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 10,
-  "locations_loaded": 337,
+  "count": 9,
+  "locations_loaded": 346,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -76,20 +76,11 @@
       "debug_has_basel": true
     },
     {
-      "title": "Swiss Darts Trophy",
-      "date": "2026-10-09T00:00:00+02:00",
+      "title": "Gruppenkunstausstellung",
+      "date": "2026-10-10T15:00:00+02:00",
       "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/sport-fitness/sonstige-veranstaltungen/swiss-darts-trophy-basel-7460297875211199290.html",
-      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-sport-fitness-2-1WXM2263.png?_=1782362479000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-10-10T09:00:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-basel-7481367688381520650.html",
-      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/gruppenkunstausstellung-basel-7455116091137765587.html",
+      "image": "https://res.eventfrog.net/production_res_public/14354-U4GJC6YO-02GH932A-T5WNJZB0.webp?_=1783473645000",
       "category": "",
       "debug_has_basel": true
     }
