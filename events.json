@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 8,
-  "locations_loaded": 355,
+  "count": 11,
+  "locations_loaded": 352,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -60,7 +60,7 @@
     {
       "title": "Rette nicht die Welt, sondern gestalte dein Leben",
       "date": "2026-10-05T00:00:00+02:00",
-      "city": "",
+      "city": "St.Gallen",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/rette-nicht-die-welt-sondern-gestalte-dein-leben-st-gallen-7503207344261612686.html",
       "image": "https://res.eventfrog.net/rette-nicht-die-welt-sondern-gestalt-XOVX98GD.webp",
       "category": "",
@@ -72,6 +72,33 @@
       "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/gruppenkunstausstellung-basel-7455116091137765587.html",
       "image": "https://res.eventfrog.net/production_res_public/14354-U4GJC6YO-02GH932A-T5WNJZB0.webp?_=1783473645000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Total Lokal - Genuss aus Stadt und Land",
+      "date": "2026-10-14T17:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496458564506023280.html",
+      "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-KBDYYRZ9.webp?_=1787294994000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Do 15.Okt Grenzwanderung Riehen-Basel",
+      "date": "2026-10-15T07:10:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/freizeit-ausfluege/wanderung/do-15-okt-grenzwanderung-riehen-basel-affoltern-albis-7512289834393700742.html",
+      "image": "https://res.eventfrog.net/sdlogo-for-froschv2-GIYWLK2M.webp?_=1791069469000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Ein Entwurf macht Schule",
+      "date": "2026-10-15T08:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/ein-entwurf-macht-schule-basel-7473368122461824722.html",
+      "image": "https://res.eventfrog.net/production_res_public/cf33cb8aea2834caababa972c265f4550874-HB8362AK.webp?_=1783506459000",
       "category": "",
       "debug_has_basel": true
     }
