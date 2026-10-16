@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 10,
-  "locations_loaded": 334,
+  "count": 11,
+  "locations_loaded": 345,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -51,7 +51,7 @@
     {
       "title": "Malive",
       "date": "2026-10-01T23:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/partys/house-techno/malive-basel-7506361796468413701.html",
       "image": "https://res.eventfrog.net/261031-malive-socials-b-5NSYOBP7.webp?_=1789656114000",
       "category": "",
@@ -69,7 +69,7 @@
     {
       "title": "Gruppenkunstausstellung",
       "date": "2026-10-10T15:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/gruppenkunstausstellung-basel-7455116091137765587.html",
       "image": "https://res.eventfrog.net/production_res_public/14354-U4GJC6YO-02GH932A-T5WNJZB0.webp?_=1783473645000",
       "category": "",
@@ -85,11 +85,20 @@
       "debug_has_basel": true
     },
     {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-10-15T09:00:00+02:00",
+      "title": "Total Lokal - Genuss aus Stadt und Land",
+      "date": "2026-10-15T17:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496458564552160721.html",
+      "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-KBDYYRZ9.webp?_=1787294994000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Christine Seiler - Spurensuche",
+      "date": "2026-10-15T18:00:00+02:00",
       "city": "Basel",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-basel-7481367688574458644.html",
-      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/christine-seiler-spurensuche-basel-7500927767040508457.html",
+      "image": "https://res.eventfrog.net/c-seiler-KPBFYVHX.webp?_=1788360541000",
       "category": "",
       "debug_has_basel": true
     }
