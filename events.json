@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 15,
-  "locations_loaded": 346,
+  "count": 14,
+  "locations_loaded": 330,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -33,7 +33,7 @@
     {
       "title": "SON CUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T14:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/son-cubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-basel-7453842737651001704.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-son-cubano-2026-b-quer-3247DIU7.webp?_=1783471639000",
       "category": "",
@@ -42,7 +42,7 @@
     {
       "title": "AFROCUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T15:30:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/afrocubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-basel-7453863078964258469.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-afrocubano-2026-b-quer-3CZYDBJZ.webp?_=1783471145000",
       "category": "",
@@ -103,15 +103,6 @@
       "debug_has_basel": true
     },
     {
-      "title": "WINE DATE Basel, Boutique Weinmesse",
-      "date": "2026-10-16T15:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/wine-date-basel-boutique-weinmesse-basel-7499040912648967180.html",
-      "image": "https://res.eventfrog.net/wine-date-basel-2024-photo-sara-barth-a1114-web.webp?_=1787910680000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Total Lokal - Genuss aus Stadt und Land",
       "date": "2026-10-16T17:00:00+02:00",
       "city": "",
@@ -123,7 +114,7 @@
     {
       "title": "Basel Durga Puja 2026",
       "date": "2026-10-17T11:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/en/p/festivals/art-culture/basel-durga-puja-2026-basel-7501374969911196840.html",
       "image": "https://res.eventfrog.net/durga-puja-basel-837x628-H5VXM98Y.webp?_=1788803407000",
       "category": "",
