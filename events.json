@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 14,
-  "locations_loaded": 344,
+  "count": 15,
+  "locations_loaded": 334,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -125,6 +125,15 @@
       "date": "2026-10-18T17:00:00+02:00",
       "city": "",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496458564677989856.html",
+      "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-KBDYYRZ9.webp?_=1787294994000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Total Lokal - Genuss aus Stadt und Land",
+      "date": "2026-10-19T17:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496458564732515825.html",
       "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-KBDYYRZ9.webp?_=1787294994000",
       "category": "",
       "debug_has_basel": true
