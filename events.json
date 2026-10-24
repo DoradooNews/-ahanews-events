@@ -1,12 +1,12 @@
 {
   "status_code": 200,
-  "count": 22,
-  "locations_loaded": 345,
+  "count": 21,
+  "locations_loaded": 336,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "",
+      "city": "Olten",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-olten-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -69,7 +69,7 @@
     {
       "title": "Christine Seiler - Spurensuche",
       "date": "2026-10-15T18:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/christine-seiler-spurensuche-basel-7500927767040508457.html",
       "image": "https://res.eventfrog.net/c-seiler-KPBFYVHX.webp?_=1788360541000",
       "category": "",
@@ -96,7 +96,7 @@
     {
       "title": "BelleVue «Weiterwirken»",
       "date": "2026-10-18T11:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/bellevue-weiterwirken-basel-7505547388532096107.html",
       "image": "https://res.eventfrog.net/nico-fritzenschaft-konstellationen-0-IW9PJ8Z3.webp?_=1789462148000",
       "category": "",
@@ -135,15 +135,6 @@
       "city": "",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496458564824790557.html",
       "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-KBDYYRZ9.webp?_=1787294994000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Basler Wymärt – klein, fein und sympathisch",
-      "date": "2026-10-22T16:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/essen-trinken/basler-wymaert-klein-fein-und-sympathisch-basel-7497658386562964784.html",
-      "image": "https://res.eventfrog.net/sira-3RBHP446.webp?_=1787582737000",
       "category": "",
       "debug_has_basel": true
     },
