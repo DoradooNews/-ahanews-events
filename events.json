@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 20,
-  "locations_loaded": 336,
+  "count": 22,
+  "locations_loaded": 345,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -60,18 +60,9 @@
     {
       "title": "Gruppenkunstausstellung",
       "date": "2026-10-10T15:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/gruppenkunstausstellung-basel-7455116091137765587.html",
       "image": "https://res.eventfrog.net/production_res_public/14354-U4GJC6YO-02GH932A-T5WNJZB0.webp?_=1783473645000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Total Lokal - Genuss aus Stadt und Land",
-      "date": "2026-10-15T17:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496458564552160721.html",
-      "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-KBDYYRZ9.webp?_=1787294994000",
       "category": "",
       "debug_has_basel": true
     },
@@ -175,11 +166,38 @@
       "debug_has_basel": true
     },
     {
-      "title": "Harry P.Otter und die Zauberprüfung",
-      "date": "2026-10-23T09:00:00+02:00",
+      "title": "Total Lokal - Genuss aus Stadt und Land",
+      "date": "2026-10-23T17:00:00+02:00",
       "city": "",
-      "url": "https://eventfrog.de/de/p/kinderveranstaltungen/familienveranstaltungen/harry-p-otter-und-die-zauberpruefung-basel-7481367688889031460.html",
-      "image": "https://res.eventfrog.net/production_res_public/games-harrypotter-compr-FZJ67WTK.webp",
+      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063200329648.html",
+      "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Edith Habraken",
+      "date": "2026-10-23T19:30:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/vernissage/edith-habraken-basel-7494037579722931963.html",
+      "image": "https://res.eventfrog.net/production_res_public/edith-habraken-T0DMP0ZQ.webp?_=1786718232000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Swiss Indoors Basel",
+      "date": "2026-10-24T00:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/sport-fitness/tennis/swiss-indoors-basel-basel-7460305125300544145.html",
+      "image": "https://res.eventfrog.net/production_res_public/si26-screens-stjakobshalle-1920x1080-HDDDJX8T.webp?_=1783484302000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Markus Müller – Kantonale Kunstsammlung",
+      "date": "2026-10-24T00:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/markus-mueller-kantonale-kunstsammlung-teufen-ar-7518064786338251604.html",
+      "image": "https://res.eventfrog.net/markus-mueller-kantonale-kunstsammlung.webp?_=1792446323000",
       "category": "",
       "debug_has_basel": true
     }
