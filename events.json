@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 24,
-  "locations_loaded": 339,
+  "count": 20,
+  "locations_loaded": 319,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -54,15 +54,6 @@
       "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/rette-nicht-die-welt-sondern-gestalte-dein-leben-st-gallen-7503207344261612686.html",
       "image": "https://res.eventfrog.net/rette-nicht-die-welt-sondern-gestalt-XOVX98GD.webp",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Gruppenkunstausstellung",
-      "date": "2026-10-10T15:00:00+02:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/gruppenkunstausstellung-basel-7455116091137765587.html",
-      "image": "https://res.eventfrog.net/production_res_public/14354-U4GJC6YO-02GH932A-T5WNJZB0.webp?_=1783473645000",
       "category": "",
       "debug_has_basel": true
     },
@@ -159,7 +150,7 @@
     {
       "title": "Edith Habraken",
       "date": "2026-10-23T19:30:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/vernissage/edith-habraken-basel-7494037579722931963.html",
       "image": "https://res.eventfrog.net/production_res_public/edith-habraken-T0DMP0ZQ.webp?_=1786718232000",
       "category": "",
@@ -177,36 +168,9 @@
     {
       "title": "Markus Müller – Kantonale Kunstsammlung",
       "date": "2026-10-24T00:00:00+02:00",
-      "city": "Teufen AR",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/markus-mueller-kantonale-kunstsammlung-teufen-ar-7518064786338251604.html",
       "image": "https://res.eventfrog.net/markus-mueller-kantonale-kunstsammlung.webp?_=1792446323000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Tulku Lobsang; Körper-,  Atem- und Meditationsübungen",
-      "date": "2026-10-24T10:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/tulku-lobsang-koerper-atem-und-meditationsuebungen-basel-7512149642294870730.html",
-      "image": "https://res.eventfrog.net/598635996-1421423092677194-769059185-75NP75V6.webp?_=1791036516000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Bachata Workshop Weekend & Oktoberfest Party",
-      "date": "2026-10-24T13:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/fr/p/soirees-fetes/latino-salsa-bachata/bachata-workshop-weekend-oktoberfest-party-basel-7503133762361807671.html",
-      "image": "https://res.eventfrog.net/whatsapp-image-2026-09-19-at-19-53-12.webp?_=1789840609000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Париж. АртБазель и ДизайнМайами с Виктором Дембовским",
-      "date": "2026-10-24T14:30:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/en/p/art-exhibitions/exhibition/-paris-7493327132241749200.html",
-      "image": "https://res.eventfrog.net/production_res_public/812a8026-7ef2-44b9-ac7c-7f18370e073a-TQ2P9BQ0.webp?_=1786554100000",
       "category": "",
       "debug_has_basel": true
     },
