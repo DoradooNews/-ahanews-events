@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 21,
-  "locations_loaded": 336,
+  "count": 24,
+  "locations_loaded": 339,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -60,7 +60,7 @@
     {
       "title": "Gruppenkunstausstellung",
       "date": "2026-10-10T15:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/gruppenkunstausstellung-basel-7455116091137765587.html",
       "image": "https://res.eventfrog.net/production_res_public/14354-U4GJC6YO-02GH932A-T5WNJZB0.webp?_=1783473645000",
       "category": "",
@@ -69,18 +69,9 @@
     {
       "title": "Christine Seiler - Spurensuche",
       "date": "2026-10-15T18:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/christine-seiler-spurensuche-basel-7500927767040508457.html",
       "image": "https://res.eventfrog.net/c-seiler-KPBFYVHX.webp?_=1788360541000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Total Lokal - Genuss aus Stadt und Land",
-      "date": "2026-10-16T17:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496458564594103762.html",
-      "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-KBDYYRZ9.webp?_=1787294994000",
       "category": "",
       "debug_has_basel": true
     },
@@ -96,7 +87,7 @@
     {
       "title": "BelleVue «Weiterwirken»",
       "date": "2026-10-18T11:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/bellevue-weiterwirken-basel-7505547388532096107.html",
       "image": "https://res.eventfrog.net/nico-fritzenschaft-konstellationen-0-IW9PJ8Z3.webp?_=1789462148000",
       "category": "",
@@ -186,9 +177,45 @@
     {
       "title": "Markus Müller – Kantonale Kunstsammlung",
       "date": "2026-10-24T00:00:00+02:00",
-      "city": "",
+      "city": "Teufen AR",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/markus-mueller-kantonale-kunstsammlung-teufen-ar-7518064786338251604.html",
       "image": "https://res.eventfrog.net/markus-mueller-kantonale-kunstsammlung.webp?_=1792446323000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Tulku Lobsang; Körper-,  Atem- und Meditationsübungen",
+      "date": "2026-10-24T10:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/tulku-lobsang-koerper-atem-und-meditationsuebungen-basel-7512149642294870730.html",
+      "image": "https://res.eventfrog.net/598635996-1421423092677194-769059185-75NP75V6.webp?_=1791036516000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Bachata Workshop Weekend & Oktoberfest Party",
+      "date": "2026-10-24T13:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/fr/p/soirees-fetes/latino-salsa-bachata/bachata-workshop-weekend-oktoberfest-party-basel-7503133762361807671.html",
+      "image": "https://res.eventfrog.net/whatsapp-image-2026-09-19-at-19-53-12.webp?_=1789840609000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Париж. АртБазель и ДизайнМайами с Виктором Дембовским",
+      "date": "2026-10-24T14:30:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/en/p/art-exhibitions/exhibition/-paris-7493327132241749200.html",
+      "image": "https://res.eventfrog.net/production_res_public/812a8026-7ef2-44b9-ac7c-7f18370e073a-TQ2P9BQ0.webp?_=1786554100000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Total Lokal - Genuss aus Stadt und Land",
+      "date": "2026-10-24T17:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063246466993.html",
+      "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
       "category": "",
       "debug_has_basel": true
     }
