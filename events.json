@@ -1,7 +1,7 @@
 {
   "status_code": 200,
   "count": 21,
-  "locations_loaded": 314,
+  "locations_loaded": 316,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -60,7 +60,7 @@
     {
       "title": "Christine Seiler - Spurensuche",
       "date": "2026-10-15T18:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/christine-seiler-spurensuche-basel-7500927767040508457.html",
       "image": "https://res.eventfrog.net/c-seiler-KPBFYVHX.webp?_=1788360541000",
       "category": "",
@@ -141,7 +141,7 @@
     {
       "title": "Edith Habraken",
       "date": "2026-10-23T19:30:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/vernissage/edith-habraken-basel-7494037579722931963.html",
       "image": "https://res.eventfrog.net/production_res_public/edith-habraken-T0DMP0ZQ.webp?_=1786718232000",
       "category": "",
