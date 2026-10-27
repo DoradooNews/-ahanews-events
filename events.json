@@ -1,12 +1,12 @@
 {
   "status_code": 200,
   "count": 21,
-  "locations_loaded": 306,
+  "locations_loaded": 308,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "Olten",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-olten-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -51,7 +51,7 @@
     {
       "title": "Rette nicht die Welt, sondern gestalte dein Leben",
       "date": "2026-10-05T00:00:00+02:00",
-      "city": "",
+      "city": "St.Gallen",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/rette-nicht-die-welt-sondern-gestalte-dein-leben-st-gallen-7503207344261612686.html",
       "image": "https://res.eventfrog.net/rette-nicht-die-welt-sondern-gestalt-XOVX98GD.webp",
       "category": "",
@@ -139,20 +139,20 @@
       "debug_has_basel": true
     },
     {
-      "title": "Markus Müller – Kantonale Kunstsammlung",
-      "date": "2026-10-24T00:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/markus-mueller-kantonale-kunstsammlung-teufen-ar-7518064786338251604.html",
-      "image": "https://res.eventfrog.net/markus-mueller-kantonale-kunstsammlung.webp?_=1792446323000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Swiss Indoors Basel",
       "date": "2026-10-24T00:00:00+02:00",
       "city": "",
       "url": "https://eventfrog.ch/de/p/sport-fitness/tennis/swiss-indoors-basel-basel-7460305125300544145.html",
       "image": "https://res.eventfrog.net/production_res_public/si26-screens-stjakobshalle-1920x1080-HDDDJX8T.webp?_=1783484302000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Markus Müller – Kantonale Kunstsammlung",
+      "date": "2026-10-24T00:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/markus-mueller-kantonale-kunstsammlung-teufen-ar-7518064786338251604.html",
+      "image": "https://res.eventfrog.net/markus-mueller-kantonale-kunstsammlung.webp?_=1792446323000",
       "category": "",
       "debug_has_basel": true
     },
@@ -168,7 +168,7 @@
     {
       "title": "Basenfasten im Fastenhotel Bad Ramsach",
       "date": "2026-10-25T15:00:00+01:00",
-      "city": "",
+      "city": "Läufelfingen",
       "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/basenfasten-im-fastenhotel-bad-ramsach-laeufelfingen-7353404111574846841.html",
       "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-basen-L2MPCP19.webp?_=1783240742000",
       "category": "",
