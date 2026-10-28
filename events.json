@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 21,
-  "locations_loaded": 308,
+  "count": 22,
+  "locations_loaded": 304,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -33,7 +33,7 @@
     {
       "title": "SON CUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T14:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/son-cubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-basel-7453842737651001704.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-son-cubano-2026-b-quer-3247DIU7.webp?_=1783471639000",
       "category": "",
@@ -42,7 +42,7 @@
     {
       "title": "AFROCUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T15:30:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/afrocubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-basel-7453863078964258469.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-afrocubano-2026-b-quer-3CZYDBJZ.webp?_=1783471145000",
       "category": "",
@@ -51,7 +51,7 @@
     {
       "title": "Rette nicht die Welt, sondern gestalte dein Leben",
       "date": "2026-10-05T00:00:00+02:00",
-      "city": "St.Gallen",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/rette-nicht-die-welt-sondern-gestalte-dein-leben-st-gallen-7503207344261612686.html",
       "image": "https://res.eventfrog.net/rette-nicht-die-welt-sondern-gestalt-XOVX98GD.webp",
       "category": "",
@@ -69,18 +69,9 @@
     {
       "title": "BelleVue «Weiterwirken»",
       "date": "2026-10-18T11:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/bellevue-weiterwirken-basel-7505547388532096107.html",
       "image": "https://res.eventfrog.net/nico-fritzenschaft-konstellationen-0-IW9PJ8Z3.webp?_=1789462148000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Total Lokal - Genuss aus Stadt und Land",
-      "date": "2026-10-19T17:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496458564732515825.html",
-      "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-KBDYYRZ9.webp?_=1787294994000",
       "category": "",
       "debug_has_basel": true
     },
@@ -139,20 +130,20 @@
       "debug_has_basel": true
     },
     {
-      "title": "Swiss Indoors Basel",
-      "date": "2026-10-24T00:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/sport-fitness/tennis/swiss-indoors-basel-basel-7460305125300544145.html",
-      "image": "https://res.eventfrog.net/production_res_public/si26-screens-stjakobshalle-1920x1080-HDDDJX8T.webp?_=1783484302000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Markus Müller – Kantonale Kunstsammlung",
       "date": "2026-10-24T00:00:00+02:00",
       "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/markus-mueller-kantonale-kunstsammlung-teufen-ar-7518064786338251604.html",
       "image": "https://res.eventfrog.net/markus-mueller-kantonale-kunstsammlung.webp?_=1792446323000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Swiss Indoors Basel",
+      "date": "2026-10-24T00:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/sport-fitness/tennis/swiss-indoors-basel-basel-7460305125300544145.html",
+      "image": "https://res.eventfrog.net/production_res_public/si26-screens-stjakobshalle-1920x1080-HDDDJX8T.webp?_=1783484302000",
       "category": "",
       "debug_has_basel": true
     },
@@ -168,7 +159,7 @@
     {
       "title": "Basenfasten im Fastenhotel Bad Ramsach",
       "date": "2026-10-25T15:00:00+01:00",
-      "city": "Läufelfingen",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/basenfasten-im-fastenhotel-bad-ramsach-laeufelfingen-7353404111574846841.html",
       "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-basen-L2MPCP19.webp?_=1783240742000",
       "category": "",
@@ -188,6 +179,24 @@
       "date": "2026-10-26T17:00:00+01:00",
       "city": "",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063342936083.html",
+      "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Literatur am Mittag: Maria Marggraf",
+      "date": "2026-10-27T12:15:00+01:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/diverses/literatur-am-mittag-maria-marggraf-basel-7478382558931103552.html",
+      "image": "https://res.eventfrog.net/production_res_public/lam-marggraf-UGWC9YF9.webp?_=1782985344000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Total Lokal - Genuss aus Stadt und Land",
+      "date": "2026-10-27T17:00:00+01:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063397462050.html",
       "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
       "category": "",
       "debug_has_basel": true
