@@ -1,12 +1,12 @@
 {
   "status_code": 200,
-  "count": 22,
-  "locations_loaded": 304,
+  "count": 21,
+  "locations_loaded": 306,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "",
+      "city": "Olten",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-olten-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -60,7 +60,7 @@
     {
       "title": "Christine Seiler - Spurensuche",
       "date": "2026-10-15T18:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/christine-seiler-spurensuche-basel-7500927767040508457.html",
       "image": "https://res.eventfrog.net/c-seiler-KPBFYVHX.webp?_=1788360541000",
       "category": "",
@@ -130,20 +130,20 @@
       "debug_has_basel": true
     },
     {
-      "title": "Markus Müller – Kantonale Kunstsammlung",
+      "title": "Swiss Indoors Basel",
       "date": "2026-10-24T00:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/markus-mueller-kantonale-kunstsammlung-teufen-ar-7518064786338251604.html",
-      "image": "https://res.eventfrog.net/markus-mueller-kantonale-kunstsammlung.webp?_=1792446323000",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/sport-fitness/tennis/swiss-indoors-basel-basel-7460305125300544145.html",
+      "image": "https://res.eventfrog.net/production_res_public/si26-screens-stjakobshalle-1920x1080-HDDDJX8T.webp?_=1783484302000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "Swiss Indoors Basel",
+      "title": "Markus Müller – Kantonale Kunstsammlung",
       "date": "2026-10-24T00:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/sport-fitness/tennis/swiss-indoors-basel-basel-7460305125300544145.html",
-      "image": "https://res.eventfrog.net/production_res_public/si26-screens-stjakobshalle-1920x1080-HDDDJX8T.webp?_=1783484302000",
+      "city": "Teufen AR",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/markus-mueller-kantonale-kunstsammlung-teufen-ar-7518064786338251604.html",
+      "image": "https://res.eventfrog.net/markus-mueller-kantonale-kunstsammlung.webp?_=1792446323000",
       "category": "",
       "debug_has_basel": true
     },
@@ -180,15 +180,6 @@
       "city": "",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063342936083.html",
       "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Literatur am Mittag: Maria Marggraf",
-      "date": "2026-10-27T12:15:00+01:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/diverses/literatur-am-mittag-maria-marggraf-basel-7478382558931103552.html",
-      "image": "https://res.eventfrog.net/production_res_public/lam-marggraf-UGWC9YF9.webp?_=1782985344000",
       "category": "",
       "debug_has_basel": true
     },
