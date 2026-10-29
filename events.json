@@ -6,7 +6,7 @@
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "Olten",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-olten-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -33,7 +33,7 @@
     {
       "title": "SON CUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T14:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/son-cubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-basel-7453842737651001704.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-son-cubano-2026-b-quer-3247DIU7.webp?_=1783471639000",
       "category": "",
@@ -42,7 +42,7 @@
     {
       "title": "AFROCUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T15:30:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/afrocubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-basel-7453863078964258469.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-afrocubano-2026-b-quer-3CZYDBJZ.webp?_=1783471145000",
       "category": "",
@@ -72,15 +72,6 @@
       "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/bellevue-weiterwirken-basel-7505547388532096107.html",
       "image": "https://res.eventfrog.net/nico-fritzenschaft-konstellationen-0-IW9PJ8Z3.webp?_=1789462148000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Total Lokal - Genuss aus Stadt und Land",
-      "date": "2026-10-20T17:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496458564774458883.html",
-      "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-KBDYYRZ9.webp?_=1787294994000",
       "category": "",
       "debug_has_basel": true
     },
@@ -132,7 +123,7 @@
     {
       "title": "Swiss Indoors Basel",
       "date": "2026-10-24T00:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/sport-fitness/tennis/swiss-indoors-basel-basel-7460305125300544145.html",
       "image": "https://res.eventfrog.net/production_res_public/si26-screens-stjakobshalle-1920x1080-HDDDJX8T.webp?_=1783484302000",
       "category": "",
@@ -188,6 +179,15 @@
       "date": "2026-10-27T17:00:00+01:00",
       "city": "",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063397462050.html",
+      "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Total Lokal - Genuss aus Stadt und Land",
+      "date": "2026-10-28T17:00:00+01:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063443599410.html",
       "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
       "category": "",
       "debug_has_basel": true
