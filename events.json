@@ -1,7 +1,7 @@
 {
   "status_code": 200,
   "count": 21,
-  "locations_loaded": 306,
+  "locations_loaded": 308,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -60,7 +60,7 @@
     {
       "title": "Christine Seiler - Spurensuche",
       "date": "2026-10-15T18:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/christine-seiler-spurensuche-basel-7500927767040508457.html",
       "image": "https://res.eventfrog.net/c-seiler-KPBFYVHX.webp?_=1788360541000",
       "category": "",
@@ -69,7 +69,7 @@
     {
       "title": "BelleVue «Weiterwirken»",
       "date": "2026-10-18T11:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/bellevue-weiterwirken-basel-7505547388532096107.html",
       "image": "https://res.eventfrog.net/nico-fritzenschaft-konstellationen-0-IW9PJ8Z3.webp?_=1789462148000",
       "category": "",
@@ -121,20 +121,20 @@
       "debug_has_basel": true
     },
     {
+      "title": "Markus Müller – Kantonale Kunstsammlung",
+      "date": "2026-10-24T00:00:00+02:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/markus-mueller-kantonale-kunstsammlung-teufen-ar-7518064786338251604.html",
+      "image": "https://res.eventfrog.net/markus-mueller-kantonale-kunstsammlung.webp?_=1792446323000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
       "title": "Swiss Indoors Basel",
       "date": "2026-10-24T00:00:00+02:00",
       "city": "",
       "url": "https://eventfrog.ch/de/p/sport-fitness/tennis/swiss-indoors-basel-basel-7460305125300544145.html",
       "image": "https://res.eventfrog.net/production_res_public/si26-screens-stjakobshalle-1920x1080-HDDDJX8T.webp?_=1783484302000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Markus Müller – Kantonale Kunstsammlung",
-      "date": "2026-10-24T00:00:00+02:00",
-      "city": "Teufen AR",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/markus-mueller-kantonale-kunstsammlung-teufen-ar-7518064786338251604.html",
-      "image": "https://res.eventfrog.net/markus-mueller-kantonale-kunstsammlung.webp?_=1792446323000",
       "category": "",
       "debug_has_basel": true
     },
