@@ -1,12 +1,12 @@
 {
   "status_code": 200,
-  "count": 21,
-  "locations_loaded": 308,
+  "count": 22,
+  "locations_loaded": 310,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "",
+      "city": "Olten",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-olten-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -77,17 +77,8 @@
     },
     {
       "title": "Total Lokal - Genuss aus Stadt und Land",
-      "date": "2026-10-21T17:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496458564824790557.html",
-      "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-KBDYYRZ9.webp?_=1787294994000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Total Lokal - Genuss aus Stadt und Land",
       "date": "2026-10-22T17:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063145803181.html",
       "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
       "category": "",
@@ -96,7 +87,7 @@
     {
       "title": "Total Lokal - Genuss aus Stadt und Land",
       "date": "2026-10-22T17:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459033466906806.html",
       "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
       "category": "",
@@ -105,7 +96,7 @@
     {
       "title": "Total Lokal - Genuss aus Stadt und Land",
       "date": "2026-10-23T17:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063200329648.html",
       "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
       "category": "",
@@ -121,6 +112,15 @@
       "debug_has_basel": true
     },
     {
+      "title": "Swiss Indoors Basel",
+      "date": "2026-10-24T00:00:00+02:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/sport-fitness/tennis/swiss-indoors-basel-basel-7460305125300544145.html",
+      "image": "https://res.eventfrog.net/production_res_public/si26-screens-stjakobshalle-1920x1080-HDDDJX8T.webp?_=1783484302000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
       "title": "Markus Müller – Kantonale Kunstsammlung",
       "date": "2026-10-24T00:00:00+02:00",
       "city": "",
@@ -130,18 +130,9 @@
       "debug_has_basel": true
     },
     {
-      "title": "Swiss Indoors Basel",
-      "date": "2026-10-24T00:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/sport-fitness/tennis/swiss-indoors-basel-basel-7460305125300544145.html",
-      "image": "https://res.eventfrog.net/production_res_public/si26-screens-stjakobshalle-1920x1080-HDDDJX8T.webp?_=1783484302000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Total Lokal - Genuss aus Stadt und Land",
       "date": "2026-10-24T17:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063246466993.html",
       "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
       "category": "",
@@ -159,7 +150,7 @@
     {
       "title": "Total Lokal - Genuss aus Stadt und Land",
       "date": "2026-10-25T17:00:00+01:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063296798738.html",
       "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
       "category": "",
@@ -168,7 +159,7 @@
     {
       "title": "Total Lokal - Genuss aus Stadt und Land",
       "date": "2026-10-26T17:00:00+01:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063342936083.html",
       "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
       "category": "",
@@ -177,7 +168,7 @@
     {
       "title": "Total Lokal - Genuss aus Stadt und Land",
       "date": "2026-10-27T17:00:00+01:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063397462050.html",
       "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
       "category": "",
@@ -186,8 +177,26 @@
     {
       "title": "Total Lokal - Genuss aus Stadt und Land",
       "date": "2026-10-28T17:00:00+01:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063443599410.html",
+      "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "«Hinterm Horizont geht’s weiter» Internationale Konferenz",
+      "date": "2026-10-29T14:30:00+01:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/tagungen-kolloquien/hinterm-horizont-gehts-weiter-internationale-konferenz-basel-7514321657600723007.html",
+      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-fuehrungen-vort-XYJA5351.png?_=1782362472000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Total Lokal - Genuss aus Stadt und Land",
+      "date": "2026-10-29T17:00:00+01:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063489736767.html",
       "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
       "category": "",
       "debug_has_basel": true
