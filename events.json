@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 22,
-  "locations_loaded": 300,
+  "count": 20,
+  "locations_loaded": 332,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -51,7 +51,7 @@
     {
       "title": "Rette nicht die Welt, sondern gestalte dein Leben",
       "date": "2026-10-05T00:00:00+02:00",
-      "city": "",
+      "city": "St.Gallen",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/rette-nicht-die-welt-sondern-gestalte-dein-leben-st-gallen-7503207344261612686.html",
       "image": "https://res.eventfrog.net/rette-nicht-die-welt-sondern-gestalt-XOVX98GD.webp",
       "category": "",
@@ -77,24 +77,6 @@
     },
     {
       "title": "Total Lokal - Genuss aus Stadt und Land",
-      "date": "2026-10-22T17:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063145803181.html",
-      "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Total Lokal - Genuss aus Stadt und Land",
-      "date": "2026-10-22T17:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459033466906806.html",
-      "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Total Lokal - Genuss aus Stadt und Land",
       "date": "2026-10-23T17:00:00+02:00",
       "city": "",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063200329648.html",
@@ -105,7 +87,7 @@
     {
       "title": "Edith Habraken",
       "date": "2026-10-23T19:30:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/vernissage/edith-habraken-basel-7494037579722931963.html",
       "image": "https://res.eventfrog.net/production_res_public/edith-habraken-T0DMP0ZQ.webp?_=1786718232000",
       "category": "",
@@ -114,7 +96,7 @@
     {
       "title": "Swiss Indoors Basel",
       "date": "2026-10-24T00:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/sport-fitness/tennis/swiss-indoors-basel-basel-7460305125300544145.html",
       "image": "https://res.eventfrog.net/production_res_public/si26-screens-stjakobshalle-1920x1080-HDDDJX8T.webp?_=1783484302000",
       "category": "",
@@ -123,7 +105,7 @@
     {
       "title": "Markus Müller – Kantonale Kunstsammlung",
       "date": "2026-10-24T00:00:00+02:00",
-      "city": "Teufen AR",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/markus-mueller-kantonale-kunstsammlung-teufen-ar-7518064786338251604.html",
       "image": "https://res.eventfrog.net/markus-mueller-kantonale-kunstsammlung.webp?_=1792446323000",
       "category": "",
@@ -135,15 +117,6 @@
       "city": "",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063246466993.html",
       "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Basenfasten im Fastenhotel Bad Ramsach",
-      "date": "2026-10-25T15:00:00+01:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/basenfasten-im-fastenhotel-bad-ramsach-laeufelfingen-7353404111574846841.html",
-      "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-basen-L2MPCP19.webp?_=1783240742000",
       "category": "",
       "debug_has_basel": true
     },
@@ -184,20 +157,29 @@
       "debug_has_basel": true
     },
     {
-      "title": "«Hinterm Horizont geht’s weiter» Internationale Konferenz",
-      "date": "2026-10-29T14:30:00+01:00",
-      "city": "Basel",
-      "url": "https://eventfrog.ch/de/p/fuehrungen-vortraege/tagungen-kolloquien/hinterm-horizont-gehts-weiter-internationale-konferenz-basel-7514321657600723007.html",
-      "image": "https://res.eventfrog.net/production_res_public/platzhalter-kategorie-fuehrungen-vort-XYJA5351.png?_=1782362472000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Total Lokal - Genuss aus Stadt und Land",
       "date": "2026-10-29T17:00:00+01:00",
       "city": "",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063489736767.html",
       "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Total Lokal - Genuss aus Stadt und Land",
+      "date": "2026-10-30T17:00:00+01:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063527485541.html",
+      "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "TEXTUR 2026 - \"Romane und Romanzen\"",
+      "date": "2026-10-30T19:00:00+01:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/festivals/weitere-festivals/textur-2026-romane-und-romanzen-basel-7501313128291894379.html",
+      "image": "https://res.eventfrog.net/screenshot-2026-09-03-at-17-59-12-5S535VNR.webp?_=1788452419000",
       "category": "",
       "debug_has_basel": true
     }
