@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 20,
-  "locations_loaded": 324,
+  "count": 16,
+  "locations_loaded": 331,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -33,7 +33,7 @@
     {
       "title": "SON CUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T14:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/son-cubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-basel-7453842737651001704.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-son-cubano-2026-b-quer-3247DIU7.webp?_=1783471639000",
       "category": "",
@@ -42,7 +42,7 @@
     {
       "title": "AFROCUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T15:30:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/afrocubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-basel-7453863078964258469.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-afrocubano-2026-b-quer-3CZYDBJZ.webp?_=1783471145000",
       "category": "",
@@ -63,15 +63,6 @@
       "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/christine-seiler-spurensuche-basel-7500927767040508457.html",
       "image": "https://res.eventfrog.net/c-seiler-KPBFYVHX.webp?_=1788360541000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "BelleVue «Weiterwirken»",
-      "date": "2026-10-18T11:00:00+02:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/bellevue-weiterwirken-basel-7505547388532096107.html",
-      "image": "https://res.eventfrog.net/nico-fritzenschaft-konstellationen-0-IW9PJ8Z3.webp?_=1789462148000",
       "category": "",
       "debug_has_basel": true
     },
@@ -148,38 +139,11 @@
       "debug_has_basel": true
     },
     {
-      "title": "TEXTUR 2026 - \"Romane und Romanzen\"",
-      "date": "2026-10-30T19:00:00+01:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/festivals/weitere-festivals/textur-2026-romane-und-romanzen-basel-7501313128291894379.html",
-      "image": "https://res.eventfrog.net/screenshot-2026-09-03-at-17-59-12-5S535VNR.webp?_=1788452419000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Dia(s) de los muertos",
-      "date": "2026-10-31T09:00:00+01:00",
-      "city": "Luzern",
-      "url": "https://eventfrog.ch/de/p/festivals/kunst-kultur/dia-s-de-los-muertos-luzern-7518572894835734673.html",
-      "image": "https://res.eventfrog.net/dia-de-muertos-26-SBOGZPMH.webp?_=1792567467000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Total Lokal - Genuss aus Stadt und Land",
       "date": "2026-10-31T17:00:00+01:00",
       "city": "",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063573622891.html",
       "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Süßes oder Saures - Die digitale Halloween-Schnitzeljagd",
-      "date": "2026-11-01T00:00:00+01:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/freizeit-ausfluege/gruppen-spiele/suesses-oder-saures-die-digitale-halloween-schnitzeljagd-basel-7521928973497986897.html",
-      "image": "https://res.eventfrog.net/titelbild-Q1A3P52N.webp",
       "category": "",
       "debug_has_basel": true
     }
