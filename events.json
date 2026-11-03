@@ -1,12 +1,12 @@
 {
   "status_code": 200,
   "count": 14,
-  "locations_loaded": 282,
+  "locations_loaded": 280,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "Olten",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-olten-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -33,7 +33,7 @@
     {
       "title": "SON CUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T14:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/son-cubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-basel-7453842737651001704.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-son-cubano-2026-b-quer-3247DIU7.webp?_=1783471639000",
       "category": "",
@@ -42,7 +42,7 @@
     {
       "title": "AFROCUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T15:30:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/afrocubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-basel-7453863078964258469.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-afrocubano-2026-b-quer-3CZYDBJZ.webp?_=1783471145000",
       "category": "",
@@ -51,7 +51,7 @@
     {
       "title": "Christine Seiler - Spurensuche",
       "date": "2026-10-15T18:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/christine-seiler-spurensuche-basel-7500927767040508457.html",
       "image": "https://res.eventfrog.net/c-seiler-KPBFYVHX.webp?_=1788360541000",
       "category": "",
@@ -60,7 +60,7 @@
     {
       "title": "Markus Müller – Kantonale Kunstsammlung",
       "date": "2026-10-24T00:00:00+02:00",
-      "city": "Teufen AR",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/markus-mueller-kantonale-kunstsammlung-teufen-ar-7518064786338251604.html",
       "image": "https://res.eventfrog.net/markus-mueller-kantonale-kunstsammlung.webp?_=1792446323000",
       "category": "",
@@ -123,7 +123,7 @@
     {
       "title": "Säure-Basenfasten im Fastenhotel Bad Ramsach",
       "date": "2026-11-01T15:00:00+01:00",
-      "city": "",
+      "city": "Läufelfingen",
       "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/saeure-basenfasten-im-fastenhotel-bad-ramsach-laeufelfingen-7379141700680171819.html",
       "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-faste-UKSBZ32H.webp?_=1783286443000",
       "category": "",
