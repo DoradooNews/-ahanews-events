@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 13,
-  "locations_loaded": 285,
+  "count": 12,
+  "locations_loaded": 293,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -33,7 +33,7 @@
     {
       "title": "SON CUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T14:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/son-cubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-basel-7453842737651001704.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-son-cubano-2026-b-quer-3247DIU7.webp?_=1783471639000",
       "category": "",
@@ -42,7 +42,7 @@
     {
       "title": "AFROCUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T15:30:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/afrocubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-basel-7453863078964258469.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-afrocubano-2026-b-quer-3CZYDBJZ.webp?_=1783471145000",
       "category": "",
@@ -60,7 +60,7 @@
     {
       "title": "Markus Müller – Kantonale Kunstsammlung",
       "date": "2026-10-24T00:00:00+02:00",
-      "city": "Teufen AR",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/markus-mueller-kantonale-kunstsammlung-teufen-ar-7518064786338251604.html",
       "image": "https://res.eventfrog.net/markus-mueller-kantonale-kunstsammlung.webp?_=1792446323000",
       "category": "",
@@ -68,17 +68,8 @@
     },
     {
       "title": "Total Lokal - Genuss aus Stadt und Land",
-      "date": "2026-10-27T17:00:00+01:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063397462050.html",
-      "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Total Lokal - Genuss aus Stadt und Land",
       "date": "2026-10-28T17:00:00+01:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063443599410.html",
       "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
       "category": "",
@@ -87,7 +78,7 @@
     {
       "title": "Total Lokal - Genuss aus Stadt und Land",
       "date": "2026-10-29T17:00:00+01:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063489736767.html",
       "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
       "category": "",
@@ -96,7 +87,7 @@
     {
       "title": "Total Lokal - Genuss aus Stadt und Land",
       "date": "2026-10-30T17:00:00+01:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063527485541.html",
       "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
       "category": "",
@@ -105,7 +96,7 @@
     {
       "title": "Total Lokal - Genuss aus Stadt und Land",
       "date": "2026-10-31T17:00:00+01:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063573622891.html",
       "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
       "category": "",
