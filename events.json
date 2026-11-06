@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 12,
-  "locations_loaded": 292,
+  "count": 11,
+  "locations_loaded": 296,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -68,15 +68,6 @@
     },
     {
       "title": "Total Lokal - Genuss aus Stadt und Land",
-      "date": "2026-10-28T17:00:00+01:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063443599410.html",
-      "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Total Lokal - Genuss aus Stadt und Land",
       "date": "2026-10-29T17:00:00+01:00",
       "city": "",
       "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063489736767.html",
@@ -105,7 +96,7 @@
     {
       "title": "Säure-Basenfasten im Fastenhotel Bad Ramsach",
       "date": "2026-11-01T15:00:00+01:00",
-      "city": "Läufelfingen",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/saeure-basenfasten-im-fastenhotel-bad-ramsach-laeufelfingen-7379141700680171819.html",
       "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-faste-UKSBZ32H.webp?_=1783286443000",
       "category": "",
