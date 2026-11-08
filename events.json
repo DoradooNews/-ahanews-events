@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 11,
-  "locations_loaded": 307,
+  "count": 9,
+  "locations_loaded": 303,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -60,18 +60,9 @@
     {
       "title": "Markus Müller – Kantonale Kunstsammlung",
       "date": "2026-10-24T00:00:00+02:00",
-      "city": "",
+      "city": "Teufen AR",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/markus-mueller-kantonale-kunstsammlung-teufen-ar-7518064786338251604.html",
       "image": "https://res.eventfrog.net/markus-mueller-kantonale-kunstsammlung.webp?_=1792446323000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Total Lokal - Genuss aus Stadt und Land",
-      "date": "2026-10-30T17:00:00+01:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063527485541.html",
-      "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
       "category": "",
       "debug_has_basel": true
     },
@@ -90,15 +81,6 @@
       "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/fotoausstellung-moving-pictures-basel-7516818725326065492.html",
       "image": "https://res.eventfrog.net/bildpaar6-wilde-orang-utan-mutter-mit-baby-copyrig.webp?_=1792149240000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Find your Flow! Festival",
-      "date": "2026-11-07T00:00:00+01:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/kurse-seminare/sonstige-kurse-seminare/find-your-flow-festival-basel-7460309812150042778.html",
-      "image": "https://res.eventfrog.net/production_res_public/kurse-allgemein-L5631G5D-AVWU8S62.webp?_=1783401137000",
       "category": "",
       "debug_has_basel": true
     }
