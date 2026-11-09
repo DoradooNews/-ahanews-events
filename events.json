@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 11,
-  "locations_loaded": 291,
+  "count": 10,
+  "locations_loaded": 280,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -67,18 +67,9 @@
       "debug_has_basel": true
     },
     {
-      "title": "Total Lokal - Genuss aus Stadt und Land",
-      "date": "2026-10-31T17:00:00+01:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/maerkte/sonstige-maerkte/total-lokal-genuss-aus-stadt-und-land-basel-7496459063573622891.html",
-      "image": "https://res.eventfrog.net/c05237cc12ee1096fa3c9560de2b0c90e831-7J1JKJMH.webp?_=1787295112000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
       "title": "Fotoausstellung MOVING PICTURES",
       "date": "2026-11-07T00:00:00+01:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/fotoausstellung-moving-pictures-basel-7516818725326065492.html",
       "image": "https://res.eventfrog.net/bildpaar6-wilde-orang-utan-mutter-mit-baby-copyrig.webp?_=1792149240000",
       "category": "",
