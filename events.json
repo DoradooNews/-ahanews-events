@@ -1,12 +1,12 @@
 {
   "status_code": 200,
-  "count": 10,
-  "locations_loaded": 287,
+  "count": 11,
+  "locations_loaded": 290,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "",
+      "city": "Olten",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-olten-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -90,6 +90,15 @@
       "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/kunstausstellung-marco-benedetti-thun-7513241510558592753.html",
       "image": "https://res.eventfrog.net/benedetti-flyer002-V0XAKTKY.webp?_=1791296366000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "B.ARBIE in Not",
+      "date": "2026-11-10T00:00:00+01:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/freizeit-ausfluege/gruppen-spiele/b-arbie-in-not-basel-7525592306176507977.html",
+      "image": "https://res.eventfrog.net/titelbild-MI0ZBOOL.webp",
       "category": "",
       "debug_has_basel": true
     }
