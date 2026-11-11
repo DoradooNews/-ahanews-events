@@ -1,7 +1,7 @@
 {
   "status_code": 200,
   "count": 11,
-  "locations_loaded": 291,
+  "locations_loaded": 295,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -33,7 +33,7 @@
     {
       "title": "SON CUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T14:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/son-cubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-basel-7453842737651001704.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-son-cubano-2026-b-quer-3247DIU7.webp?_=1783471639000",
       "category": "",
@@ -42,7 +42,7 @@
     {
       "title": "AFROCUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T15:30:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/afrocubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-basel-7453863078964258469.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-afrocubano-2026-b-quer-3CZYDBJZ.webp?_=1783471145000",
       "category": "",
@@ -51,7 +51,7 @@
     {
       "title": "Christine Seiler - Spurensuche",
       "date": "2026-10-15T18:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/christine-seiler-spurensuche-basel-7500927767040508457.html",
       "image": "https://res.eventfrog.net/c-seiler-KPBFYVHX.webp?_=1788360541000",
       "category": "",
@@ -95,9 +95,9 @@
     },
     {
       "title": "B.ARBIE in Not",
-      "date": "2026-11-11T00:00:00+01:00",
+      "date": "2026-11-12T00:00:00+01:00",
       "city": "",
-      "url": "https://eventfrog.ch/de/p/freizeit-ausfluege/gruppen-spiele/b-arbie-in-not-basel-7525592306268782667.html",
+      "url": "https://eventfrog.ch/de/p/freizeit-ausfluege/gruppen-spiele/b-arbie-in-not-basel-7525592306348474445.html",
       "image": "https://res.eventfrog.net/titelbild-MI0ZBOOL.webp",
       "category": "",
       "debug_has_basel": true
