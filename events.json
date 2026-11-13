@@ -1,7 +1,7 @@
 {
   "status_code": 200,
   "count": 10,
-  "locations_loaded": 304,
+  "locations_loaded": 291,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -51,7 +51,7 @@
     {
       "title": "Christine Seiler - Spurensuche",
       "date": "2026-10-15T18:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/christine-seiler-spurensuche-basel-7500927767040508457.html",
       "image": "https://res.eventfrog.net/c-seiler-KPBFYVHX.webp?_=1788360541000",
       "category": "",
