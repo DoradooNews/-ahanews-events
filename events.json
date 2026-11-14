@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 10,
-  "locations_loaded": 292,
+  "count": 11,
+  "locations_loaded": 301,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -51,7 +51,7 @@
     {
       "title": "Christine Seiler - Spurensuche",
       "date": "2026-10-15T18:00:00+02:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/christine-seiler-spurensuche-basel-7500927767040508457.html",
       "image": "https://res.eventfrog.net/c-seiler-KPBFYVHX.webp?_=1788360541000",
       "category": "",
@@ -69,7 +69,7 @@
     {
       "title": "Fotoausstellung MOVING PICTURES",
       "date": "2026-11-07T00:00:00+01:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/fotoausstellung-moving-pictures-basel-7516818725326065492.html",
       "image": "https://res.eventfrog.net/bildpaar6-wilde-orang-utan-mutter-mit-baby-copyrig.webp?_=1792149240000",
       "category": "",
@@ -90,6 +90,15 @@
       "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/kunstausstellung-marco-benedetti-thun-7513241510558592753.html",
       "image": "https://res.eventfrog.net/benedetti-flyer002-V0XAKTKY.webp?_=1791296366000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "B.ARBIE in Not",
+      "date": "2026-11-14T00:00:00+01:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/freizeit-ausfluege/gruppen-spiele/b-arbie-in-not-basel-7525592306503663697.html",
+      "image": "https://res.eventfrog.net/titelbild-MI0ZBOOL.webp",
       "category": "",
       "debug_has_basel": true
     }
