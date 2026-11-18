@@ -1,7 +1,7 @@
 {
   "status_code": 200,
   "count": 9,
-  "locations_loaded": 288,
+  "locations_loaded": 290,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -33,7 +33,7 @@
     {
       "title": "SON CUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T14:00:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/son-cubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-basel-7453842737651001704.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-son-cubano-2026-b-quer-3247DIU7.webp?_=1783471639000",
       "category": "",
@@ -42,7 +42,7 @@
     {
       "title": "AFROCUBANO – Aufbaustufe für erfahrene Anfänger:innen",
       "date": "2026-09-12T15:30:00+02:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kurse-seminare/musik-tanz/afrocubano-aufbaustufe-fuer-erfahrene-anfaenger-innen-basel-7453863078964258469.html",
       "image": "https://res.eventfrog.net/production_res_public/bsc-web-flyer-afrocubano-2026-b-quer-3CZYDBJZ.webp?_=1783471145000",
       "category": "",
@@ -51,7 +51,7 @@
     {
       "title": "Markus Müller – Kantonale Kunstsammlung",
       "date": "2026-10-24T00:00:00+02:00",
-      "city": "Teufen AR",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/markus-mueller-kantonale-kunstsammlung-teufen-ar-7518064786338251604.html",
       "image": "https://res.eventfrog.net/markus-mueller-kantonale-kunstsammlung.webp?_=1792446323000",
       "category": "",
@@ -69,7 +69,7 @@
     {
       "title": "Kunstausstellung: Zakir Makhdoomi",
       "date": "2026-11-07T16:00:00+01:00",
-      "city": "",
+      "city": "Thun",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/kunstausstellung-zakir-makhdoomi-thun-7513245525178624290.html",
       "image": "https://res.eventfrog.net/makhdoomi-img-0467-XERQ53GG.webp?_=1791297323000",
       "category": "",
@@ -78,7 +78,7 @@
     {
       "title": "Kunstausstellung: Marco Benedetti",
       "date": "2026-11-07T16:00:00+01:00",
-      "city": "",
+      "city": "Thun",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/kunstausstellung-marco-benedetti-thun-7513241510558592753.html",
       "image": "https://res.eventfrog.net/benedetti-flyer002-V0XAKTKY.webp?_=1791296366000",
       "category": "",
