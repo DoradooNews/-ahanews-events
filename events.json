@@ -1,7 +1,7 @@
 {
   "status_code": 200,
   "count": 9,
-  "locations_loaded": 284,
+  "locations_loaded": 285,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -60,27 +60,27 @@
     {
       "title": "Fotoausstellung MOVING PICTURES",
       "date": "2026-11-07T00:00:00+01:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/fotoausstellung-moving-pictures-basel-7516818725326065492.html",
       "image": "https://res.eventfrog.net/bildpaar6-wilde-orang-utan-mutter-mit-baby-copyrig.webp?_=1792149240000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "Kunstausstellung: Zakir Makhdoomi",
+      "title": "Kunstausstellung: Marco Benedetti",
       "date": "2026-11-07T16:00:00+01:00",
-      "city": "Thun",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/kunstausstellung-zakir-makhdoomi-thun-7513245525178624290.html",
-      "image": "https://res.eventfrog.net/makhdoomi-img-0467-XERQ53GG.webp?_=1791297323000",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/kunstausstellung-marco-benedetti-thun-7513241510558592753.html",
+      "image": "https://res.eventfrog.net/benedetti-flyer002-V0XAKTKY.webp?_=1791296366000",
       "category": "",
       "debug_has_basel": true
     },
     {
-      "title": "Kunstausstellung: Marco Benedetti",
+      "title": "Kunstausstellung: Zakir Makhdoomi",
       "date": "2026-11-07T16:00:00+01:00",
-      "city": "Thun",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/kunstausstellung-marco-benedetti-thun-7513241510558592753.html",
-      "image": "https://res.eventfrog.net/benedetti-flyer002-V0XAKTKY.webp?_=1791296366000",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/kunstausstellung-zakir-makhdoomi-thun-7513245525178624290.html",
+      "image": "https://res.eventfrog.net/makhdoomi-img-0467-XERQ53GG.webp?_=1791297323000",
       "category": "",
       "debug_has_basel": true
     }
