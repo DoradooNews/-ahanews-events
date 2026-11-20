@@ -1,7 +1,7 @@
 {
   "status_code": 200,
   "count": 9,
-  "locations_loaded": 285,
+  "locations_loaded": 286,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -60,7 +60,7 @@
     {
       "title": "Fotoausstellung MOVING PICTURES",
       "date": "2026-11-07T00:00:00+01:00",
-      "city": "Basel",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/fotoausstellung-moving-pictures-basel-7516818725326065492.html",
       "image": "https://res.eventfrog.net/bildpaar6-wilde-orang-utan-mutter-mit-baby-copyrig.webp?_=1792149240000",
       "category": "",
