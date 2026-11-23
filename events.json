@@ -1,12 +1,12 @@
 {
   "status_code": 200,
-  "count": 10,
-  "locations_loaded": 287,
+  "count": 13,
+  "locations_loaded": 283,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "",
+      "city": "Olten",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-olten-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -78,7 +78,7 @@
     {
       "title": "Junge Kunsttalente 2026",
       "date": "2026-11-20T19:00:00+01:00",
-      "city": "",
+      "city": "Laufen",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/vernissage/junge-kunsttalente-2026-laufen-7491188896421707270.html",
       "image": "https://res.eventfrog.net/production_res_public/junge2026-neu-WS7KQ2PA.webp?_=1786522606000",
       "category": "",
@@ -90,6 +90,33 @@
       "city": "",
       "url": "https://eventfrog.ch/en/p/concerts/other-music-genres/concert-of-improvisation-piano-guitar-basel-7528752797220638594.html",
       "image": "https://res.eventfrog.net/01concert-of-improvisation-in-basel-WXH5LTEC.webp?_=1794994546000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "BelleVue «fern und doch so nah»",
+      "date": "2026-11-22T11:00:00+01:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/fotografie/bellevue-fern-und-doch-so-nah-basel-7523319149314984356.html",
+      "image": "https://res.eventfrog.net/fotografie-regine-flury-9F2D41RZ.webp?_=1793699354000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Sanft entgiften & neue Kraft schöpfen im Fastenhotel",
+      "date": "2026-11-22T15:00:00+01:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/sanft-entgiften-neue-kraft-schoepfen-im-fastenhotel-laeufelfingen-7354086125730820018.html",
+      "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-saftf-H5ZVA84B.webp?_=1783238433000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "Detox Saftfasten für heilsame Regeneration im Fastenhotel",
+      "date": "2026-11-22T15:00:00+01:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/detox-saftfasten-fuer-heilsame-regeneration-im-fastenhotel-laeufelfingen-7356327541341179880.html",
+      "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-inten-6JRHY51O.webp?_=1783286407000",
       "category": "",
       "debug_has_basel": true
     }
