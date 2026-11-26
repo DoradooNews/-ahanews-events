@@ -1,7 +1,7 @@
 {
   "status_code": 200,
-  "count": 13,
-  "locations_loaded": 288,
+  "count": 14,
+  "locations_loaded": 285,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -51,7 +51,7 @@
     {
       "title": "Markus Müller – Kantonale Kunstsammlung",
       "date": "2026-10-24T00:00:00+02:00",
-      "city": "Teufen AR",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/markus-mueller-kantonale-kunstsammlung-teufen-ar-7518064786338251604.html",
       "image": "https://res.eventfrog.net/markus-mueller-kantonale-kunstsammlung.webp?_=1792446323000",
       "category": "",
@@ -60,7 +60,7 @@
     {
       "title": "Kunstausstellung: Zakir Makhdoomi",
       "date": "2026-11-07T16:00:00+01:00",
-      "city": "Thun",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/kunstausstellung-zakir-makhdoomi-thun-7513245525178624290.html",
       "image": "https://res.eventfrog.net/makhdoomi-img-0467-XERQ53GG.webp?_=1791297323000",
       "category": "",
@@ -69,16 +69,25 @@
     {
       "title": "Kunstausstellung: Marco Benedetti",
       "date": "2026-11-07T16:00:00+01:00",
-      "city": "Thun",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/kunstausstellung-marco-benedetti-thun-7513241510558592753.html",
       "image": "https://res.eventfrog.net/benedetti-flyer002-V0XAKTKY.webp?_=1791296366000",
       "category": "",
       "debug_has_basel": true
     },
     {
+      "title": "tanzbar",
+      "date": "2026-11-18T20:00:00+01:00",
+      "city": "Luzern",
+      "url": "https://eventfrog.ch/de/p/partys/disco/tanzbar-luzern-7524122499166039467.html",
+      "image": "https://res.eventfrog.net/production_res_public/party-disco-HJRI1830-VMRA1YMR.webp?_=1783397006000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
       "title": "Junge Kunsttalente 2026",
       "date": "2026-11-20T19:00:00+01:00",
-      "city": "",
+      "city": "Laufen",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/vernissage/junge-kunsttalente-2026-laufen-7491188896421707270.html",
       "image": "https://res.eventfrog.net/production_res_public/junge2026-neu-WS7KQ2PA.webp?_=1786522606000",
       "category": "",
@@ -87,7 +96,7 @@
     {
       "title": "Concert of improvisation: Piano & Guitar",
       "date": "2026-11-20T20:00:00+01:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/en/p/concerts/other-music-genres/concert-of-improvisation-piano-guitar-basel-7528752797220638594.html",
       "image": "https://res.eventfrog.net/01concert-of-improvisation-in-basel-WXH5LTEC.webp?_=1794994546000",
       "category": "",
@@ -105,7 +114,7 @@
     {
       "title": "Sanft entgiften & neue Kraft schöpfen im Fastenhotel",
       "date": "2026-11-22T15:00:00+01:00",
-      "city": "Läufelfingen",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/sanft-entgiften-neue-kraft-schoepfen-im-fastenhotel-laeufelfingen-7354086125730820018.html",
       "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-saftf-H5ZVA84B.webp?_=1783238433000",
       "category": "",
@@ -114,7 +123,7 @@
     {
       "title": "Detox Saftfasten für heilsame Regeneration im Fastenhotel",
       "date": "2026-11-22T15:00:00+01:00",
-      "city": "Läufelfingen",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/detox-saftfasten-fuer-heilsame-regeneration-im-fastenhotel-laeufelfingen-7356327541341179880.html",
       "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-inten-6JRHY51O.webp?_=1783286407000",
       "category": "",
