@@ -1,7 +1,7 @@
 {
   "status_code": 200,
   "count": 14,
-  "locations_loaded": 285,
+  "locations_loaded": 320,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
@@ -51,18 +51,9 @@
     {
       "title": "Markus Müller – Kantonale Kunstsammlung",
       "date": "2026-10-24T00:00:00+02:00",
-      "city": "",
+      "city": "Teufen AR",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/markus-mueller-kantonale-kunstsammlung-teufen-ar-7518064786338251604.html",
       "image": "https://res.eventfrog.net/markus-mueller-kantonale-kunstsammlung.webp?_=1792446323000",
-      "category": "",
-      "debug_has_basel": true
-    },
-    {
-      "title": "Kunstausstellung: Zakir Makhdoomi",
-      "date": "2026-11-07T16:00:00+01:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/kunstausstellung-zakir-makhdoomi-thun-7513245525178624290.html",
-      "image": "https://res.eventfrog.net/makhdoomi-img-0467-XERQ53GG.webp?_=1791297323000",
       "category": "",
       "debug_has_basel": true
     },
@@ -76,18 +67,18 @@
       "debug_has_basel": true
     },
     {
-      "title": "tanzbar",
-      "date": "2026-11-18T20:00:00+01:00",
-      "city": "Luzern",
-      "url": "https://eventfrog.ch/de/p/partys/disco/tanzbar-luzern-7524122499166039467.html",
-      "image": "https://res.eventfrog.net/production_res_public/party-disco-HJRI1830-VMRA1YMR.webp?_=1783397006000",
+      "title": "Kunstausstellung: Zakir Makhdoomi",
+      "date": "2026-11-07T16:00:00+01:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/kunstausstellung-zakir-makhdoomi-thun-7513245525178624290.html",
+      "image": "https://res.eventfrog.net/makhdoomi-img-0467-XERQ53GG.webp?_=1791297323000",
       "category": "",
       "debug_has_basel": true
     },
     {
       "title": "Junge Kunsttalente 2026",
       "date": "2026-11-20T19:00:00+01:00",
-      "city": "Laufen",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/vernissage/junge-kunsttalente-2026-laufen-7491188896421707270.html",
       "image": "https://res.eventfrog.net/production_res_public/junge2026-neu-WS7KQ2PA.webp?_=1786522606000",
       "category": "",
@@ -126,6 +117,15 @@
       "city": "",
       "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/detox-saftfasten-fuer-heilsame-regeneration-im-fastenhotel-laeufelfingen-7356327541341179880.html",
       "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-inten-6JRHY51O.webp?_=1783286407000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "B.ARBIE in Not",
+      "date": "2026-11-26T00:00:00+01:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/freizeit-ausfluege/gruppen-spiele/b-arbie-in-not-basel-7525592308202358174.html",
+      "image": "https://res.eventfrog.net/titelbild-MI0ZBOOL.webp",
       "category": "",
       "debug_has_basel": true
     }
