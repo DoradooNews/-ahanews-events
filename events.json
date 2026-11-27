@@ -1,12 +1,12 @@
 {
   "status_code": 200,
-  "count": 13,
-  "locations_loaded": 319,
+  "count": 15,
+  "locations_loaded": 321,
   "events": [
     {
       "title": "Sammlung konkret – Dialog mit Maja Rieder",
       "date": "2026-08-22T00:00:00+02:00",
-      "city": "Olten",
+      "city": "",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/sammlung-konkret-dialog-mit-maja-rieder-olten-7469753139828123720.html",
       "image": "https://res.eventfrog.net/production_res_public/mr-SS84YSZ5-LSL5RTX4-EH6S07R4.webp?_=1783498961000",
       "category": "",
@@ -58,6 +58,15 @@
       "debug_has_basel": true
     },
     {
+      "title": "Kunstausstellung: Zakir Makhdoomi",
+      "date": "2026-11-07T16:00:00+01:00",
+      "city": "",
+      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/kunstausstellung-zakir-makhdoomi-thun-7513245525178624290.html",
+      "image": "https://res.eventfrog.net/makhdoomi-img-0467-XERQ53GG.webp?_=1791297323000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
       "title": "Kunstausstellung: Marco Benedetti",
       "date": "2026-11-07T16:00:00+01:00",
       "city": "",
@@ -67,11 +76,11 @@
       "debug_has_basel": true
     },
     {
-      "title": "Kunstausstellung: Zakir Makhdoomi",
-      "date": "2026-11-07T16:00:00+01:00",
-      "city": "",
-      "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/ausstellung/kunstausstellung-zakir-makhdoomi-thun-7513245525178624290.html",
-      "image": "https://res.eventfrog.net/makhdoomi-img-0467-XERQ53GG.webp?_=1791297323000",
+      "title": "tanzbar",
+      "date": "2026-11-18T20:00:00+01:00",
+      "city": "Luzern",
+      "url": "https://eventfrog.ch/de/p/partys/disco/tanzbar-luzern-7524122499166039467.html",
+      "image": "https://res.eventfrog.net/production_res_public/party-disco-HJRI1830-VMRA1YMR.webp?_=1783397006000",
       "category": "",
       "debug_has_basel": true
     },
@@ -87,7 +96,7 @@
     {
       "title": "Concert of improvisation: Piano & Guitar",
       "date": "2026-11-20T20:00:00+01:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/en/p/concerts/other-music-genres/concert-of-improvisation-piano-guitar-basel-7528752797220638594.html",
       "image": "https://res.eventfrog.net/01concert-of-improvisation-in-basel-WXH5LTEC.webp?_=1794994546000",
       "category": "",
@@ -96,7 +105,7 @@
     {
       "title": "BelleVue «fern und doch so nah»",
       "date": "2026-11-22T11:00:00+01:00",
-      "city": "",
+      "city": "Basel",
       "url": "https://eventfrog.ch/de/p/kunst-ausstellungen/fotografie/bellevue-fern-und-doch-so-nah-basel-7523319149314984356.html",
       "image": "https://res.eventfrog.net/fotografie-regine-flury-9F2D41RZ.webp?_=1793699354000",
       "category": "",
@@ -117,6 +126,15 @@
       "city": "",
       "url": "https://eventfrog.ch/de/p/gesundheit-spiritualitaet/gesundheit-wohlbefinden/detox-saftfasten-fuer-heilsame-regeneration-im-fastenhotel-laeufelfingen-7356327541341179880.html",
       "image": "https://res.eventfrog.net/production_res_public/banner-eventfrog-784px-x-479px-inten-6JRHY51O.webp?_=1783286407000",
+      "category": "",
+      "debug_has_basel": true
+    },
+    {
+      "title": "B.ARBIE in Not",
+      "date": "2026-11-27T00:00:00+01:00",
+      "city": "Basel",
+      "url": "https://eventfrog.ch/de/p/freizeit-ausfluege/gruppen-spiele/b-arbie-in-not-basel-7525592308277855926.html",
+      "image": "https://res.eventfrog.net/titelbild-MI0ZBOOL.webp",
       "category": "",
       "debug_has_basel": true
     }
